@@ -64,7 +64,7 @@ def handle_login(login_window):
         show_user_info(user)
         show_end_login_button()
     else:
-        messagebox.showerror("Error", "Invalid email or password.")
+        messagebox.showerror("Error", "Correo o contraseña erroneos.")
 
 def show_user_info(user):
     global user_info_label
@@ -87,7 +87,7 @@ def show_user_info(user):
         vote_button = Button(ventana, text="Votar", command=lambda: open_vote_window(user))
         vote_button.place(width=150, x=500, y=500)
     else:
-        user_info_str += f"\nYa has votado. Voto registrado: {int(has_voted)}"  # Assuming 'voto' is an integer
+        user_info_str += f"\nYa has votado. Voto registrado: {str(has_voted)}"  # Assuming 'voto' is an integer
 
     # Display user information
     user_info_label = Label(ventana, text=f"Información:\n{user_info_str}")
@@ -145,7 +145,7 @@ def show_end_login_button():
     global end_login_button
 
     # Create the "End Login" button
-    end_login_button = Button(ventana, text="End Login", command=reset_interface)
+    end_login_button = Button(ventana, text="Salir Sistema", command=reset_interface)
     end_login_button.grid(row=3, column=0, columnspan=2, pady=10)
 
 def reset_interface():
@@ -162,11 +162,12 @@ def reset_interface():
 
 etq_imagen = Label(ventana, image=foto, bg="#FCF8EC")
 etq_imagen.image = foto
+etq_imagen.place(x=0, y=0)
 nombre = Label(ventana, text="Voto Electrónico", bg="#FCF8EC", fg="gray26")
 nombre.configure(font=("Arial", 34))
 
 nombre.place(width=500, x=400, y=200)
-login_button = Button(ventana, text="Open Login Window", command=open_login_window)
+login_button = Button(ventana, text="Entrar Sistema", command=open_login_window)
 login_button.place(width=150, x=500, y=500)
 
 # ...
