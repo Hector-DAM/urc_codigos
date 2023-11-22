@@ -1,0 +1,1251 @@
+nombre1,nombre2,apellido1,apellido2,genero,edad,id,voto,email,password
+Jose,Rogelio,Hidalgo,Cirigo,Hombre,22,1,1,josehidalgo1@urcmac.edu.mx,hidalgojose1
+Jose,Rogelio,Hidalgo,Romero,Hombre,30,2,1,josehidalgo2@urcmac.edu.mx,hidalgojose2
+Jose,Rogelio,Hidalgo,Sanchez,Hombre,27,3,4,josehidalgo3@urcmac.edu.mx,hidalgojose3
+Jose,Rogelio,Hidalgo,Sebastian,Hombre,24,4,5,josehidalgo4@urcmac.edu.mx,hidalgojose4
+Jose,Rogelio,Hidalgo,Martinez,Hombre,24,5,2,josehidalgo5@urcmac.edu.mx,hidalgojose5
+Jose,Rogelio,Ruiz,Cirigo,Hombre,30,6,2,joseruiz6@urcmac.edu.mx,ruizjose6
+Jose,Rogelio,Ruiz,Romero,Hombre,28,7,2,joseruiz7@urcmac.edu.mx,ruizjose7
+Jose,Rogelio,Ruiz,Sanchez,Hombre,27,8,4,joseruiz8@urcmac.edu.mx,ruizjose8
+Jose,Rogelio,Ruiz,Sebastian,Hombre,27,9,5,joseruiz9@urcmac.edu.mx,ruizjose9
+Jose,Rogelio,Ruiz,Martinez,Hombre,23,10,2,joseruiz10@urcmac.edu.mx,ruizjose10
+Jose,Rogelio,Espinosa,Cirigo,Hombre,25,11,2,joseespinosa11@urcmac.edu.mx,espinosajose11
+Jose,Rogelio,Espinosa,Romero,Hombre,27,12,2,joseespinosa12@urcmac.edu.mx,espinosajose12
+Jose,Rogelio,Espinosa,Sanchez,Hombre,23,13,1,joseespinosa13@urcmac.edu.mx,espinosajose13
+Jose,Rogelio,Espinosa,Sebastian,Hombre,25,14,2,joseespinosa14@urcmac.edu.mx,espinosajose14
+Jose,Rogelio,Espinosa,Martinez,Hombre,29,15,3,joseespinosa15@urcmac.edu.mx,espinosajose15
+Jose,Rogelio,Zarate,Cirigo,Hombre,29,16,3,josezarate16@urcmac.edu.mx,zaratejose16
+Jose,Rogelio,Zarate,Romero,Hombre,29,17,3,josezarate17@urcmac.edu.mx,zaratejose17
+Jose,Rogelio,Zarate,Sanchez,Hombre,23,18,3,josezarate18@urcmac.edu.mx,zaratejose18
+Jose,Rogelio,Zarate,Sebastian,Hombre,27,19,2,josezarate19@urcmac.edu.mx,zaratejose19
+Jose,Rogelio,Zarate,Martinez,Hombre,23,20,2,josezarate20@urcmac.edu.mx,zaratejose20
+Jose,Rogelio,Adaya,Cirigo,Hombre,24,21,2,joseadaya21@urcmac.edu.mx,adayajose21
+Jose,Rogelio,Adaya,Romero,Hombre,22,22,2,joseadaya22@urcmac.edu.mx,adayajose22
+Jose,Rogelio,Adaya,Sanchez,Hombre,25,23,4,joseadaya23@urcmac.edu.mx,adayajose23
+Jose,Rogelio,Adaya,Sebastian,Hombre,27,24,5,joseadaya24@urcmac.edu.mx,adayajose24
+Jose,Rogelio,Adaya,Martinez,Hombre,30,25,1,joseadaya25@urcmac.edu.mx,adayajose25
+Jose,Pablo,Hidalgo,Cirigo,Hombre,30,26,3,josehidalgo26@urcmac.edu.mx,hidalgojose26
+Jose,Pablo,Hidalgo,Romero,Hombre,20,27,1,josehidalgo27@urcmac.edu.mx,hidalgojose27
+Jose,Pablo,Hidalgo,Sanchez,Hombre,22,28,2,josehidalgo28@urcmac.edu.mx,hidalgojose28
+Jose,Pablo,Hidalgo,Sebastian,Hombre,24,29,1,josehidalgo29@urcmac.edu.mx,hidalgojose29
+Jose,Pablo,Hidalgo,Martinez,Hombre,21,30,3,josehidalgo30@urcmac.edu.mx,hidalgojose30
+Jose,Pablo,Ruiz,Cirigo,Hombre,30,31,1,joseruiz31@urcmac.edu.mx,ruizjose31
+Jose,Pablo,Ruiz,Romero,Hombre,29,32,5,joseruiz32@urcmac.edu.mx,ruizjose32
+Jose,Pablo,Ruiz,Sanchez,Hombre,23,33,5,joseruiz33@urcmac.edu.mx,ruizjose33
+Jose,Pablo,Ruiz,Sebastian,Hombre,23,34,5,joseruiz34@urcmac.edu.mx,ruizjose34
+Jose,Pablo,Ruiz,Martinez,Hombre,27,35,5,joseruiz35@urcmac.edu.mx,ruizjose35
+Jose,Pablo,Espinosa,Cirigo,Hombre,23,36,2,joseespinosa36@urcmac.edu.mx,espinosajose36
+Jose,Pablo,Espinosa,Romero,Hombre,22,37,5,joseespinosa37@urcmac.edu.mx,espinosajose37
+Jose,Pablo,Espinosa,Sanchez,Hombre,30,38,2,joseespinosa38@urcmac.edu.mx,espinosajose38
+Jose,Pablo,Espinosa,Sebastian,Hombre,23,39,1,joseespinosa39@urcmac.edu.mx,espinosajose39
+Jose,Pablo,Espinosa,Martinez,Hombre,30,40,4,joseespinosa40@urcmac.edu.mx,espinosajose40
+Jose,Pablo,Zarate,Cirigo,Hombre,20,41,4,josezarate41@urcmac.edu.mx,zaratejose41
+Jose,Pablo,Zarate,Romero,Hombre,30,42,2,josezarate42@urcmac.edu.mx,zaratejose42
+Jose,Pablo,Zarate,Sanchez,Hombre,20,43,2,josezarate43@urcmac.edu.mx,zaratejose43
+Jose,Pablo,Zarate,Sebastian,Hombre,27,44,2,josezarate44@urcmac.edu.mx,zaratejose44
+Jose,Pablo,Zarate,Martinez,Hombre,22,45,2,josezarate45@urcmac.edu.mx,zaratejose45
+Jose,Pablo,Adaya,Cirigo,Hombre,21,46,1,joseadaya46@urcmac.edu.mx,adayajose46
+Jose,Pablo,Adaya,Romero,Hombre,24,47,5,joseadaya47@urcmac.edu.mx,adayajose47
+Jose,Pablo,Adaya,Sanchez,Hombre,24,48,4,joseadaya48@urcmac.edu.mx,adayajose48
+Jose,Pablo,Adaya,Sebastian,Hombre,28,49,4,joseadaya49@urcmac.edu.mx,adayajose49
+Jose,Pablo,Adaya,Martinez,Hombre,28,50,5,joseadaya50@urcmac.edu.mx,adayajose50
+Jose,Alfonso,Hidalgo,Cirigo,Hombre,23,51,4,josehidalgo51@urcmac.edu.mx,hidalgojose51
+Jose,Alfonso,Hidalgo,Romero,Hombre,25,52,5,josehidalgo52@urcmac.edu.mx,hidalgojose52
+Jose,Alfonso,Hidalgo,Sanchez,Hombre,23,53,3,josehidalgo53@urcmac.edu.mx,hidalgojose53
+Jose,Alfonso,Hidalgo,Sebastian,Hombre,22,54,2,josehidalgo54@urcmac.edu.mx,hidalgojose54
+Jose,Alfonso,Hidalgo,Martinez,Hombre,23,55,5,josehidalgo55@urcmac.edu.mx,hidalgojose55
+Jose,Alfonso,Ruiz,Cirigo,Hombre,30,56,5,joseruiz56@urcmac.edu.mx,ruizjose56
+Jose,Alfonso,Ruiz,Romero,Hombre,20,57,5,joseruiz57@urcmac.edu.mx,ruizjose57
+Jose,Alfonso,Ruiz,Sanchez,Hombre,23,58,1,joseruiz58@urcmac.edu.mx,ruizjose58
+Jose,Alfonso,Ruiz,Sebastian,Hombre,27,59,3,joseruiz59@urcmac.edu.mx,ruizjose59
+Jose,Alfonso,Ruiz,Martinez,Hombre,28,60,4,joseruiz60@urcmac.edu.mx,ruizjose60
+Jose,Alfonso,Espinosa,Cirigo,Hombre,27,61,2,joseespinosa61@urcmac.edu.mx,espinosajose61
+Jose,Alfonso,Espinosa,Romero,Hombre,27,62,3,joseespinosa62@urcmac.edu.mx,espinosajose62
+Jose,Alfonso,Espinosa,Sanchez,Hombre,22,63,5,joseespinosa63@urcmac.edu.mx,espinosajose63
+Jose,Alfonso,Espinosa,Sebastian,Hombre,30,64,1,joseespinosa64@urcmac.edu.mx,espinosajose64
+Jose,Alfonso,Espinosa,Martinez,Hombre,23,65,2,joseespinosa65@urcmac.edu.mx,espinosajose65
+Jose,Alfonso,Zarate,Cirigo,Hombre,28,66,1,josezarate66@urcmac.edu.mx,zaratejose66
+Jose,Alfonso,Zarate,Romero,Hombre,21,67,1,josezarate67@urcmac.edu.mx,zaratejose67
+Jose,Alfonso,Zarate,Sanchez,Hombre,20,68,1,josezarate68@urcmac.edu.mx,zaratejose68
+Jose,Alfonso,Zarate,Sebastian,Hombre,27,69,2,josezarate69@urcmac.edu.mx,zaratejose69
+Jose,Alfonso,Zarate,Martinez,Hombre,27,70,5,josezarate70@urcmac.edu.mx,zaratejose70
+Jose,Alfonso,Adaya,Cirigo,Hombre,30,71,3,joseadaya71@urcmac.edu.mx,adayajose71
+Jose,Alfonso,Adaya,Romero,Hombre,22,72,2,joseadaya72@urcmac.edu.mx,adayajose72
+Jose,Alfonso,Adaya,Sanchez,Hombre,27,73,4,joseadaya73@urcmac.edu.mx,adayajose73
+Jose,Alfonso,Adaya,Sebastian,Hombre,30,74,2,joseadaya74@urcmac.edu.mx,adayajose74
+Jose,Alfonso,Adaya,Martinez,Hombre,27,75,3,joseadaya75@urcmac.edu.mx,adayajose75
+Jose,,Hidalgo,Cirigo,Hombre,29,76,3,josehidalgo76@urcmac.edu.mx,hidalgojose76
+Jose,,Hidalgo,Romero,Hombre,25,77,1,josehidalgo77@urcmac.edu.mx,hidalgojose77
+Jose,,Hidalgo,Sanchez,Hombre,30,78,1,josehidalgo78@urcmac.edu.mx,hidalgojose78
+Jose,,Hidalgo,Sebastian,Hombre,24,79,1,josehidalgo79@urcmac.edu.mx,hidalgojose79
+Jose,,Hidalgo,Martinez,Hombre,30,80,4,josehidalgo80@urcmac.edu.mx,hidalgojose80
+Jose,,Ruiz,Cirigo,Hombre,28,81,2,joseruiz81@urcmac.edu.mx,ruizjose81
+Jose,,Ruiz,Romero,Hombre,20,82,3,joseruiz82@urcmac.edu.mx,ruizjose82
+Jose,,Ruiz,Sanchez,Hombre,24,83,4,joseruiz83@urcmac.edu.mx,ruizjose83
+Jose,,Ruiz,Sebastian,Hombre,21,84,4,joseruiz84@urcmac.edu.mx,ruizjose84
+Jose,,Ruiz,Martinez,Hombre,28,85,4,joseruiz85@urcmac.edu.mx,ruizjose85
+Jose,,Espinosa,Cirigo,Hombre,24,86,2,joseespinosa86@urcmac.edu.mx,espinosajose86
+Jose,,Espinosa,Romero,Hombre,30,87,2,joseespinosa87@urcmac.edu.mx,espinosajose87
+Jose,,Espinosa,Sanchez,Hombre,28,88,5,joseespinosa88@urcmac.edu.mx,espinosajose88
+Jose,,Espinosa,Sebastian,Hombre,26,89,4,joseespinosa89@urcmac.edu.mx,espinosajose89
+Jose,,Espinosa,Martinez,Hombre,21,90,1,joseespinosa90@urcmac.edu.mx,espinosajose90
+Jose,,Zarate,Cirigo,Hombre,29,91,4,josezarate91@urcmac.edu.mx,zaratejose91
+Jose,,Zarate,Romero,Hombre,30,92,4,josezarate92@urcmac.edu.mx,zaratejose92
+Jose,,Zarate,Sanchez,Hombre,23,93,2,josezarate93@urcmac.edu.mx,zaratejose93
+Jose,,Zarate,Sebastian,Hombre,25,94,1,josezarate94@urcmac.edu.mx,zaratejose94
+Jose,,Zarate,Martinez,Hombre,25,95,2,josezarate95@urcmac.edu.mx,zaratejose95
+Jose,,Adaya,Cirigo,Hombre,26,96,4,joseadaya96@urcmac.edu.mx,adayajose96
+Jose,,Adaya,Romero,Hombre,21,97,4,joseadaya97@urcmac.edu.mx,adayajose97
+Jose,,Adaya,Sanchez,Hombre,27,98,5,joseadaya98@urcmac.edu.mx,adayajose98
+Jose,,Adaya,Sebastian,Hombre,22,99,2,joseadaya99@urcmac.edu.mx,adayajose99
+Jose,,Adaya,Martinez,Hombre,21,100,2,joseadaya100@urcmac.edu.mx,adayajose100
+Jose,Donaji,Hidalgo,Cirigo,Hombre,20,101,3,josehidalgo101@urcmac.edu.mx,hidalgojose101
+Jose,Donaji,Hidalgo,Romero,Hombre,23,102,1,josehidalgo102@urcmac.edu.mx,hidalgojose102
+Jose,Donaji,Hidalgo,Sanchez,Hombre,28,103,2,josehidalgo103@urcmac.edu.mx,hidalgojose103
+Jose,Donaji,Hidalgo,Sebastian,Hombre,20,104,3,josehidalgo104@urcmac.edu.mx,hidalgojose104
+Jose,Donaji,Hidalgo,Martinez,Hombre,29,105,2,josehidalgo105@urcmac.edu.mx,hidalgojose105
+Jose,Donaji,Ruiz,Cirigo,Hombre,26,106,5,joseruiz106@urcmac.edu.mx,ruizjose106
+Jose,Donaji,Ruiz,Romero,Hombre,29,107,1,joseruiz107@urcmac.edu.mx,ruizjose107
+Jose,Donaji,Ruiz,Sanchez,Hombre,21,108,3,joseruiz108@urcmac.edu.mx,ruizjose108
+Jose,Donaji,Ruiz,Sebastian,Hombre,24,109,3,joseruiz109@urcmac.edu.mx,ruizjose109
+Jose,Donaji,Ruiz,Martinez,Hombre,25,110,3,joseruiz110@urcmac.edu.mx,ruizjose110
+Jose,Donaji,Espinosa,Cirigo,Hombre,28,111,1,joseespinosa111@urcmac.edu.mx,espinosajose111
+Jose,Donaji,Espinosa,Romero,Hombre,21,112,4,joseespinosa112@urcmac.edu.mx,espinosajose112
+Jose,Donaji,Espinosa,Sanchez,Hombre,30,113,3,joseespinosa113@urcmac.edu.mx,espinosajose113
+Jose,Donaji,Espinosa,Sebastian,Hombre,21,114,1,joseespinosa114@urcmac.edu.mx,espinosajose114
+Jose,Donaji,Espinosa,Martinez,Hombre,27,115,5,joseespinosa115@urcmac.edu.mx,espinosajose115
+Jose,Donaji,Zarate,Cirigo,Hombre,28,116,4,josezarate116@urcmac.edu.mx,zaratejose116
+Jose,Donaji,Zarate,Romero,Hombre,30,117,5,josezarate117@urcmac.edu.mx,zaratejose117
+Jose,Donaji,Zarate,Sanchez,Hombre,24,118,2,josezarate118@urcmac.edu.mx,zaratejose118
+Jose,Donaji,Zarate,Sebastian,Hombre,28,119,4,josezarate119@urcmac.edu.mx,zaratejose119
+Jose,Donaji,Zarate,Martinez,Hombre,21,120,3,josezarate120@urcmac.edu.mx,zaratejose120
+Jose,Donaji,Adaya,Cirigo,Hombre,28,121,3,joseadaya121@urcmac.edu.mx,adayajose121
+Jose,Donaji,Adaya,Romero,Hombre,22,122,1,joseadaya122@urcmac.edu.mx,adayajose122
+Jose,Donaji,Adaya,Sanchez,Hombre,28,123,5,joseadaya123@urcmac.edu.mx,adayajose123
+Jose,Donaji,Adaya,Sebastian,Hombre,24,124,2,joseadaya124@urcmac.edu.mx,adayajose124
+Jose,Donaji,Adaya,Martinez,Hombre,23,125,4,joseadaya125@urcmac.edu.mx,adayajose125
+Juan ,Rogelio,Hidalgo,Cirigo,Hombre,21,126,1,juan hidalgo126@urcmac.edu.mx,hidalgojuan 126
+Juan ,Rogelio,Hidalgo,Romero,Hombre,27,127,4,juan hidalgo127@urcmac.edu.mx,hidalgojuan 127
+Juan ,Rogelio,Hidalgo,Sanchez,Hombre,20,128,2,juan hidalgo128@urcmac.edu.mx,hidalgojuan 128
+Juan ,Rogelio,Hidalgo,Sebastian,Hombre,21,129,2,juan hidalgo129@urcmac.edu.mx,hidalgojuan 129
+Juan ,Rogelio,Hidalgo,Martinez,Hombre,27,130,2,juan hidalgo130@urcmac.edu.mx,hidalgojuan 130
+Juan ,Rogelio,Ruiz,Cirigo,Hombre,27,131,2,juan ruiz131@urcmac.edu.mx,ruizjuan 131
+Juan ,Rogelio,Ruiz,Romero,Hombre,20,132,1,juan ruiz132@urcmac.edu.mx,ruizjuan 132
+Juan ,Rogelio,Ruiz,Sanchez,Hombre,30,133,2,juan ruiz133@urcmac.edu.mx,ruizjuan 133
+Juan ,Rogelio,Ruiz,Sebastian,Hombre,21,134,4,juan ruiz134@urcmac.edu.mx,ruizjuan 134
+Juan ,Rogelio,Ruiz,Martinez,Hombre,20,135,5,juan ruiz135@urcmac.edu.mx,ruizjuan 135
+Juan ,Rogelio,Espinosa,Cirigo,Hombre,23,136,2,juan espinosa136@urcmac.edu.mx,espinosajuan 136
+Juan ,Rogelio,Espinosa,Romero,Hombre,24,137,1,juan espinosa137@urcmac.edu.mx,espinosajuan 137
+Juan ,Rogelio,Espinosa,Sanchez,Hombre,27,138,5,juan espinosa138@urcmac.edu.mx,espinosajuan 138
+Juan ,Rogelio,Espinosa,Sebastian,Hombre,22,139,5,juan espinosa139@urcmac.edu.mx,espinosajuan 139
+Juan ,Rogelio,Espinosa,Martinez,Hombre,21,140,1,juan espinosa140@urcmac.edu.mx,espinosajuan 140
+Juan ,Rogelio,Zarate,Cirigo,Hombre,28,141,5,juan zarate141@urcmac.edu.mx,zaratejuan 141
+Juan ,Rogelio,Zarate,Romero,Hombre,29,142,1,juan zarate142@urcmac.edu.mx,zaratejuan 142
+Juan ,Rogelio,Zarate,Sanchez,Hombre,26,143,3,juan zarate143@urcmac.edu.mx,zaratejuan 143
+Juan ,Rogelio,Zarate,Sebastian,Hombre,30,144,3,juan zarate144@urcmac.edu.mx,zaratejuan 144
+Juan ,Rogelio,Zarate,Martinez,Hombre,23,145,3,juan zarate145@urcmac.edu.mx,zaratejuan 145
+Juan ,Rogelio,Adaya,Cirigo,Hombre,26,146,3,juan adaya146@urcmac.edu.mx,adayajuan 146
+Juan ,Rogelio,Adaya,Romero,Hombre,22,147,1,juan adaya147@urcmac.edu.mx,adayajuan 147
+Juan ,Rogelio,Adaya,Sanchez,Hombre,22,148,3,juan adaya148@urcmac.edu.mx,adayajuan 148
+Juan ,Rogelio,Adaya,Sebastian,Hombre,23,149,1,juan adaya149@urcmac.edu.mx,adayajuan 149
+Juan ,Rogelio,Adaya,Martinez,Hombre,20,150,5,juan adaya150@urcmac.edu.mx,adayajuan 150
+Juan ,Pablo,Hidalgo,Cirigo,Hombre,22,151,5,juan hidalgo151@urcmac.edu.mx,hidalgojuan 151
+Juan ,Pablo,Hidalgo,Romero,Hombre,24,152,3,juan hidalgo152@urcmac.edu.mx,hidalgojuan 152
+Juan ,Pablo,Hidalgo,Sanchez,Hombre,28,153,2,juan hidalgo153@urcmac.edu.mx,hidalgojuan 153
+Juan ,Pablo,Hidalgo,Sebastian,Hombre,26,154,2,juan hidalgo154@urcmac.edu.mx,hidalgojuan 154
+Juan ,Pablo,Hidalgo,Martinez,Hombre,21,155,1,juan hidalgo155@urcmac.edu.mx,hidalgojuan 155
+Juan ,Pablo,Ruiz,Cirigo,Hombre,28,156,3,juan ruiz156@urcmac.edu.mx,ruizjuan 156
+Juan ,Pablo,Ruiz,Romero,Hombre,24,157,5,juan ruiz157@urcmac.edu.mx,ruizjuan 157
+Juan ,Pablo,Ruiz,Sanchez,Hombre,25,158,3,juan ruiz158@urcmac.edu.mx,ruizjuan 158
+Juan ,Pablo,Ruiz,Sebastian,Hombre,20,159,4,juan ruiz159@urcmac.edu.mx,ruizjuan 159
+Juan ,Pablo,Ruiz,Martinez,Hombre,21,160,1,juan ruiz160@urcmac.edu.mx,ruizjuan 160
+Juan ,Pablo,Espinosa,Cirigo,Hombre,21,161,1,juan espinosa161@urcmac.edu.mx,espinosajuan 161
+Juan ,Pablo,Espinosa,Romero,Hombre,22,162,5,juan espinosa162@urcmac.edu.mx,espinosajuan 162
+Juan ,Pablo,Espinosa,Sanchez,Hombre,25,163,5,juan espinosa163@urcmac.edu.mx,espinosajuan 163
+Juan ,Pablo,Espinosa,Sebastian,Hombre,23,164,4,juan espinosa164@urcmac.edu.mx,espinosajuan 164
+Juan ,Pablo,Espinosa,Martinez,Hombre,21,165,2,juan espinosa165@urcmac.edu.mx,espinosajuan 165
+Juan ,Pablo,Zarate,Cirigo,Hombre,28,166,3,juan zarate166@urcmac.edu.mx,zaratejuan 166
+Juan ,Pablo,Zarate,Romero,Hombre,27,167,4,juan zarate167@urcmac.edu.mx,zaratejuan 167
+Juan ,Pablo,Zarate,Sanchez,Hombre,28,168,3,juan zarate168@urcmac.edu.mx,zaratejuan 168
+Juan ,Pablo,Zarate,Sebastian,Hombre,24,169,4,juan zarate169@urcmac.edu.mx,zaratejuan 169
+Juan ,Pablo,Zarate,Martinez,Hombre,23,170,3,juan zarate170@urcmac.edu.mx,zaratejuan 170
+Juan ,Pablo,Adaya,Cirigo,Hombre,26,171,2,juan adaya171@urcmac.edu.mx,adayajuan 171
+Juan ,Pablo,Adaya,Romero,Hombre,22,172,4,juan adaya172@urcmac.edu.mx,adayajuan 172
+Juan ,Pablo,Adaya,Sanchez,Hombre,30,173,1,juan adaya173@urcmac.edu.mx,adayajuan 173
+Juan ,Pablo,Adaya,Sebastian,Hombre,22,174,2,juan adaya174@urcmac.edu.mx,adayajuan 174
+Juan ,Pablo,Adaya,Martinez,Hombre,27,175,4,juan adaya175@urcmac.edu.mx,adayajuan 175
+Juan ,Alfonso,Hidalgo,Cirigo,Hombre,25,176,2,juan hidalgo176@urcmac.edu.mx,hidalgojuan 176
+Juan ,Alfonso,Hidalgo,Romero,Hombre,30,177,1,juan hidalgo177@urcmac.edu.mx,hidalgojuan 177
+Juan ,Alfonso,Hidalgo,Sanchez,Hombre,22,178,2,juan hidalgo178@urcmac.edu.mx,hidalgojuan 178
+Juan ,Alfonso,Hidalgo,Sebastian,Hombre,20,179,4,juan hidalgo179@urcmac.edu.mx,hidalgojuan 179
+Juan ,Alfonso,Hidalgo,Martinez,Hombre,21,180,4,juan hidalgo180@urcmac.edu.mx,hidalgojuan 180
+Juan ,Alfonso,Ruiz,Cirigo,Hombre,20,181,1,juan ruiz181@urcmac.edu.mx,ruizjuan 181
+Juan ,Alfonso,Ruiz,Romero,Hombre,21,182,1,juan ruiz182@urcmac.edu.mx,ruizjuan 182
+Juan ,Alfonso,Ruiz,Sanchez,Hombre,28,183,1,juan ruiz183@urcmac.edu.mx,ruizjuan 183
+Juan ,Alfonso,Ruiz,Sebastian,Hombre,23,184,5,juan ruiz184@urcmac.edu.mx,ruizjuan 184
+Juan ,Alfonso,Ruiz,Martinez,Hombre,29,185,5,juan ruiz185@urcmac.edu.mx,ruizjuan 185
+Juan ,Alfonso,Espinosa,Cirigo,Hombre,26,186,3,juan espinosa186@urcmac.edu.mx,espinosajuan 186
+Juan ,Alfonso,Espinosa,Romero,Hombre,21,187,2,juan espinosa187@urcmac.edu.mx,espinosajuan 187
+Juan ,Alfonso,Espinosa,Sanchez,Hombre,25,188,2,juan espinosa188@urcmac.edu.mx,espinosajuan 188
+Juan ,Alfonso,Espinosa,Sebastian,Hombre,26,189,2,juan espinosa189@urcmac.edu.mx,espinosajuan 189
+Juan ,Alfonso,Espinosa,Martinez,Hombre,26,190,1,juan espinosa190@urcmac.edu.mx,espinosajuan 190
+Juan ,Alfonso,Zarate,Cirigo,Hombre,20,191,3,juan zarate191@urcmac.edu.mx,zaratejuan 191
+Juan ,Alfonso,Zarate,Romero,Hombre,26,192,1,juan zarate192@urcmac.edu.mx,zaratejuan 192
+Juan ,Alfonso,Zarate,Sanchez,Hombre,22,193,1,juan zarate193@urcmac.edu.mx,zaratejuan 193
+Juan ,Alfonso,Zarate,Sebastian,Hombre,25,194,4,juan zarate194@urcmac.edu.mx,zaratejuan 194
+Juan ,Alfonso,Zarate,Martinez,Hombre,24,195,4,juan zarate195@urcmac.edu.mx,zaratejuan 195
+Juan ,Alfonso,Adaya,Cirigo,Hombre,22,196,5,juan adaya196@urcmac.edu.mx,adayajuan 196
+Juan ,Alfonso,Adaya,Romero,Hombre,22,197,5,juan adaya197@urcmac.edu.mx,adayajuan 197
+Juan ,Alfonso,Adaya,Sanchez,Hombre,28,198,4,juan adaya198@urcmac.edu.mx,adayajuan 198
+Juan ,Alfonso,Adaya,Sebastian,Hombre,29,199,2,juan adaya199@urcmac.edu.mx,adayajuan 199
+Juan ,Alfonso,Adaya,Martinez,Hombre,21,200,3,juan adaya200@urcmac.edu.mx,adayajuan 200
+Juan ,,Hidalgo,Cirigo,Hombre,21,201,4,juan hidalgo201@urcmac.edu.mx,hidalgojuan 201
+Juan ,,Hidalgo,Romero,Hombre,26,202,3,juan hidalgo202@urcmac.edu.mx,hidalgojuan 202
+Juan ,,Hidalgo,Sanchez,Hombre,20,203,4,juan hidalgo203@urcmac.edu.mx,hidalgojuan 203
+Juan ,,Hidalgo,Sebastian,Hombre,23,204,5,juan hidalgo204@urcmac.edu.mx,hidalgojuan 204
+Juan ,,Hidalgo,Martinez,Hombre,22,205,3,juan hidalgo205@urcmac.edu.mx,hidalgojuan 205
+Juan ,,Ruiz,Cirigo,Hombre,22,206,4,juan ruiz206@urcmac.edu.mx,ruizjuan 206
+Juan ,,Ruiz,Romero,Hombre,21,207,3,juan ruiz207@urcmac.edu.mx,ruizjuan 207
+Juan ,,Ruiz,Sanchez,Hombre,23,208,3,juan ruiz208@urcmac.edu.mx,ruizjuan 208
+Juan ,,Ruiz,Sebastian,Hombre,29,209,4,juan ruiz209@urcmac.edu.mx,ruizjuan 209
+Juan ,,Ruiz,Martinez,Hombre,28,210,3,juan ruiz210@urcmac.edu.mx,ruizjuan 210
+Juan ,,Espinosa,Cirigo,Hombre,23,211,4,juan espinosa211@urcmac.edu.mx,espinosajuan 211
+Juan ,,Espinosa,Romero,Hombre,21,212,5,juan espinosa212@urcmac.edu.mx,espinosajuan 212
+Juan ,,Espinosa,Sanchez,Hombre,20,213,1,juan espinosa213@urcmac.edu.mx,espinosajuan 213
+Juan ,,Espinosa,Sebastian,Hombre,20,214,1,juan espinosa214@urcmac.edu.mx,espinosajuan 214
+Juan ,,Espinosa,Martinez,Hombre,29,215,5,juan espinosa215@urcmac.edu.mx,espinosajuan 215
+Juan ,,Zarate,Cirigo,Hombre,23,216,4,juan zarate216@urcmac.edu.mx,zaratejuan 216
+Juan ,,Zarate,Romero,Hombre,26,217,5,juan zarate217@urcmac.edu.mx,zaratejuan 217
+Juan ,,Zarate,Sanchez,Hombre,21,218,4,juan zarate218@urcmac.edu.mx,zaratejuan 218
+Juan ,,Zarate,Sebastian,Hombre,26,219,3,juan zarate219@urcmac.edu.mx,zaratejuan 219
+Juan ,,Zarate,Martinez,Hombre,29,220,3,juan zarate220@urcmac.edu.mx,zaratejuan 220
+Juan ,,Adaya,Cirigo,Hombre,26,221,2,juan adaya221@urcmac.edu.mx,adayajuan 221
+Juan ,,Adaya,Romero,Hombre,21,222,3,juan adaya222@urcmac.edu.mx,adayajuan 222
+Juan ,,Adaya,Sanchez,Hombre,20,223,3,juan adaya223@urcmac.edu.mx,adayajuan 223
+Juan ,,Adaya,Sebastian,Hombre,21,224,3,juan adaya224@urcmac.edu.mx,adayajuan 224
+Juan ,,Adaya,Martinez,Hombre,30,225,4,juan adaya225@urcmac.edu.mx,adayajuan 225
+Juan ,Donaji,Hidalgo,Cirigo,Hombre,21,226,3,juan hidalgo226@urcmac.edu.mx,hidalgojuan 226
+Juan ,Donaji,Hidalgo,Romero,Hombre,20,227,4,juan hidalgo227@urcmac.edu.mx,hidalgojuan 227
+Juan ,Donaji,Hidalgo,Sanchez,Hombre,29,228,2,juan hidalgo228@urcmac.edu.mx,hidalgojuan 228
+Juan ,Donaji,Hidalgo,Sebastian,Hombre,23,229,5,juan hidalgo229@urcmac.edu.mx,hidalgojuan 229
+Juan ,Donaji,Hidalgo,Martinez,Hombre,25,230,5,juan hidalgo230@urcmac.edu.mx,hidalgojuan 230
+Juan ,Donaji,Ruiz,Cirigo,Hombre,23,231,5,juan ruiz231@urcmac.edu.mx,ruizjuan 231
+Juan ,Donaji,Ruiz,Romero,Hombre,29,232,5,juan ruiz232@urcmac.edu.mx,ruizjuan 232
+Juan ,Donaji,Ruiz,Sanchez,Hombre,29,233,4,juan ruiz233@urcmac.edu.mx,ruizjuan 233
+Juan ,Donaji,Ruiz,Sebastian,Hombre,27,234,1,juan ruiz234@urcmac.edu.mx,ruizjuan 234
+Juan ,Donaji,Ruiz,Martinez,Hombre,28,235,1,juan ruiz235@urcmac.edu.mx,ruizjuan 235
+Juan ,Donaji,Espinosa,Cirigo,Hombre,23,236,1,juan espinosa236@urcmac.edu.mx,espinosajuan 236
+Juan ,Donaji,Espinosa,Romero,Hombre,24,237,5,juan espinosa237@urcmac.edu.mx,espinosajuan 237
+Juan ,Donaji,Espinosa,Sanchez,Hombre,29,238,5,juan espinosa238@urcmac.edu.mx,espinosajuan 238
+Juan ,Donaji,Espinosa,Sebastian,Hombre,24,239,3,juan espinosa239@urcmac.edu.mx,espinosajuan 239
+Juan ,Donaji,Espinosa,Martinez,Hombre,21,240,5,juan espinosa240@urcmac.edu.mx,espinosajuan 240
+Juan ,Donaji,Zarate,Cirigo,Hombre,26,241,4,juan zarate241@urcmac.edu.mx,zaratejuan 241
+Juan ,Donaji,Zarate,Romero,Hombre,27,242,2,juan zarate242@urcmac.edu.mx,zaratejuan 242
+Juan ,Donaji,Zarate,Sanchez,Hombre,25,243,5,juan zarate243@urcmac.edu.mx,zaratejuan 243
+Juan ,Donaji,Zarate,Sebastian,Hombre,23,244,2,juan zarate244@urcmac.edu.mx,zaratejuan 244
+Juan ,Donaji,Zarate,Martinez,Hombre,30,245,5,juan zarate245@urcmac.edu.mx,zaratejuan 245
+Juan ,Donaji,Adaya,Cirigo,Hombre,21,246,4,juan adaya246@urcmac.edu.mx,adayajuan 246
+Juan ,Donaji,Adaya,Romero,Hombre,28,247,1,juan adaya247@urcmac.edu.mx,adayajuan 247
+Juan ,Donaji,Adaya,Sanchez,Hombre,29,248,3,juan adaya248@urcmac.edu.mx,adayajuan 248
+Juan ,Donaji,Adaya,Sebastian,Hombre,26,249,1,juan adaya249@urcmac.edu.mx,adayajuan 249
+Juan ,Donaji,Adaya,Martinez,Hombre,26,250,1,juan adaya250@urcmac.edu.mx,adayajuan 250
+Albert,Rogelio,Hidalgo,Cirigo,Hombre,21,251,1,alberthidalgo251@urcmac.edu.mx,hidalgoalbert251
+Albert,Rogelio,Hidalgo,Romero,Hombre,29,252,1,alberthidalgo252@urcmac.edu.mx,hidalgoalbert252
+Albert,Rogelio,Hidalgo,Sanchez,Hombre,27,253,4,alberthidalgo253@urcmac.edu.mx,hidalgoalbert253
+Albert,Rogelio,Hidalgo,Sebastian,Hombre,30,254,3,alberthidalgo254@urcmac.edu.mx,hidalgoalbert254
+Albert,Rogelio,Hidalgo,Martinez,Hombre,29,255,2,alberthidalgo255@urcmac.edu.mx,hidalgoalbert255
+Albert,Rogelio,Ruiz,Cirigo,Hombre,29,256,3,albertruiz256@urcmac.edu.mx,ruizalbert256
+Albert,Rogelio,Ruiz,Romero,Hombre,22,257,4,albertruiz257@urcmac.edu.mx,ruizalbert257
+Albert,Rogelio,Ruiz,Sanchez,Hombre,23,258,1,albertruiz258@urcmac.edu.mx,ruizalbert258
+Albert,Rogelio,Ruiz,Sebastian,Hombre,21,259,1,albertruiz259@urcmac.edu.mx,ruizalbert259
+Albert,Rogelio,Ruiz,Martinez,Hombre,25,260,3,albertruiz260@urcmac.edu.mx,ruizalbert260
+Albert,Rogelio,Espinosa,Cirigo,Hombre,20,261,5,albertespinosa261@urcmac.edu.mx,espinosaalbert261
+Albert,Rogelio,Espinosa,Romero,Hombre,26,262,1,albertespinosa262@urcmac.edu.mx,espinosaalbert262
+Albert,Rogelio,Espinosa,Sanchez,Hombre,24,263,3,albertespinosa263@urcmac.edu.mx,espinosaalbert263
+Albert,Rogelio,Espinosa,Sebastian,Hombre,22,264,5,albertespinosa264@urcmac.edu.mx,espinosaalbert264
+Albert,Rogelio,Espinosa,Martinez,Hombre,25,265,4,albertespinosa265@urcmac.edu.mx,espinosaalbert265
+Albert,Rogelio,Zarate,Cirigo,Hombre,28,266,3,albertzarate266@urcmac.edu.mx,zaratealbert266
+Albert,Rogelio,Zarate,Romero,Hombre,27,267,4,albertzarate267@urcmac.edu.mx,zaratealbert267
+Albert,Rogelio,Zarate,Sanchez,Hombre,20,268,1,albertzarate268@urcmac.edu.mx,zaratealbert268
+Albert,Rogelio,Zarate,Sebastian,Hombre,24,269,1,albertzarate269@urcmac.edu.mx,zaratealbert269
+Albert,Rogelio,Zarate,Martinez,Hombre,27,270,4,albertzarate270@urcmac.edu.mx,zaratealbert270
+Albert,Rogelio,Adaya,Cirigo,Hombre,21,271,2,albertadaya271@urcmac.edu.mx,adayaalbert271
+Albert,Rogelio,Adaya,Romero,Hombre,23,272,5,albertadaya272@urcmac.edu.mx,adayaalbert272
+Albert,Rogelio,Adaya,Sanchez,Hombre,21,273,4,albertadaya273@urcmac.edu.mx,adayaalbert273
+Albert,Rogelio,Adaya,Sebastian,Hombre,23,274,3,albertadaya274@urcmac.edu.mx,adayaalbert274
+Albert,Rogelio,Adaya,Martinez,Hombre,27,275,5,albertadaya275@urcmac.edu.mx,adayaalbert275
+Albert,Pablo,Hidalgo,Cirigo,Hombre,26,276,3,alberthidalgo276@urcmac.edu.mx,hidalgoalbert276
+Albert,Pablo,Hidalgo,Romero,Hombre,27,277,4,alberthidalgo277@urcmac.edu.mx,hidalgoalbert277
+Albert,Pablo,Hidalgo,Sanchez,Hombre,26,278,4,alberthidalgo278@urcmac.edu.mx,hidalgoalbert278
+Albert,Pablo,Hidalgo,Sebastian,Hombre,20,279,1,alberthidalgo279@urcmac.edu.mx,hidalgoalbert279
+Albert,Pablo,Hidalgo,Martinez,Hombre,25,280,2,alberthidalgo280@urcmac.edu.mx,hidalgoalbert280
+Albert,Pablo,Ruiz,Cirigo,Hombre,29,281,2,albertruiz281@urcmac.edu.mx,ruizalbert281
+Albert,Pablo,Ruiz,Romero,Hombre,28,282,1,albertruiz282@urcmac.edu.mx,ruizalbert282
+Albert,Pablo,Ruiz,Sanchez,Hombre,29,283,2,albertruiz283@urcmac.edu.mx,ruizalbert283
+Albert,Pablo,Ruiz,Sebastian,Hombre,25,284,3,albertruiz284@urcmac.edu.mx,ruizalbert284
+Albert,Pablo,Ruiz,Martinez,Hombre,21,285,1,albertruiz285@urcmac.edu.mx,ruizalbert285
+Albert,Pablo,Espinosa,Cirigo,Hombre,22,286,4,albertespinosa286@urcmac.edu.mx,espinosaalbert286
+Albert,Pablo,Espinosa,Romero,Hombre,28,287,4,albertespinosa287@urcmac.edu.mx,espinosaalbert287
+Albert,Pablo,Espinosa,Sanchez,Hombre,23,288,1,albertespinosa288@urcmac.edu.mx,espinosaalbert288
+Albert,Pablo,Espinosa,Sebastian,Hombre,23,289,2,albertespinosa289@urcmac.edu.mx,espinosaalbert289
+Albert,Pablo,Espinosa,Martinez,Hombre,23,290,3,albertespinosa290@urcmac.edu.mx,espinosaalbert290
+Albert,Pablo,Zarate,Cirigo,Hombre,28,291,2,albertzarate291@urcmac.edu.mx,zaratealbert291
+Albert,Pablo,Zarate,Romero,Hombre,28,292,4,albertzarate292@urcmac.edu.mx,zaratealbert292
+Albert,Pablo,Zarate,Sanchez,Hombre,25,293,5,albertzarate293@urcmac.edu.mx,zaratealbert293
+Albert,Pablo,Zarate,Sebastian,Hombre,30,294,3,albertzarate294@urcmac.edu.mx,zaratealbert294
+Albert,Pablo,Zarate,Martinez,Hombre,22,295,4,albertzarate295@urcmac.edu.mx,zaratealbert295
+Albert,Pablo,Adaya,Cirigo,Hombre,22,296,3,albertadaya296@urcmac.edu.mx,adayaalbert296
+Albert,Pablo,Adaya,Romero,Hombre,28,297,3,albertadaya297@urcmac.edu.mx,adayaalbert297
+Albert,Pablo,Adaya,Sanchez,Hombre,30,298,3,albertadaya298@urcmac.edu.mx,adayaalbert298
+Albert,Pablo,Adaya,Sebastian,Hombre,27,299,3,albertadaya299@urcmac.edu.mx,adayaalbert299
+Albert,Pablo,Adaya,Martinez,Hombre,28,300,5,albertadaya300@urcmac.edu.mx,adayaalbert300
+Albert,Alfonso,Hidalgo,Cirigo,Hombre,30,301,5,alberthidalgo301@urcmac.edu.mx,hidalgoalbert301
+Albert,Alfonso,Hidalgo,Romero,Hombre,22,302,4,alberthidalgo302@urcmac.edu.mx,hidalgoalbert302
+Albert,Alfonso,Hidalgo,Sanchez,Hombre,30,303,3,alberthidalgo303@urcmac.edu.mx,hidalgoalbert303
+Albert,Alfonso,Hidalgo,Sebastian,Hombre,25,304,3,alberthidalgo304@urcmac.edu.mx,hidalgoalbert304
+Albert,Alfonso,Hidalgo,Martinez,Hombre,20,305,2,alberthidalgo305@urcmac.edu.mx,hidalgoalbert305
+Albert,Alfonso,Ruiz,Cirigo,Hombre,20,306,4,albertruiz306@urcmac.edu.mx,ruizalbert306
+Albert,Alfonso,Ruiz,Romero,Hombre,21,307,2,albertruiz307@urcmac.edu.mx,ruizalbert307
+Albert,Alfonso,Ruiz,Sanchez,Hombre,30,308,5,albertruiz308@urcmac.edu.mx,ruizalbert308
+Albert,Alfonso,Ruiz,Sebastian,Hombre,26,309,3,albertruiz309@urcmac.edu.mx,ruizalbert309
+Albert,Alfonso,Ruiz,Martinez,Hombre,24,310,3,albertruiz310@urcmac.edu.mx,ruizalbert310
+Albert,Alfonso,Espinosa,Cirigo,Hombre,20,311,2,albertespinosa311@urcmac.edu.mx,espinosaalbert311
+Albert,Alfonso,Espinosa,Romero,Hombre,27,312,4,albertespinosa312@urcmac.edu.mx,espinosaalbert312
+Albert,Alfonso,Espinosa,Sanchez,Hombre,26,313,2,albertespinosa313@urcmac.edu.mx,espinosaalbert313
+Albert,Alfonso,Espinosa,Sebastian,Hombre,30,314,2,albertespinosa314@urcmac.edu.mx,espinosaalbert314
+Albert,Alfonso,Espinosa,Martinez,Hombre,30,315,4,albertespinosa315@urcmac.edu.mx,espinosaalbert315
+Albert,Alfonso,Zarate,Cirigo,Hombre,30,316,3,albertzarate316@urcmac.edu.mx,zaratealbert316
+Albert,Alfonso,Zarate,Romero,Hombre,29,317,3,albertzarate317@urcmac.edu.mx,zaratealbert317
+Albert,Alfonso,Zarate,Sanchez,Hombre,27,318,2,albertzarate318@urcmac.edu.mx,zaratealbert318
+Albert,Alfonso,Zarate,Sebastian,Hombre,30,319,5,albertzarate319@urcmac.edu.mx,zaratealbert319
+Albert,Alfonso,Zarate,Martinez,Hombre,30,320,3,albertzarate320@urcmac.edu.mx,zaratealbert320
+Albert,Alfonso,Adaya,Cirigo,Hombre,22,321,3,albertadaya321@urcmac.edu.mx,adayaalbert321
+Albert,Alfonso,Adaya,Romero,Hombre,28,322,4,albertadaya322@urcmac.edu.mx,adayaalbert322
+Albert,Alfonso,Adaya,Sanchez,Hombre,22,323,4,albertadaya323@urcmac.edu.mx,adayaalbert323
+Albert,Alfonso,Adaya,Sebastian,Hombre,29,324,4,albertadaya324@urcmac.edu.mx,adayaalbert324
+Albert,Alfonso,Adaya,Martinez,Hombre,29,325,3,albertadaya325@urcmac.edu.mx,adayaalbert325
+Albert,,Hidalgo,Cirigo,Hombre,20,326,2,alberthidalgo326@urcmac.edu.mx,hidalgoalbert326
+Albert,,Hidalgo,Romero,Hombre,29,327,4,alberthidalgo327@urcmac.edu.mx,hidalgoalbert327
+Albert,,Hidalgo,Sanchez,Hombre,30,328,2,alberthidalgo328@urcmac.edu.mx,hidalgoalbert328
+Albert,,Hidalgo,Sebastian,Hombre,23,329,3,alberthidalgo329@urcmac.edu.mx,hidalgoalbert329
+Albert,,Hidalgo,Martinez,Hombre,24,330,3,alberthidalgo330@urcmac.edu.mx,hidalgoalbert330
+Albert,,Ruiz,Cirigo,Hombre,20,331,5,albertruiz331@urcmac.edu.mx,ruizalbert331
+Albert,,Ruiz,Romero,Hombre,24,332,3,albertruiz332@urcmac.edu.mx,ruizalbert332
+Albert,,Ruiz,Sanchez,Hombre,22,333,3,albertruiz333@urcmac.edu.mx,ruizalbert333
+Albert,,Ruiz,Sebastian,Hombre,29,334,3,albertruiz334@urcmac.edu.mx,ruizalbert334
+Albert,,Ruiz,Martinez,Hombre,24,335,3,albertruiz335@urcmac.edu.mx,ruizalbert335
+Albert,,Espinosa,Cirigo,Hombre,20,336,2,albertespinosa336@urcmac.edu.mx,espinosaalbert336
+Albert,,Espinosa,Romero,Hombre,30,337,4,albertespinosa337@urcmac.edu.mx,espinosaalbert337
+Albert,,Espinosa,Sanchez,Hombre,30,338,5,albertespinosa338@urcmac.edu.mx,espinosaalbert338
+Albert,,Espinosa,Sebastian,Hombre,30,339,3,albertespinosa339@urcmac.edu.mx,espinosaalbert339
+Albert,,Espinosa,Martinez,Hombre,23,340,1,albertespinosa340@urcmac.edu.mx,espinosaalbert340
+Albert,,Zarate,Cirigo,Hombre,20,341,3,albertzarate341@urcmac.edu.mx,zaratealbert341
+Albert,,Zarate,Romero,Hombre,27,342,5,albertzarate342@urcmac.edu.mx,zaratealbert342
+Albert,,Zarate,Sanchez,Hombre,25,343,5,albertzarate343@urcmac.edu.mx,zaratealbert343
+Albert,,Zarate,Sebastian,Hombre,24,344,1,albertzarate344@urcmac.edu.mx,zaratealbert344
+Albert,,Zarate,Martinez,Hombre,21,345,2,albertzarate345@urcmac.edu.mx,zaratealbert345
+Albert,,Adaya,Cirigo,Hombre,24,346,3,albertadaya346@urcmac.edu.mx,adayaalbert346
+Albert,,Adaya,Romero,Hombre,22,347,3,albertadaya347@urcmac.edu.mx,adayaalbert347
+Albert,,Adaya,Sanchez,Hombre,27,348,1,albertadaya348@urcmac.edu.mx,adayaalbert348
+Albert,,Adaya,Sebastian,Hombre,23,349,4,albertadaya349@urcmac.edu.mx,adayaalbert349
+Albert,,Adaya,Martinez,Hombre,28,350,5,albertadaya350@urcmac.edu.mx,adayaalbert350
+Albert,Donaji,Hidalgo,Cirigo,Hombre,26,351,1,alberthidalgo351@urcmac.edu.mx,hidalgoalbert351
+Albert,Donaji,Hidalgo,Romero,Hombre,30,352,3,alberthidalgo352@urcmac.edu.mx,hidalgoalbert352
+Albert,Donaji,Hidalgo,Sanchez,Hombre,23,353,1,alberthidalgo353@urcmac.edu.mx,hidalgoalbert353
+Albert,Donaji,Hidalgo,Sebastian,Hombre,25,354,4,alberthidalgo354@urcmac.edu.mx,hidalgoalbert354
+Albert,Donaji,Hidalgo,Martinez,Hombre,27,355,3,alberthidalgo355@urcmac.edu.mx,hidalgoalbert355
+Albert,Donaji,Ruiz,Cirigo,Hombre,21,356,1,albertruiz356@urcmac.edu.mx,ruizalbert356
+Albert,Donaji,Ruiz,Romero,Hombre,21,357,2,albertruiz357@urcmac.edu.mx,ruizalbert357
+Albert,Donaji,Ruiz,Sanchez,Hombre,20,358,1,albertruiz358@urcmac.edu.mx,ruizalbert358
+Albert,Donaji,Ruiz,Sebastian,Hombre,21,359,5,albertruiz359@urcmac.edu.mx,ruizalbert359
+Albert,Donaji,Ruiz,Martinez,Hombre,25,360,1,albertruiz360@urcmac.edu.mx,ruizalbert360
+Albert,Donaji,Espinosa,Cirigo,Hombre,29,361,4,albertespinosa361@urcmac.edu.mx,espinosaalbert361
+Albert,Donaji,Espinosa,Romero,Hombre,30,362,2,albertespinosa362@urcmac.edu.mx,espinosaalbert362
+Albert,Donaji,Espinosa,Sanchez,Hombre,20,363,3,albertespinosa363@urcmac.edu.mx,espinosaalbert363
+Albert,Donaji,Espinosa,Sebastian,Hombre,24,364,2,albertespinosa364@urcmac.edu.mx,espinosaalbert364
+Albert,Donaji,Espinosa,Martinez,Hombre,20,365,2,albertespinosa365@urcmac.edu.mx,espinosaalbert365
+Albert,Donaji,Zarate,Cirigo,Hombre,25,366,4,albertzarate366@urcmac.edu.mx,zaratealbert366
+Albert,Donaji,Zarate,Romero,Hombre,21,367,2,albertzarate367@urcmac.edu.mx,zaratealbert367
+Albert,Donaji,Zarate,Sanchez,Hombre,28,368,4,albertzarate368@urcmac.edu.mx,zaratealbert368
+Albert,Donaji,Zarate,Sebastian,Hombre,20,369,3,albertzarate369@urcmac.edu.mx,zaratealbert369
+Albert,Donaji,Zarate,Martinez,Hombre,22,370,1,albertzarate370@urcmac.edu.mx,zaratealbert370
+Albert,Donaji,Adaya,Cirigo,Hombre,20,371,1,albertadaya371@urcmac.edu.mx,adayaalbert371
+Albert,Donaji,Adaya,Romero,Hombre,24,372,4,albertadaya372@urcmac.edu.mx,adayaalbert372
+Albert,Donaji,Adaya,Sanchez,Hombre,25,373,4,albertadaya373@urcmac.edu.mx,adayaalbert373
+Albert,Donaji,Adaya,Sebastian,Hombre,29,374,3,albertadaya374@urcmac.edu.mx,adayaalbert374
+Albert,Donaji,Adaya,Martinez,Hombre,29,375,3,albertadaya375@urcmac.edu.mx,adayaalbert375
+Demian,Rogelio,Hidalgo,Cirigo,Hombre,28,376,4,demianhidalgo376@urcmac.edu.mx,hidalgodemian376
+Demian,Rogelio,Hidalgo,Romero,Hombre,21,377,5,demianhidalgo377@urcmac.edu.mx,hidalgodemian377
+Demian,Rogelio,Hidalgo,Sanchez,Hombre,21,378,5,demianhidalgo378@urcmac.edu.mx,hidalgodemian378
+Demian,Rogelio,Hidalgo,Sebastian,Hombre,21,379,2,demianhidalgo379@urcmac.edu.mx,hidalgodemian379
+Demian,Rogelio,Hidalgo,Martinez,Hombre,28,380,2,demianhidalgo380@urcmac.edu.mx,hidalgodemian380
+Demian,Rogelio,Ruiz,Cirigo,Hombre,29,381,1,demianruiz381@urcmac.edu.mx,ruizdemian381
+Demian,Rogelio,Ruiz,Romero,Hombre,29,382,4,demianruiz382@urcmac.edu.mx,ruizdemian382
+Demian,Rogelio,Ruiz,Sanchez,Hombre,20,383,1,demianruiz383@urcmac.edu.mx,ruizdemian383
+Demian,Rogelio,Ruiz,Sebastian,Hombre,27,384,5,demianruiz384@urcmac.edu.mx,ruizdemian384
+Demian,Rogelio,Ruiz,Martinez,Hombre,29,385,3,demianruiz385@urcmac.edu.mx,ruizdemian385
+Demian,Rogelio,Espinosa,Cirigo,Hombre,21,386,2,demianespinosa386@urcmac.edu.mx,espinosademian386
+Demian,Rogelio,Espinosa,Romero,Hombre,29,387,5,demianespinosa387@urcmac.edu.mx,espinosademian387
+Demian,Rogelio,Espinosa,Sanchez,Hombre,22,388,5,demianespinosa388@urcmac.edu.mx,espinosademian388
+Demian,Rogelio,Espinosa,Sebastian,Hombre,27,389,2,demianespinosa389@urcmac.edu.mx,espinosademian389
+Demian,Rogelio,Espinosa,Martinez,Hombre,26,390,3,demianespinosa390@urcmac.edu.mx,espinosademian390
+Demian,Rogelio,Zarate,Cirigo,Hombre,23,391,3,demianzarate391@urcmac.edu.mx,zaratedemian391
+Demian,Rogelio,Zarate,Romero,Hombre,26,392,2,demianzarate392@urcmac.edu.mx,zaratedemian392
+Demian,Rogelio,Zarate,Sanchez,Hombre,27,393,3,demianzarate393@urcmac.edu.mx,zaratedemian393
+Demian,Rogelio,Zarate,Sebastian,Hombre,25,394,1,demianzarate394@urcmac.edu.mx,zaratedemian394
+Demian,Rogelio,Zarate,Martinez,Hombre,22,395,4,demianzarate395@urcmac.edu.mx,zaratedemian395
+Demian,Rogelio,Adaya,Cirigo,Hombre,20,396,3,demianadaya396@urcmac.edu.mx,adayademian396
+Demian,Rogelio,Adaya,Romero,Hombre,26,397,2,demianadaya397@urcmac.edu.mx,adayademian397
+Demian,Rogelio,Adaya,Sanchez,Hombre,29,398,3,demianadaya398@urcmac.edu.mx,adayademian398
+Demian,Rogelio,Adaya,Sebastian,Hombre,23,399,5,demianadaya399@urcmac.edu.mx,adayademian399
+Demian,Rogelio,Adaya,Martinez,Hombre,29,400,2,demianadaya400@urcmac.edu.mx,adayademian400
+Demian,Pablo,Hidalgo,Cirigo,Hombre,25,401,4,demianhidalgo401@urcmac.edu.mx,hidalgodemian401
+Demian,Pablo,Hidalgo,Romero,Hombre,21,402,5,demianhidalgo402@urcmac.edu.mx,hidalgodemian402
+Demian,Pablo,Hidalgo,Sanchez,Hombre,25,403,3,demianhidalgo403@urcmac.edu.mx,hidalgodemian403
+Demian,Pablo,Hidalgo,Sebastian,Hombre,24,404,3,demianhidalgo404@urcmac.edu.mx,hidalgodemian404
+Demian,Pablo,Hidalgo,Martinez,Hombre,21,405,5,demianhidalgo405@urcmac.edu.mx,hidalgodemian405
+Demian,Pablo,Ruiz,Cirigo,Hombre,27,406,5,demianruiz406@urcmac.edu.mx,ruizdemian406
+Demian,Pablo,Ruiz,Romero,Hombre,30,407,4,demianruiz407@urcmac.edu.mx,ruizdemian407
+Demian,Pablo,Ruiz,Sanchez,Hombre,22,408,3,demianruiz408@urcmac.edu.mx,ruizdemian408
+Demian,Pablo,Ruiz,Sebastian,Hombre,24,409,2,demianruiz409@urcmac.edu.mx,ruizdemian409
+Demian,Pablo,Ruiz,Martinez,Hombre,28,410,4,demianruiz410@urcmac.edu.mx,ruizdemian410
+Demian,Pablo,Espinosa,Cirigo,Hombre,24,411,3,demianespinosa411@urcmac.edu.mx,espinosademian411
+Demian,Pablo,Espinosa,Romero,Hombre,23,412,3,demianespinosa412@urcmac.edu.mx,espinosademian412
+Demian,Pablo,Espinosa,Sanchez,Hombre,28,413,2,demianespinosa413@urcmac.edu.mx,espinosademian413
+Demian,Pablo,Espinosa,Sebastian,Hombre,29,414,2,demianespinosa414@urcmac.edu.mx,espinosademian414
+Demian,Pablo,Espinosa,Martinez,Hombre,29,415,5,demianespinosa415@urcmac.edu.mx,espinosademian415
+Demian,Pablo,Zarate,Cirigo,Hombre,27,416,3,demianzarate416@urcmac.edu.mx,zaratedemian416
+Demian,Pablo,Zarate,Romero,Hombre,25,417,4,demianzarate417@urcmac.edu.mx,zaratedemian417
+Demian,Pablo,Zarate,Sanchez,Hombre,24,418,2,demianzarate418@urcmac.edu.mx,zaratedemian418
+Demian,Pablo,Zarate,Sebastian,Hombre,27,419,3,demianzarate419@urcmac.edu.mx,zaratedemian419
+Demian,Pablo,Zarate,Martinez,Hombre,21,420,3,demianzarate420@urcmac.edu.mx,zaratedemian420
+Demian,Pablo,Adaya,Cirigo,Hombre,28,421,2,demianadaya421@urcmac.edu.mx,adayademian421
+Demian,Pablo,Adaya,Romero,Hombre,28,422,4,demianadaya422@urcmac.edu.mx,adayademian422
+Demian,Pablo,Adaya,Sanchez,Hombre,26,423,4,demianadaya423@urcmac.edu.mx,adayademian423
+Demian,Pablo,Adaya,Sebastian,Hombre,25,424,3,demianadaya424@urcmac.edu.mx,adayademian424
+Demian,Pablo,Adaya,Martinez,Hombre,29,425,2,demianadaya425@urcmac.edu.mx,adayademian425
+Demian,Alfonso,Hidalgo,Cirigo,Hombre,23,426,3,demianhidalgo426@urcmac.edu.mx,hidalgodemian426
+Demian,Alfonso,Hidalgo,Romero,Hombre,22,427,1,demianhidalgo427@urcmac.edu.mx,hidalgodemian427
+Demian,Alfonso,Hidalgo,Sanchez,Hombre,20,428,5,demianhidalgo428@urcmac.edu.mx,hidalgodemian428
+Demian,Alfonso,Hidalgo,Sebastian,Hombre,30,429,1,demianhidalgo429@urcmac.edu.mx,hidalgodemian429
+Demian,Alfonso,Hidalgo,Martinez,Hombre,27,430,2,demianhidalgo430@urcmac.edu.mx,hidalgodemian430
+Demian,Alfonso,Ruiz,Cirigo,Hombre,23,431,4,demianruiz431@urcmac.edu.mx,ruizdemian431
+Demian,Alfonso,Ruiz,Romero,Hombre,28,432,2,demianruiz432@urcmac.edu.mx,ruizdemian432
+Demian,Alfonso,Ruiz,Sanchez,Hombre,20,433,1,demianruiz433@urcmac.edu.mx,ruizdemian433
+Demian,Alfonso,Ruiz,Sebastian,Hombre,21,434,2,demianruiz434@urcmac.edu.mx,ruizdemian434
+Demian,Alfonso,Ruiz,Martinez,Hombre,20,435,4,demianruiz435@urcmac.edu.mx,ruizdemian435
+Demian,Alfonso,Espinosa,Cirigo,Hombre,30,436,2,demianespinosa436@urcmac.edu.mx,espinosademian436
+Demian,Alfonso,Espinosa,Romero,Hombre,23,437,1,demianespinosa437@urcmac.edu.mx,espinosademian437
+Demian,Alfonso,Espinosa,Sanchez,Hombre,26,438,3,demianespinosa438@urcmac.edu.mx,espinosademian438
+Demian,Alfonso,Espinosa,Sebastian,Hombre,20,439,5,demianespinosa439@urcmac.edu.mx,espinosademian439
+Demian,Alfonso,Espinosa,Martinez,Hombre,28,440,1,demianespinosa440@urcmac.edu.mx,espinosademian440
+Demian,Alfonso,Zarate,Cirigo,Hombre,25,441,4,demianzarate441@urcmac.edu.mx,zaratedemian441
+Demian,Alfonso,Zarate,Romero,Hombre,23,442,1,demianzarate442@urcmac.edu.mx,zaratedemian442
+Demian,Alfonso,Zarate,Sanchez,Hombre,25,443,4,demianzarate443@urcmac.edu.mx,zaratedemian443
+Demian,Alfonso,Zarate,Sebastian,Hombre,22,444,1,demianzarate444@urcmac.edu.mx,zaratedemian444
+Demian,Alfonso,Zarate,Martinez,Hombre,26,445,2,demianzarate445@urcmac.edu.mx,zaratedemian445
+Demian,Alfonso,Adaya,Cirigo,Hombre,28,446,1,demianadaya446@urcmac.edu.mx,adayademian446
+Demian,Alfonso,Adaya,Romero,Hombre,28,447,5,demianadaya447@urcmac.edu.mx,adayademian447
+Demian,Alfonso,Adaya,Sanchez,Hombre,21,448,4,demianadaya448@urcmac.edu.mx,adayademian448
+Demian,Alfonso,Adaya,Sebastian,Hombre,26,449,5,demianadaya449@urcmac.edu.mx,adayademian449
+Demian,Alfonso,Adaya,Martinez,Hombre,27,450,4,demianadaya450@urcmac.edu.mx,adayademian450
+Demian,,Hidalgo,Cirigo,Hombre,22,451,1,demianhidalgo451@urcmac.edu.mx,hidalgodemian451
+Demian,,Hidalgo,Romero,Hombre,25,452,2,demianhidalgo452@urcmac.edu.mx,hidalgodemian452
+Demian,,Hidalgo,Sanchez,Hombre,26,453,1,demianhidalgo453@urcmac.edu.mx,hidalgodemian453
+Demian,,Hidalgo,Sebastian,Hombre,20,454,4,demianhidalgo454@urcmac.edu.mx,hidalgodemian454
+Demian,,Hidalgo,Martinez,Hombre,25,455,5,demianhidalgo455@urcmac.edu.mx,hidalgodemian455
+Demian,,Ruiz,Cirigo,Hombre,22,456,2,demianruiz456@urcmac.edu.mx,ruizdemian456
+Demian,,Ruiz,Romero,Hombre,22,457,3,demianruiz457@urcmac.edu.mx,ruizdemian457
+Demian,,Ruiz,Sanchez,Hombre,21,458,4,demianruiz458@urcmac.edu.mx,ruizdemian458
+Demian,,Ruiz,Sebastian,Hombre,26,459,5,demianruiz459@urcmac.edu.mx,ruizdemian459
+Demian,,Ruiz,Martinez,Hombre,20,460,4,demianruiz460@urcmac.edu.mx,ruizdemian460
+Demian,,Espinosa,Cirigo,Hombre,29,461,5,demianespinosa461@urcmac.edu.mx,espinosademian461
+Demian,,Espinosa,Romero,Hombre,27,462,4,demianespinosa462@urcmac.edu.mx,espinosademian462
+Demian,,Espinosa,Sanchez,Hombre,25,463,5,demianespinosa463@urcmac.edu.mx,espinosademian463
+Demian,,Espinosa,Sebastian,Hombre,30,464,1,demianespinosa464@urcmac.edu.mx,espinosademian464
+Demian,,Espinosa,Martinez,Hombre,30,465,5,demianespinosa465@urcmac.edu.mx,espinosademian465
+Demian,,Zarate,Cirigo,Hombre,29,466,4,demianzarate466@urcmac.edu.mx,zaratedemian466
+Demian,,Zarate,Romero,Hombre,23,467,5,demianzarate467@urcmac.edu.mx,zaratedemian467
+Demian,,Zarate,Sanchez,Hombre,24,468,1,demianzarate468@urcmac.edu.mx,zaratedemian468
+Demian,,Zarate,Sebastian,Hombre,24,469,3,demianzarate469@urcmac.edu.mx,zaratedemian469
+Demian,,Zarate,Martinez,Hombre,25,470,3,demianzarate470@urcmac.edu.mx,zaratedemian470
+Demian,,Adaya,Cirigo,Hombre,21,471,2,demianadaya471@urcmac.edu.mx,adayademian471
+Demian,,Adaya,Romero,Hombre,26,472,1,demianadaya472@urcmac.edu.mx,adayademian472
+Demian,,Adaya,Sanchez,Hombre,23,473,5,demianadaya473@urcmac.edu.mx,adayademian473
+Demian,,Adaya,Sebastian,Hombre,29,474,5,demianadaya474@urcmac.edu.mx,adayademian474
+Demian,,Adaya,Martinez,Hombre,26,475,3,demianadaya475@urcmac.edu.mx,adayademian475
+Demian,Donaji,Hidalgo,Cirigo,Hombre,30,476,2,demianhidalgo476@urcmac.edu.mx,hidalgodemian476
+Demian,Donaji,Hidalgo,Romero,Hombre,23,477,5,demianhidalgo477@urcmac.edu.mx,hidalgodemian477
+Demian,Donaji,Hidalgo,Sanchez,Hombre,22,478,3,demianhidalgo478@urcmac.edu.mx,hidalgodemian478
+Demian,Donaji,Hidalgo,Sebastian,Hombre,20,479,3,demianhidalgo479@urcmac.edu.mx,hidalgodemian479
+Demian,Donaji,Hidalgo,Martinez,Hombre,29,480,3,demianhidalgo480@urcmac.edu.mx,hidalgodemian480
+Demian,Donaji,Ruiz,Cirigo,Hombre,22,481,1,demianruiz481@urcmac.edu.mx,ruizdemian481
+Demian,Donaji,Ruiz,Romero,Hombre,29,482,1,demianruiz482@urcmac.edu.mx,ruizdemian482
+Demian,Donaji,Ruiz,Sanchez,Hombre,24,483,5,demianruiz483@urcmac.edu.mx,ruizdemian483
+Demian,Donaji,Ruiz,Sebastian,Hombre,27,484,4,demianruiz484@urcmac.edu.mx,ruizdemian484
+Demian,Donaji,Ruiz,Martinez,Hombre,26,485,2,demianruiz485@urcmac.edu.mx,ruizdemian485
+Demian,Donaji,Espinosa,Cirigo,Hombre,30,486,1,demianespinosa486@urcmac.edu.mx,espinosademian486
+Demian,Donaji,Espinosa,Romero,Hombre,26,487,3,demianespinosa487@urcmac.edu.mx,espinosademian487
+Demian,Donaji,Espinosa,Sanchez,Hombre,23,488,5,demianespinosa488@urcmac.edu.mx,espinosademian488
+Demian,Donaji,Espinosa,Sebastian,Hombre,26,489,4,demianespinosa489@urcmac.edu.mx,espinosademian489
+Demian,Donaji,Espinosa,Martinez,Hombre,20,490,2,demianespinosa490@urcmac.edu.mx,espinosademian490
+Demian,Donaji,Zarate,Cirigo,Hombre,20,491,4,demianzarate491@urcmac.edu.mx,zaratedemian491
+Demian,Donaji,Zarate,Romero,Hombre,28,492,4,demianzarate492@urcmac.edu.mx,zaratedemian492
+Demian,Donaji,Zarate,Sanchez,Hombre,21,493,3,demianzarate493@urcmac.edu.mx,zaratedemian493
+Demian,Donaji,Zarate,Sebastian,Hombre,30,494,4,demianzarate494@urcmac.edu.mx,zaratedemian494
+Demian,Donaji,Zarate,Martinez,Hombre,26,495,3,demianzarate495@urcmac.edu.mx,zaratedemian495
+Demian,Donaji,Adaya,Cirigo,Hombre,20,496,2,demianadaya496@urcmac.edu.mx,adayademian496
+Demian,Donaji,Adaya,Romero,Hombre,29,497,1,demianadaya497@urcmac.edu.mx,adayademian497
+Demian,Donaji,Adaya,Sanchez,Hombre,23,498,4,demianadaya498@urcmac.edu.mx,adayademian498
+Demian,Donaji,Adaya,Sebastian,Hombre,25,499,2,demianadaya499@urcmac.edu.mx,adayademian499
+Demian,Donaji,Adaya,Martinez,Hombre,30,500,2,demianadaya500@urcmac.edu.mx,adayademian500
+Hector,Rogelio,Hidalgo,Cirigo,Hombre,22,501,3,hectorhidalgo501@urcmac.edu.mx,hidalgohector501
+Hector,Rogelio,Hidalgo,Romero,Hombre,20,502,4,hectorhidalgo502@urcmac.edu.mx,hidalgohector502
+Hector,Rogelio,Hidalgo,Sanchez,Hombre,22,503,2,hectorhidalgo503@urcmac.edu.mx,hidalgohector503
+Hector,Rogelio,Hidalgo,Sebastian,Hombre,25,504,1,hectorhidalgo504@urcmac.edu.mx,hidalgohector504
+Hector,Rogelio,Hidalgo,Martinez,Hombre,23,505,1,hectorhidalgo505@urcmac.edu.mx,hidalgohector505
+Hector,Rogelio,Ruiz,Cirigo,Hombre,27,506,1,hectorruiz506@urcmac.edu.mx,ruizhector506
+Hector,Rogelio,Ruiz,Romero,Hombre,21,507,1,hectorruiz507@urcmac.edu.mx,ruizhector507
+Hector,Rogelio,Ruiz,Sanchez,Hombre,29,508,2,hectorruiz508@urcmac.edu.mx,ruizhector508
+Hector,Rogelio,Ruiz,Sebastian,Hombre,21,509,2,hectorruiz509@urcmac.edu.mx,ruizhector509
+Hector,Rogelio,Ruiz,Martinez,Hombre,20,510,3,hectorruiz510@urcmac.edu.mx,ruizhector510
+Hector,Rogelio,Espinosa,Cirigo,Hombre,25,511,3,hectorespinosa511@urcmac.edu.mx,espinosahector511
+Hector,Rogelio,Espinosa,Romero,Hombre,23,512,5,hectorespinosa512@urcmac.edu.mx,espinosahector512
+Hector,Rogelio,Espinosa,Sanchez,Hombre,23,513,3,hectorespinosa513@urcmac.edu.mx,espinosahector513
+Hector,Rogelio,Espinosa,Sebastian,Hombre,22,514,3,hectorespinosa514@urcmac.edu.mx,espinosahector514
+Hector,Rogelio,Espinosa,Martinez,Hombre,21,515,4,hectorespinosa515@urcmac.edu.mx,espinosahector515
+Hector,Rogelio,Zarate,Cirigo,Hombre,28,516,4,hectorzarate516@urcmac.edu.mx,zaratehector516
+Hector,Rogelio,Zarate,Romero,Hombre,22,517,4,hectorzarate517@urcmac.edu.mx,zaratehector517
+Hector,Rogelio,Zarate,Sanchez,Hombre,28,518,1,hectorzarate518@urcmac.edu.mx,zaratehector518
+Hector,Rogelio,Zarate,Sebastian,Hombre,23,519,3,hectorzarate519@urcmac.edu.mx,zaratehector519
+Hector,Rogelio,Zarate,Martinez,Hombre,27,520,2,hectorzarate520@urcmac.edu.mx,zaratehector520
+Hector,Rogelio,Adaya,Cirigo,Hombre,30,521,4,hectoradaya521@urcmac.edu.mx,adayahector521
+Hector,Rogelio,Adaya,Romero,Hombre,30,522,5,hectoradaya522@urcmac.edu.mx,adayahector522
+Hector,Rogelio,Adaya,Sanchez,Hombre,30,523,4,hectoradaya523@urcmac.edu.mx,adayahector523
+Hector,Rogelio,Adaya,Sebastian,Hombre,30,524,3,hectoradaya524@urcmac.edu.mx,adayahector524
+Hector,Rogelio,Adaya,Martinez,Hombre,21,525,4,hectoradaya525@urcmac.edu.mx,adayahector525
+Hector,Pablo,Hidalgo,Cirigo,Hombre,30,526,4,hectorhidalgo526@urcmac.edu.mx,hidalgohector526
+Hector,Pablo,Hidalgo,Romero,Hombre,27,527,3,hectorhidalgo527@urcmac.edu.mx,hidalgohector527
+Hector,Pablo,Hidalgo,Sanchez,Hombre,22,528,3,hectorhidalgo528@urcmac.edu.mx,hidalgohector528
+Hector,Pablo,Hidalgo,Sebastian,Hombre,24,529,5,hectorhidalgo529@urcmac.edu.mx,hidalgohector529
+Hector,Pablo,Hidalgo,Martinez,Hombre,25,530,1,hectorhidalgo530@urcmac.edu.mx,hidalgohector530
+Hector,Pablo,Ruiz,Cirigo,Hombre,23,531,2,hectorruiz531@urcmac.edu.mx,ruizhector531
+Hector,Pablo,Ruiz,Romero,Hombre,25,532,2,hectorruiz532@urcmac.edu.mx,ruizhector532
+Hector,Pablo,Ruiz,Sanchez,Hombre,23,533,2,hectorruiz533@urcmac.edu.mx,ruizhector533
+Hector,Pablo,Ruiz,Sebastian,Hombre,29,534,5,hectorruiz534@urcmac.edu.mx,ruizhector534
+Hector,Pablo,Ruiz,Martinez,Hombre,20,535,2,hectorruiz535@urcmac.edu.mx,ruizhector535
+Hector,Pablo,Espinosa,Cirigo,Hombre,30,536,3,hectorespinosa536@urcmac.edu.mx,espinosahector536
+Hector,Pablo,Espinosa,Romero,Hombre,28,537,4,hectorespinosa537@urcmac.edu.mx,espinosahector537
+Hector,Pablo,Espinosa,Sanchez,Hombre,20,538,2,hectorespinosa538@urcmac.edu.mx,espinosahector538
+Hector,Pablo,Espinosa,Sebastian,Hombre,21,539,1,hectorespinosa539@urcmac.edu.mx,espinosahector539
+Hector,Pablo,Espinosa,Martinez,Hombre,24,540,4,hectorespinosa540@urcmac.edu.mx,espinosahector540
+Hector,Pablo,Zarate,Cirigo,Hombre,26,541,4,hectorzarate541@urcmac.edu.mx,zaratehector541
+Hector,Pablo,Zarate,Romero,Hombre,20,542,1,hectorzarate542@urcmac.edu.mx,zaratehector542
+Hector,Pablo,Zarate,Sanchez,Hombre,28,543,3,hectorzarate543@urcmac.edu.mx,zaratehector543
+Hector,Pablo,Zarate,Sebastian,Hombre,24,544,3,hectorzarate544@urcmac.edu.mx,zaratehector544
+Hector,Pablo,Zarate,Martinez,Hombre,26,545,1,hectorzarate545@urcmac.edu.mx,zaratehector545
+Hector,Pablo,Adaya,Cirigo,Hombre,29,546,2,hectoradaya546@urcmac.edu.mx,adayahector546
+Hector,Pablo,Adaya,Romero,Hombre,28,547,1,hectoradaya547@urcmac.edu.mx,adayahector547
+Hector,Pablo,Adaya,Sanchez,Hombre,27,548,4,hectoradaya548@urcmac.edu.mx,adayahector548
+Hector,Pablo,Adaya,Sebastian,Hombre,21,549,1,hectoradaya549@urcmac.edu.mx,adayahector549
+Hector,Pablo,Adaya,Martinez,Hombre,23,550,5,hectoradaya550@urcmac.edu.mx,adayahector550
+Hector,Alfonso,Hidalgo,Cirigo,Hombre,21,551,3,hectorhidalgo551@urcmac.edu.mx,hidalgohector551
+Hector,Alfonso,Hidalgo,Romero,Hombre,23,552,4,hectorhidalgo552@urcmac.edu.mx,hidalgohector552
+Hector,Alfonso,Hidalgo,Sanchez,Hombre,26,553,3,hectorhidalgo553@urcmac.edu.mx,hidalgohector553
+Hector,Alfonso,Hidalgo,Sebastian,Hombre,27,554,4,hectorhidalgo554@urcmac.edu.mx,hidalgohector554
+Hector,Alfonso,Hidalgo,Martinez,Hombre,29,555,5,hectorhidalgo555@urcmac.edu.mx,hidalgohector555
+Hector,Alfonso,Ruiz,Cirigo,Hombre,20,556,4,hectorruiz556@urcmac.edu.mx,ruizhector556
+Hector,Alfonso,Ruiz,Romero,Hombre,24,557,1,hectorruiz557@urcmac.edu.mx,ruizhector557
+Hector,Alfonso,Ruiz,Sanchez,Hombre,30,558,1,hectorruiz558@urcmac.edu.mx,ruizhector558
+Hector,Alfonso,Ruiz,Sebastian,Hombre,20,559,2,hectorruiz559@urcmac.edu.mx,ruizhector559
+Hector,Alfonso,Ruiz,Martinez,Hombre,24,560,2,hectorruiz560@urcmac.edu.mx,ruizhector560
+Hector,Alfonso,Espinosa,Cirigo,Hombre,30,561,2,hectorespinosa561@urcmac.edu.mx,espinosahector561
+Hector,Alfonso,Espinosa,Romero,Hombre,21,562,1,hectorespinosa562@urcmac.edu.mx,espinosahector562
+Hector,Alfonso,Espinosa,Sanchez,Hombre,25,563,4,hectorespinosa563@urcmac.edu.mx,espinosahector563
+Hector,Alfonso,Espinosa,Sebastian,Hombre,20,564,1,hectorespinosa564@urcmac.edu.mx,espinosahector564
+Hector,Alfonso,Espinosa,Martinez,Hombre,24,565,4,hectorespinosa565@urcmac.edu.mx,espinosahector565
+Hector,Alfonso,Zarate,Cirigo,Hombre,20,566,5,hectorzarate566@urcmac.edu.mx,zaratehector566
+Hector,Alfonso,Zarate,Romero,Hombre,27,567,4,hectorzarate567@urcmac.edu.mx,zaratehector567
+Hector,Alfonso,Zarate,Sanchez,Hombre,21,568,1,hectorzarate568@urcmac.edu.mx,zaratehector568
+Hector,Alfonso,Zarate,Sebastian,Hombre,29,569,5,hectorzarate569@urcmac.edu.mx,zaratehector569
+Hector,Alfonso,Zarate,Martinez,Hombre,30,570,2,hectorzarate570@urcmac.edu.mx,zaratehector570
+Hector,Alfonso,Adaya,Cirigo,Hombre,27,571,5,hectoradaya571@urcmac.edu.mx,adayahector571
+Hector,Alfonso,Adaya,Romero,Hombre,28,572,2,hectoradaya572@urcmac.edu.mx,adayahector572
+Hector,Alfonso,Adaya,Sanchez,Hombre,25,573,5,hectoradaya573@urcmac.edu.mx,adayahector573
+Hector,Alfonso,Adaya,Sebastian,Hombre,26,574,4,hectoradaya574@urcmac.edu.mx,adayahector574
+Hector,Alfonso,Adaya,Martinez,Hombre,28,575,1,hectoradaya575@urcmac.edu.mx,adayahector575
+Hector,,Hidalgo,Cirigo,Hombre,20,576,4,hectorhidalgo576@urcmac.edu.mx,hidalgohector576
+Hector,,Hidalgo,Romero,Hombre,30,577,5,hectorhidalgo577@urcmac.edu.mx,hidalgohector577
+Hector,,Hidalgo,Sanchez,Hombre,29,578,5,hectorhidalgo578@urcmac.edu.mx,hidalgohector578
+Hector,,Hidalgo,Sebastian,Hombre,27,579,4,hectorhidalgo579@urcmac.edu.mx,hidalgohector579
+Hector,,Hidalgo,Martinez,Hombre,20,580,5,hectorhidalgo580@urcmac.edu.mx,hidalgohector580
+Hector,,Ruiz,Cirigo,Hombre,23,581,3,hectorruiz581@urcmac.edu.mx,ruizhector581
+Hector,,Ruiz,Romero,Hombre,27,582,1,hectorruiz582@urcmac.edu.mx,ruizhector582
+Hector,,Ruiz,Sanchez,Hombre,30,583,5,hectorruiz583@urcmac.edu.mx,ruizhector583
+Hector,,Ruiz,Sebastian,Hombre,26,584,3,hectorruiz584@urcmac.edu.mx,ruizhector584
+Hector,,Ruiz,Martinez,Hombre,25,585,3,hectorruiz585@urcmac.edu.mx,ruizhector585
+Hector,,Espinosa,Cirigo,Hombre,23,586,1,hectorespinosa586@urcmac.edu.mx,espinosahector586
+Hector,,Espinosa,Romero,Hombre,24,587,5,hectorespinosa587@urcmac.edu.mx,espinosahector587
+Hector,,Espinosa,Sanchez,Hombre,21,588,4,hectorespinosa588@urcmac.edu.mx,espinosahector588
+Hector,,Espinosa,Sebastian,Hombre,20,589,5,hectorespinosa589@urcmac.edu.mx,espinosahector589
+Hector,,Espinosa,Martinez,Hombre,28,590,1,hectorespinosa590@urcmac.edu.mx,espinosahector590
+Hector,,Zarate,Cirigo,Hombre,30,591,2,hectorzarate591@urcmac.edu.mx,zaratehector591
+Hector,,Zarate,Romero,Hombre,28,592,2,hectorzarate592@urcmac.edu.mx,zaratehector592
+Hector,,Zarate,Sanchez,Hombre,21,593,4,hectorzarate593@urcmac.edu.mx,zaratehector593
+Hector,,Zarate,Sebastian,Hombre,24,594,4,hectorzarate594@urcmac.edu.mx,zaratehector594
+Hector,,Zarate,Martinez,Hombre,29,595,4,hectorzarate595@urcmac.edu.mx,zaratehector595
+Hector,,Adaya,Cirigo,Hombre,30,596,2,hectoradaya596@urcmac.edu.mx,adayahector596
+Hector,,Adaya,Romero,Hombre,25,597,5,hectoradaya597@urcmac.edu.mx,adayahector597
+Hector,,Adaya,Sanchez,Hombre,30,598,5,hectoradaya598@urcmac.edu.mx,adayahector598
+Hector,,Adaya,Sebastian,Hombre,21,599,5,hectoradaya599@urcmac.edu.mx,adayahector599
+Hector,,Adaya,Martinez,Hombre,30,600,4,hectoradaya600@urcmac.edu.mx,adayahector600
+Hector,Donaji,Hidalgo,Cirigo,Hombre,22,601,2,hectorhidalgo601@urcmac.edu.mx,hidalgohector601
+Hector,Donaji,Hidalgo,Romero,Hombre,21,602,5,hectorhidalgo602@urcmac.edu.mx,hidalgohector602
+Hector,Donaji,Hidalgo,Sanchez,Hombre,30,603,1,hectorhidalgo603@urcmac.edu.mx,hidalgohector603
+Hector,Donaji,Hidalgo,Sebastian,Hombre,26,604,3,hectorhidalgo604@urcmac.edu.mx,hidalgohector604
+Hector,Donaji,Hidalgo,Martinez,Hombre,26,605,5,hectorhidalgo605@urcmac.edu.mx,hidalgohector605
+Hector,Donaji,Ruiz,Cirigo,Hombre,22,606,3,hectorruiz606@urcmac.edu.mx,ruizhector606
+Hector,Donaji,Ruiz,Romero,Hombre,30,607,2,hectorruiz607@urcmac.edu.mx,ruizhector607
+Hector,Donaji,Ruiz,Sanchez,Hombre,25,608,3,hectorruiz608@urcmac.edu.mx,ruizhector608
+Hector,Donaji,Ruiz,Sebastian,Hombre,22,609,4,hectorruiz609@urcmac.edu.mx,ruizhector609
+Hector,Donaji,Ruiz,Martinez,Hombre,29,610,2,hectorruiz610@urcmac.edu.mx,ruizhector610
+Hector,Donaji,Espinosa,Cirigo,Hombre,27,611,1,hectorespinosa611@urcmac.edu.mx,espinosahector611
+Hector,Donaji,Espinosa,Romero,Hombre,23,612,2,hectorespinosa612@urcmac.edu.mx,espinosahector612
+Hector,Donaji,Espinosa,Sanchez,Hombre,27,613,1,hectorespinosa613@urcmac.edu.mx,espinosahector613
+Hector,Donaji,Espinosa,Sebastian,Hombre,23,614,3,hectorespinosa614@urcmac.edu.mx,espinosahector614
+Hector,Donaji,Espinosa,Martinez,Hombre,26,615,2,hectorespinosa615@urcmac.edu.mx,espinosahector615
+Hector,Donaji,Zarate,Cirigo,Hombre,28,616,4,hectorzarate616@urcmac.edu.mx,zaratehector616
+Hector,Donaji,Zarate,Romero,Hombre,24,617,5,hectorzarate617@urcmac.edu.mx,zaratehector617
+Hector,Donaji,Zarate,Sanchez,Hombre,25,618,3,hectorzarate618@urcmac.edu.mx,zaratehector618
+Hector,Donaji,Zarate,Sebastian,Hombre,30,619,3,hectorzarate619@urcmac.edu.mx,zaratehector619
+Hector,Donaji,Zarate,Martinez,Hombre,23,620,4,hectorzarate620@urcmac.edu.mx,zaratehector620
+Hector,Donaji,Adaya,Cirigo,Hombre,20,621,5,hectoradaya621@urcmac.edu.mx,adayahector621
+Hector,Donaji,Adaya,Romero,Hombre,27,622,4,hectoradaya622@urcmac.edu.mx,adayahector622
+Hector,Donaji,Adaya,Sanchez,Hombre,24,623,2,hectoradaya623@urcmac.edu.mx,adayahector623
+Hector,Donaji,Adaya,Sebastian,Hombre,29,624,5,hectoradaya624@urcmac.edu.mx,adayahector624
+Hector,Donaji,Adaya,Martinez,Hombre,25,625,1,hectoradaya625@urcmac.edu.mx,adayahector625
+Laura,,Salazar,Hernandez,Mujer,29,626,3,laurasalazar626@urcmac.edu.mx,salazarlaura626
+Laura,,Salazar,Marinez,Mujer,21,627,1,laurasalazar627@urcmac.edu.mx,salazarlaura627
+Laura,,Salazar,Sanchez,Mujer,24,628,2,laurasalazar628@urcmac.edu.mx,salazarlaura628
+Laura,,Salazar,Estrada,Mujer,23,629,3,laurasalazar629@urcmac.edu.mx,salazarlaura629
+Laura,,Salazar,Espinosa,Mujer,26,630,2,laurasalazar630@urcmac.edu.mx,salazarlaura630
+Laura,,Rubio,Hernandez,Mujer,26,631,4,laurarubio631@urcmac.edu.mx,rubiolaura631
+Laura,,Rubio,Marinez,Mujer,22,632,2,laurarubio632@urcmac.edu.mx,rubiolaura632
+Laura,,Rubio,Sanchez,Mujer,25,633,4,laurarubio633@urcmac.edu.mx,rubiolaura633
+Laura,,Rubio,Estrada,Mujer,22,634,3,laurarubio634@urcmac.edu.mx,rubiolaura634
+Laura,,Rubio,Espinosa,Mujer,28,635,3,laurarubio635@urcmac.edu.mx,rubiolaura635
+Laura,,Ruiz,Hernandez,Mujer,23,636,5,lauraruiz636@urcmac.edu.mx,ruizlaura636
+Laura,,Ruiz,Marinez,Mujer,30,637,3,lauraruiz637@urcmac.edu.mx,ruizlaura637
+Laura,,Ruiz,Sanchez,Mujer,30,638,3,lauraruiz638@urcmac.edu.mx,ruizlaura638
+Laura,,Ruiz,Estrada,Mujer,22,639,1,lauraruiz639@urcmac.edu.mx,ruizlaura639
+Laura,,Ruiz,Espinosa,Mujer,26,640,5,lauraruiz640@urcmac.edu.mx,ruizlaura640
+Laura,,Tolentino,Hernandez,Mujer,25,641,4,lauratolentino641@urcmac.edu.mx,tolentinolaura641
+Laura,,Tolentino,Marinez,Mujer,29,642,1,lauratolentino642@urcmac.edu.mx,tolentinolaura642
+Laura,,Tolentino,Sanchez,Mujer,25,643,1,lauratolentino643@urcmac.edu.mx,tolentinolaura643
+Laura,,Tolentino,Estrada,Mujer,27,644,5,lauratolentino644@urcmac.edu.mx,tolentinolaura644
+Laura,,Tolentino,Espinosa,Mujer,24,645,2,lauratolentino645@urcmac.edu.mx,tolentinolaura645
+Laura,,Garcia,Hernandez,Mujer,21,646,5,lauragarcia646@urcmac.edu.mx,garcialaura646
+Laura,,Garcia,Marinez,Mujer,23,647,1,lauragarcia647@urcmac.edu.mx,garcialaura647
+Laura,,Garcia,Sanchez,Mujer,24,648,2,lauragarcia648@urcmac.edu.mx,garcialaura648
+Laura,,Garcia,Estrada,Mujer,30,649,5,lauragarcia649@urcmac.edu.mx,garcialaura649
+Laura,,Garcia,Espinosa,Mujer,24,650,1,lauragarcia650@urcmac.edu.mx,garcialaura650
+Laura,Elizabeth,Salazar,Hernandez,Mujer,22,651,2,laurasalazar651@urcmac.edu.mx,salazarlaura651
+Laura,Elizabeth,Salazar,Marinez,Mujer,20,652,5,laurasalazar652@urcmac.edu.mx,salazarlaura652
+Laura,Elizabeth,Salazar,Sanchez,Mujer,28,653,1,laurasalazar653@urcmac.edu.mx,salazarlaura653
+Laura,Elizabeth,Salazar,Estrada,Mujer,23,654,3,laurasalazar654@urcmac.edu.mx,salazarlaura654
+Laura,Elizabeth,Salazar,Espinosa,Mujer,28,655,3,laurasalazar655@urcmac.edu.mx,salazarlaura655
+Laura,Elizabeth,Rubio,Hernandez,Mujer,28,656,5,laurarubio656@urcmac.edu.mx,rubiolaura656
+Laura,Elizabeth,Rubio,Marinez,Mujer,23,657,2,laurarubio657@urcmac.edu.mx,rubiolaura657
+Laura,Elizabeth,Rubio,Sanchez,Mujer,23,658,3,laurarubio658@urcmac.edu.mx,rubiolaura658
+Laura,Elizabeth,Rubio,Estrada,Mujer,22,659,4,laurarubio659@urcmac.edu.mx,rubiolaura659
+Laura,Elizabeth,Rubio,Espinosa,Mujer,25,660,1,laurarubio660@urcmac.edu.mx,rubiolaura660
+Laura,Elizabeth,Ruiz,Hernandez,Mujer,23,661,1,lauraruiz661@urcmac.edu.mx,ruizlaura661
+Laura,Elizabeth,Ruiz,Marinez,Mujer,20,662,1,lauraruiz662@urcmac.edu.mx,ruizlaura662
+Laura,Elizabeth,Ruiz,Sanchez,Mujer,27,663,5,lauraruiz663@urcmac.edu.mx,ruizlaura663
+Laura,Elizabeth,Ruiz,Estrada,Mujer,29,664,5,lauraruiz664@urcmac.edu.mx,ruizlaura664
+Laura,Elizabeth,Ruiz,Espinosa,Mujer,30,665,4,lauraruiz665@urcmac.edu.mx,ruizlaura665
+Laura,Elizabeth,Tolentino,Hernandez,Mujer,26,666,2,lauratolentino666@urcmac.edu.mx,tolentinolaura666
+Laura,Elizabeth,Tolentino,Marinez,Mujer,30,667,2,lauratolentino667@urcmac.edu.mx,tolentinolaura667
+Laura,Elizabeth,Tolentino,Sanchez,Mujer,20,668,2,lauratolentino668@urcmac.edu.mx,tolentinolaura668
+Laura,Elizabeth,Tolentino,Estrada,Mujer,29,669,4,lauratolentino669@urcmac.edu.mx,tolentinolaura669
+Laura,Elizabeth,Tolentino,Espinosa,Mujer,25,670,4,lauratolentino670@urcmac.edu.mx,tolentinolaura670
+Laura,Elizabeth,Garcia,Hernandez,Mujer,27,671,3,lauragarcia671@urcmac.edu.mx,garcialaura671
+Laura,Elizabeth,Garcia,Marinez,Mujer,24,672,3,lauragarcia672@urcmac.edu.mx,garcialaura672
+Laura,Elizabeth,Garcia,Sanchez,Mujer,29,673,1,lauragarcia673@urcmac.edu.mx,garcialaura673
+Laura,Elizabeth,Garcia,Estrada,Mujer,25,674,5,lauragarcia674@urcmac.edu.mx,garcialaura674
+Laura,Elizabeth,Garcia,Espinosa,Mujer,23,675,5,lauragarcia675@urcmac.edu.mx,garcialaura675
+Laura,Urania,Salazar,Hernandez,Mujer,27,676,2,laurasalazar676@urcmac.edu.mx,salazarlaura676
+Laura,Urania,Salazar,Marinez,Mujer,30,677,4,laurasalazar677@urcmac.edu.mx,salazarlaura677
+Laura,Urania,Salazar,Sanchez,Mujer,29,678,1,laurasalazar678@urcmac.edu.mx,salazarlaura678
+Laura,Urania,Salazar,Estrada,Mujer,28,679,1,laurasalazar679@urcmac.edu.mx,salazarlaura679
+Laura,Urania,Salazar,Espinosa,Mujer,26,680,5,laurasalazar680@urcmac.edu.mx,salazarlaura680
+Laura,Urania,Rubio,Hernandez,Mujer,28,681,3,laurarubio681@urcmac.edu.mx,rubiolaura681
+Laura,Urania,Rubio,Marinez,Mujer,22,682,1,laurarubio682@urcmac.edu.mx,rubiolaura682
+Laura,Urania,Rubio,Sanchez,Mujer,20,683,5,laurarubio683@urcmac.edu.mx,rubiolaura683
+Laura,Urania,Rubio,Estrada,Mujer,20,684,1,laurarubio684@urcmac.edu.mx,rubiolaura684
+Laura,Urania,Rubio,Espinosa,Mujer,21,685,4,laurarubio685@urcmac.edu.mx,rubiolaura685
+Laura,Urania,Ruiz,Hernandez,Mujer,29,686,1,lauraruiz686@urcmac.edu.mx,ruizlaura686
+Laura,Urania,Ruiz,Marinez,Mujer,21,687,4,lauraruiz687@urcmac.edu.mx,ruizlaura687
+Laura,Urania,Ruiz,Sanchez,Mujer,28,688,2,lauraruiz688@urcmac.edu.mx,ruizlaura688
+Laura,Urania,Ruiz,Estrada,Mujer,27,689,1,lauraruiz689@urcmac.edu.mx,ruizlaura689
+Laura,Urania,Ruiz,Espinosa,Mujer,29,690,2,lauraruiz690@urcmac.edu.mx,ruizlaura690
+Laura,Urania,Tolentino,Hernandez,Mujer,30,691,4,lauratolentino691@urcmac.edu.mx,tolentinolaura691
+Laura,Urania,Tolentino,Marinez,Mujer,29,692,1,lauratolentino692@urcmac.edu.mx,tolentinolaura692
+Laura,Urania,Tolentino,Sanchez,Mujer,25,693,5,lauratolentino693@urcmac.edu.mx,tolentinolaura693
+Laura,Urania,Tolentino,Estrada,Mujer,27,694,1,lauratolentino694@urcmac.edu.mx,tolentinolaura694
+Laura,Urania,Tolentino,Espinosa,Mujer,30,695,5,lauratolentino695@urcmac.edu.mx,tolentinolaura695
+Laura,Urania,Garcia,Hernandez,Mujer,23,696,1,lauragarcia696@urcmac.edu.mx,garcialaura696
+Laura,Urania,Garcia,Marinez,Mujer,21,697,2,lauragarcia697@urcmac.edu.mx,garcialaura697
+Laura,Urania,Garcia,Sanchez,Mujer,29,698,3,lauragarcia698@urcmac.edu.mx,garcialaura698
+Laura,Urania,Garcia,Estrada,Mujer,22,699,4,lauragarcia699@urcmac.edu.mx,garcialaura699
+Laura,Urania,Garcia,Espinosa,Mujer,21,700,4,lauragarcia700@urcmac.edu.mx,garcialaura700
+Laura,Arely,Salazar,Hernandez,Mujer,29,701,3,laurasalazar701@urcmac.edu.mx,salazarlaura701
+Laura,Arely,Salazar,Marinez,Mujer,28,702,4,laurasalazar702@urcmac.edu.mx,salazarlaura702
+Laura,Arely,Salazar,Sanchez,Mujer,24,703,2,laurasalazar703@urcmac.edu.mx,salazarlaura703
+Laura,Arely,Salazar,Estrada,Mujer,28,704,2,laurasalazar704@urcmac.edu.mx,salazarlaura704
+Laura,Arely,Salazar,Espinosa,Mujer,24,705,3,laurasalazar705@urcmac.edu.mx,salazarlaura705
+Laura,Arely,Rubio,Hernandez,Mujer,21,706,2,laurarubio706@urcmac.edu.mx,rubiolaura706
+Laura,Arely,Rubio,Marinez,Mujer,20,707,3,laurarubio707@urcmac.edu.mx,rubiolaura707
+Laura,Arely,Rubio,Sanchez,Mujer,25,708,4,laurarubio708@urcmac.edu.mx,rubiolaura708
+Laura,Arely,Rubio,Estrada,Mujer,30,709,5,laurarubio709@urcmac.edu.mx,rubiolaura709
+Laura,Arely,Rubio,Espinosa,Mujer,21,710,1,laurarubio710@urcmac.edu.mx,rubiolaura710
+Laura,Arely,Ruiz,Hernandez,Mujer,24,711,5,lauraruiz711@urcmac.edu.mx,ruizlaura711
+Laura,Arely,Ruiz,Marinez,Mujer,22,712,3,lauraruiz712@urcmac.edu.mx,ruizlaura712
+Laura,Arely,Ruiz,Sanchez,Mujer,27,713,3,lauraruiz713@urcmac.edu.mx,ruizlaura713
+Laura,Arely,Ruiz,Estrada,Mujer,24,714,5,lauraruiz714@urcmac.edu.mx,ruizlaura714
+Laura,Arely,Ruiz,Espinosa,Mujer,27,715,1,lauraruiz715@urcmac.edu.mx,ruizlaura715
+Laura,Arely,Tolentino,Hernandez,Mujer,30,716,4,lauratolentino716@urcmac.edu.mx,tolentinolaura716
+Laura,Arely,Tolentino,Marinez,Mujer,24,717,2,lauratolentino717@urcmac.edu.mx,tolentinolaura717
+Laura,Arely,Tolentino,Sanchez,Mujer,26,718,5,lauratolentino718@urcmac.edu.mx,tolentinolaura718
+Laura,Arely,Tolentino,Estrada,Mujer,26,719,4,lauratolentino719@urcmac.edu.mx,tolentinolaura719
+Laura,Arely,Tolentino,Espinosa,Mujer,26,720,2,lauratolentino720@urcmac.edu.mx,tolentinolaura720
+Laura,Arely,Garcia,Hernandez,Mujer,21,721,1,lauragarcia721@urcmac.edu.mx,garcialaura721
+Laura,Arely,Garcia,Marinez,Mujer,24,722,4,lauragarcia722@urcmac.edu.mx,garcialaura722
+Laura,Arely,Garcia,Sanchez,Mujer,22,723,1,lauragarcia723@urcmac.edu.mx,garcialaura723
+Laura,Arely,Garcia,Estrada,Mujer,23,724,3,lauragarcia724@urcmac.edu.mx,garcialaura724
+Laura,Arely,Garcia,Espinosa,Mujer,30,725,4,lauragarcia725@urcmac.edu.mx,garcialaura725
+Laura,,Salazar,Hernandez,Mujer,27,726,1,laurasalazar726@urcmac.edu.mx,salazarlaura726
+Laura,,Salazar,Marinez,Mujer,27,727,3,laurasalazar727@urcmac.edu.mx,salazarlaura727
+Laura,,Salazar,Sanchez,Mujer,23,728,1,laurasalazar728@urcmac.edu.mx,salazarlaura728
+Laura,,Salazar,Estrada,Mujer,23,729,4,laurasalazar729@urcmac.edu.mx,salazarlaura729
+Laura,,Salazar,Espinosa,Mujer,28,730,2,laurasalazar730@urcmac.edu.mx,salazarlaura730
+Laura,,Rubio,Hernandez,Mujer,29,731,4,laurarubio731@urcmac.edu.mx,rubiolaura731
+Laura,,Rubio,Marinez,Mujer,30,732,4,laurarubio732@urcmac.edu.mx,rubiolaura732
+Laura,,Rubio,Sanchez,Mujer,26,733,1,laurarubio733@urcmac.edu.mx,rubiolaura733
+Laura,,Rubio,Estrada,Mujer,24,734,4,laurarubio734@urcmac.edu.mx,rubiolaura734
+Laura,,Rubio,Espinosa,Mujer,25,735,4,laurarubio735@urcmac.edu.mx,rubiolaura735
+Laura,,Ruiz,Hernandez,Mujer,24,736,2,lauraruiz736@urcmac.edu.mx,ruizlaura736
+Laura,,Ruiz,Marinez,Mujer,20,737,1,lauraruiz737@urcmac.edu.mx,ruizlaura737
+Laura,,Ruiz,Sanchez,Mujer,24,738,3,lauraruiz738@urcmac.edu.mx,ruizlaura738
+Laura,,Ruiz,Estrada,Mujer,23,739,4,lauraruiz739@urcmac.edu.mx,ruizlaura739
+Laura,,Ruiz,Espinosa,Mujer,27,740,4,lauraruiz740@urcmac.edu.mx,ruizlaura740
+Laura,,Tolentino,Hernandez,Mujer,29,741,3,lauratolentino741@urcmac.edu.mx,tolentinolaura741
+Laura,,Tolentino,Marinez,Mujer,21,742,1,lauratolentino742@urcmac.edu.mx,tolentinolaura742
+Laura,,Tolentino,Sanchez,Mujer,26,743,3,lauratolentino743@urcmac.edu.mx,tolentinolaura743
+Laura,,Tolentino,Estrada,Mujer,25,744,5,lauratolentino744@urcmac.edu.mx,tolentinolaura744
+Laura,,Tolentino,Espinosa,Mujer,28,745,1,lauratolentino745@urcmac.edu.mx,tolentinolaura745
+Laura,,Garcia,Hernandez,Mujer,26,746,5,lauragarcia746@urcmac.edu.mx,garcialaura746
+Laura,,Garcia,Marinez,Mujer,24,747,3,lauragarcia747@urcmac.edu.mx,garcialaura747
+Laura,,Garcia,Sanchez,Mujer,29,748,3,lauragarcia748@urcmac.edu.mx,garcialaura748
+Laura,,Garcia,Estrada,Mujer,21,749,2,lauragarcia749@urcmac.edu.mx,garcialaura749
+Laura,,Garcia,Espinosa,Mujer,29,750,3,lauragarcia750@urcmac.edu.mx,garcialaura750
+Valeria,,Salazar,Hernandez,Mujer,23,751,3,valeriasalazar751@urcmac.edu.mx,salazarvaleria751
+Valeria,,Salazar,Marinez,Mujer,25,752,2,valeriasalazar752@urcmac.edu.mx,salazarvaleria752
+Valeria,,Salazar,Sanchez,Mujer,28,753,3,valeriasalazar753@urcmac.edu.mx,salazarvaleria753
+Valeria,,Salazar,Estrada,Mujer,27,754,4,valeriasalazar754@urcmac.edu.mx,salazarvaleria754
+Valeria,,Salazar,Espinosa,Mujer,29,755,2,valeriasalazar755@urcmac.edu.mx,salazarvaleria755
+Valeria,,Rubio,Hernandez,Mujer,27,756,3,valeriarubio756@urcmac.edu.mx,rubiovaleria756
+Valeria,,Rubio,Marinez,Mujer,22,757,1,valeriarubio757@urcmac.edu.mx,rubiovaleria757
+Valeria,,Rubio,Sanchez,Mujer,29,758,5,valeriarubio758@urcmac.edu.mx,rubiovaleria758
+Valeria,,Rubio,Estrada,Mujer,28,759,5,valeriarubio759@urcmac.edu.mx,rubiovaleria759
+Valeria,,Rubio,Espinosa,Mujer,21,760,3,valeriarubio760@urcmac.edu.mx,rubiovaleria760
+Valeria,,Ruiz,Hernandez,Mujer,26,761,1,valeriaruiz761@urcmac.edu.mx,ruizvaleria761
+Valeria,,Ruiz,Marinez,Mujer,30,762,3,valeriaruiz762@urcmac.edu.mx,ruizvaleria762
+Valeria,,Ruiz,Sanchez,Mujer,26,763,4,valeriaruiz763@urcmac.edu.mx,ruizvaleria763
+Valeria,,Ruiz,Estrada,Mujer,26,764,3,valeriaruiz764@urcmac.edu.mx,ruizvaleria764
+Valeria,,Ruiz,Espinosa,Mujer,27,765,4,valeriaruiz765@urcmac.edu.mx,ruizvaleria765
+Valeria,,Tolentino,Hernandez,Mujer,24,766,5,valeriatolentino766@urcmac.edu.mx,tolentinovaleria766
+Valeria,,Tolentino,Marinez,Mujer,30,767,3,valeriatolentino767@urcmac.edu.mx,tolentinovaleria767
+Valeria,,Tolentino,Sanchez,Mujer,26,768,3,valeriatolentino768@urcmac.edu.mx,tolentinovaleria768
+Valeria,,Tolentino,Estrada,Mujer,25,769,1,valeriatolentino769@urcmac.edu.mx,tolentinovaleria769
+Valeria,,Tolentino,Espinosa,Mujer,27,770,4,valeriatolentino770@urcmac.edu.mx,tolentinovaleria770
+Valeria,,Garcia,Hernandez,Mujer,28,771,4,valeriagarcia771@urcmac.edu.mx,garciavaleria771
+Valeria,,Garcia,Marinez,Mujer,30,772,2,valeriagarcia772@urcmac.edu.mx,garciavaleria772
+Valeria,,Garcia,Sanchez,Mujer,22,773,2,valeriagarcia773@urcmac.edu.mx,garciavaleria773
+Valeria,,Garcia,Estrada,Mujer,21,774,1,valeriagarcia774@urcmac.edu.mx,garciavaleria774
+Valeria,,Garcia,Espinosa,Mujer,26,775,4,valeriagarcia775@urcmac.edu.mx,garciavaleria775
+Valeria,Elizabeth,Salazar,Hernandez,Mujer,25,776,2,valeriasalazar776@urcmac.edu.mx,salazarvaleria776
+Valeria,Elizabeth,Salazar,Marinez,Mujer,30,777,1,valeriasalazar777@urcmac.edu.mx,salazarvaleria777
+Valeria,Elizabeth,Salazar,Sanchez,Mujer,27,778,3,valeriasalazar778@urcmac.edu.mx,salazarvaleria778
+Valeria,Elizabeth,Salazar,Estrada,Mujer,30,779,1,valeriasalazar779@urcmac.edu.mx,salazarvaleria779
+Valeria,Elizabeth,Salazar,Espinosa,Mujer,29,780,3,valeriasalazar780@urcmac.edu.mx,salazarvaleria780
+Valeria,Elizabeth,Rubio,Hernandez,Mujer,28,781,4,valeriarubio781@urcmac.edu.mx,rubiovaleria781
+Valeria,Elizabeth,Rubio,Marinez,Mujer,27,782,5,valeriarubio782@urcmac.edu.mx,rubiovaleria782
+Valeria,Elizabeth,Rubio,Sanchez,Mujer,24,783,5,valeriarubio783@urcmac.edu.mx,rubiovaleria783
+Valeria,Elizabeth,Rubio,Estrada,Mujer,24,784,5,valeriarubio784@urcmac.edu.mx,rubiovaleria784
+Valeria,Elizabeth,Rubio,Espinosa,Mujer,22,785,4,valeriarubio785@urcmac.edu.mx,rubiovaleria785
+Valeria,Elizabeth,Ruiz,Hernandez,Mujer,27,786,4,valeriaruiz786@urcmac.edu.mx,ruizvaleria786
+Valeria,Elizabeth,Ruiz,Marinez,Mujer,26,787,3,valeriaruiz787@urcmac.edu.mx,ruizvaleria787
+Valeria,Elizabeth,Ruiz,Sanchez,Mujer,30,788,2,valeriaruiz788@urcmac.edu.mx,ruizvaleria788
+Valeria,Elizabeth,Ruiz,Estrada,Mujer,21,789,5,valeriaruiz789@urcmac.edu.mx,ruizvaleria789
+Valeria,Elizabeth,Ruiz,Espinosa,Mujer,29,790,2,valeriaruiz790@urcmac.edu.mx,ruizvaleria790
+Valeria,Elizabeth,Tolentino,Hernandez,Mujer,20,791,5,valeriatolentino791@urcmac.edu.mx,tolentinovaleria791
+Valeria,Elizabeth,Tolentino,Marinez,Mujer,22,792,2,valeriatolentino792@urcmac.edu.mx,tolentinovaleria792
+Valeria,Elizabeth,Tolentino,Sanchez,Mujer,22,793,4,valeriatolentino793@urcmac.edu.mx,tolentinovaleria793
+Valeria,Elizabeth,Tolentino,Estrada,Mujer,21,794,1,valeriatolentino794@urcmac.edu.mx,tolentinovaleria794
+Valeria,Elizabeth,Tolentino,Espinosa,Mujer,30,795,5,valeriatolentino795@urcmac.edu.mx,tolentinovaleria795
+Valeria,Elizabeth,Garcia,Hernandez,Mujer,27,796,3,valeriagarcia796@urcmac.edu.mx,garciavaleria796
+Valeria,Elizabeth,Garcia,Marinez,Mujer,22,797,1,valeriagarcia797@urcmac.edu.mx,garciavaleria797
+Valeria,Elizabeth,Garcia,Sanchez,Mujer,21,798,5,valeriagarcia798@urcmac.edu.mx,garciavaleria798
+Valeria,Elizabeth,Garcia,Estrada,Mujer,20,799,2,valeriagarcia799@urcmac.edu.mx,garciavaleria799
+Valeria,Elizabeth,Garcia,Espinosa,Mujer,27,800,2,valeriagarcia800@urcmac.edu.mx,garciavaleria800
+Valeria,Urania,Salazar,Hernandez,Mujer,24,801,3,valeriasalazar801@urcmac.edu.mx,salazarvaleria801
+Valeria,Urania,Salazar,Marinez,Mujer,30,802,4,valeriasalazar802@urcmac.edu.mx,salazarvaleria802
+Valeria,Urania,Salazar,Sanchez,Mujer,22,803,1,valeriasalazar803@urcmac.edu.mx,salazarvaleria803
+Valeria,Urania,Salazar,Estrada,Mujer,25,804,2,valeriasalazar804@urcmac.edu.mx,salazarvaleria804
+Valeria,Urania,Salazar,Espinosa,Mujer,30,805,4,valeriasalazar805@urcmac.edu.mx,salazarvaleria805
+Valeria,Urania,Rubio,Hernandez,Mujer,23,806,1,valeriarubio806@urcmac.edu.mx,rubiovaleria806
+Valeria,Urania,Rubio,Marinez,Mujer,22,807,1,valeriarubio807@urcmac.edu.mx,rubiovaleria807
+Valeria,Urania,Rubio,Sanchez,Mujer,25,808,4,valeriarubio808@urcmac.edu.mx,rubiovaleria808
+Valeria,Urania,Rubio,Estrada,Mujer,26,809,3,valeriarubio809@urcmac.edu.mx,rubiovaleria809
+Valeria,Urania,Rubio,Espinosa,Mujer,29,810,3,valeriarubio810@urcmac.edu.mx,rubiovaleria810
+Valeria,Urania,Ruiz,Hernandez,Mujer,23,811,2,valeriaruiz811@urcmac.edu.mx,ruizvaleria811
+Valeria,Urania,Ruiz,Marinez,Mujer,21,812,3,valeriaruiz812@urcmac.edu.mx,ruizvaleria812
+Valeria,Urania,Ruiz,Sanchez,Mujer,27,813,1,valeriaruiz813@urcmac.edu.mx,ruizvaleria813
+Valeria,Urania,Ruiz,Estrada,Mujer,21,814,2,valeriaruiz814@urcmac.edu.mx,ruizvaleria814
+Valeria,Urania,Ruiz,Espinosa,Mujer,21,815,1,valeriaruiz815@urcmac.edu.mx,ruizvaleria815
+Valeria,Urania,Tolentino,Hernandez,Mujer,27,816,4,valeriatolentino816@urcmac.edu.mx,tolentinovaleria816
+Valeria,Urania,Tolentino,Marinez,Mujer,21,817,1,valeriatolentino817@urcmac.edu.mx,tolentinovaleria817
+Valeria,Urania,Tolentino,Sanchez,Mujer,20,818,5,valeriatolentino818@urcmac.edu.mx,tolentinovaleria818
+Valeria,Urania,Tolentino,Estrada,Mujer,25,819,5,valeriatolentino819@urcmac.edu.mx,tolentinovaleria819
+Valeria,Urania,Tolentino,Espinosa,Mujer,26,820,1,valeriatolentino820@urcmac.edu.mx,tolentinovaleria820
+Valeria,Urania,Garcia,Hernandez,Mujer,23,821,2,valeriagarcia821@urcmac.edu.mx,garciavaleria821
+Valeria,Urania,Garcia,Marinez,Mujer,30,822,2,valeriagarcia822@urcmac.edu.mx,garciavaleria822
+Valeria,Urania,Garcia,Sanchez,Mujer,27,823,1,valeriagarcia823@urcmac.edu.mx,garciavaleria823
+Valeria,Urania,Garcia,Estrada,Mujer,28,824,4,valeriagarcia824@urcmac.edu.mx,garciavaleria824
+Valeria,Urania,Garcia,Espinosa,Mujer,24,825,1,valeriagarcia825@urcmac.edu.mx,garciavaleria825
+Valeria,Arely,Salazar,Hernandez,Mujer,29,826,4,valeriasalazar826@urcmac.edu.mx,salazarvaleria826
+Valeria,Arely,Salazar,Marinez,Mujer,27,827,2,valeriasalazar827@urcmac.edu.mx,salazarvaleria827
+Valeria,Arely,Salazar,Sanchez,Mujer,24,828,1,valeriasalazar828@urcmac.edu.mx,salazarvaleria828
+Valeria,Arely,Salazar,Estrada,Mujer,22,829,3,valeriasalazar829@urcmac.edu.mx,salazarvaleria829
+Valeria,Arely,Salazar,Espinosa,Mujer,30,830,4,valeriasalazar830@urcmac.edu.mx,salazarvaleria830
+Valeria,Arely,Rubio,Hernandez,Mujer,22,831,3,valeriarubio831@urcmac.edu.mx,rubiovaleria831
+Valeria,Arely,Rubio,Marinez,Mujer,29,832,3,valeriarubio832@urcmac.edu.mx,rubiovaleria832
+Valeria,Arely,Rubio,Sanchez,Mujer,24,833,1,valeriarubio833@urcmac.edu.mx,rubiovaleria833
+Valeria,Arely,Rubio,Estrada,Mujer,20,834,3,valeriarubio834@urcmac.edu.mx,rubiovaleria834
+Valeria,Arely,Rubio,Espinosa,Mujer,26,835,3,valeriarubio835@urcmac.edu.mx,rubiovaleria835
+Valeria,Arely,Ruiz,Hernandez,Mujer,26,836,4,valeriaruiz836@urcmac.edu.mx,ruizvaleria836
+Valeria,Arely,Ruiz,Marinez,Mujer,29,837,4,valeriaruiz837@urcmac.edu.mx,ruizvaleria837
+Valeria,Arely,Ruiz,Sanchez,Mujer,26,838,3,valeriaruiz838@urcmac.edu.mx,ruizvaleria838
+Valeria,Arely,Ruiz,Estrada,Mujer,25,839,5,valeriaruiz839@urcmac.edu.mx,ruizvaleria839
+Valeria,Arely,Ruiz,Espinosa,Mujer,26,840,1,valeriaruiz840@urcmac.edu.mx,ruizvaleria840
+Valeria,Arely,Tolentino,Hernandez,Mujer,22,841,5,valeriatolentino841@urcmac.edu.mx,tolentinovaleria841
+Valeria,Arely,Tolentino,Marinez,Mujer,23,842,5,valeriatolentino842@urcmac.edu.mx,tolentinovaleria842
+Valeria,Arely,Tolentino,Sanchez,Mujer,27,843,2,valeriatolentino843@urcmac.edu.mx,tolentinovaleria843
+Valeria,Arely,Tolentino,Estrada,Mujer,26,844,4,valeriatolentino844@urcmac.edu.mx,tolentinovaleria844
+Valeria,Arely,Tolentino,Espinosa,Mujer,24,845,2,valeriatolentino845@urcmac.edu.mx,tolentinovaleria845
+Valeria,Arely,Garcia,Hernandez,Mujer,29,846,4,valeriagarcia846@urcmac.edu.mx,garciavaleria846
+Valeria,Arely,Garcia,Marinez,Mujer,26,847,1,valeriagarcia847@urcmac.edu.mx,garciavaleria847
+Valeria,Arely,Garcia,Sanchez,Mujer,27,848,3,valeriagarcia848@urcmac.edu.mx,garciavaleria848
+Valeria,Arely,Garcia,Estrada,Mujer,22,849,2,valeriagarcia849@urcmac.edu.mx,garciavaleria849
+Valeria,Arely,Garcia,Espinosa,Mujer,28,850,1,valeriagarcia850@urcmac.edu.mx,garciavaleria850
+Valeria,,Salazar,Hernandez,Mujer,20,851,5,valeriasalazar851@urcmac.edu.mx,salazarvaleria851
+Valeria,,Salazar,Marinez,Mujer,29,852,2,valeriasalazar852@urcmac.edu.mx,salazarvaleria852
+Valeria,,Salazar,Sanchez,Mujer,29,853,1,valeriasalazar853@urcmac.edu.mx,salazarvaleria853
+Valeria,,Salazar,Estrada,Mujer,26,854,3,valeriasalazar854@urcmac.edu.mx,salazarvaleria854
+Valeria,,Salazar,Espinosa,Mujer,20,855,1,valeriasalazar855@urcmac.edu.mx,salazarvaleria855
+Valeria,,Rubio,Hernandez,Mujer,28,856,1,valeriarubio856@urcmac.edu.mx,rubiovaleria856
+Valeria,,Rubio,Marinez,Mujer,21,857,5,valeriarubio857@urcmac.edu.mx,rubiovaleria857
+Valeria,,Rubio,Sanchez,Mujer,27,858,3,valeriarubio858@urcmac.edu.mx,rubiovaleria858
+Valeria,,Rubio,Estrada,Mujer,27,859,4,valeriarubio859@urcmac.edu.mx,rubiovaleria859
+Valeria,,Rubio,Espinosa,Mujer,21,860,2,valeriarubio860@urcmac.edu.mx,rubiovaleria860
+Valeria,,Ruiz,Hernandez,Mujer,22,861,2,valeriaruiz861@urcmac.edu.mx,ruizvaleria861
+Valeria,,Ruiz,Marinez,Mujer,26,862,3,valeriaruiz862@urcmac.edu.mx,ruizvaleria862
+Valeria,,Ruiz,Sanchez,Mujer,28,863,3,valeriaruiz863@urcmac.edu.mx,ruizvaleria863
+Valeria,,Ruiz,Estrada,Mujer,23,864,2,valeriaruiz864@urcmac.edu.mx,ruizvaleria864
+Valeria,,Ruiz,Espinosa,Mujer,27,865,1,valeriaruiz865@urcmac.edu.mx,ruizvaleria865
+Valeria,,Tolentino,Hernandez,Mujer,30,866,2,valeriatolentino866@urcmac.edu.mx,tolentinovaleria866
+Valeria,,Tolentino,Marinez,Mujer,29,867,2,valeriatolentino867@urcmac.edu.mx,tolentinovaleria867
+Valeria,,Tolentino,Sanchez,Mujer,22,868,2,valeriatolentino868@urcmac.edu.mx,tolentinovaleria868
+Valeria,,Tolentino,Estrada,Mujer,27,869,3,valeriatolentino869@urcmac.edu.mx,tolentinovaleria869
+Valeria,,Tolentino,Espinosa,Mujer,24,870,5,valeriatolentino870@urcmac.edu.mx,tolentinovaleria870
+Valeria,,Garcia,Hernandez,Mujer,29,871,4,valeriagarcia871@urcmac.edu.mx,garciavaleria871
+Valeria,,Garcia,Marinez,Mujer,28,872,3,valeriagarcia872@urcmac.edu.mx,garciavaleria872
+Valeria,,Garcia,Sanchez,Mujer,22,873,3,valeriagarcia873@urcmac.edu.mx,garciavaleria873
+Valeria,,Garcia,Estrada,Mujer,29,874,3,valeriagarcia874@urcmac.edu.mx,garciavaleria874
+Valeria,,Garcia,Espinosa,Mujer,23,875,2,valeriagarcia875@urcmac.edu.mx,garciavaleria875
+Gloria,,Salazar,Hernandez,Mujer,23,876,2,gloriasalazar876@urcmac.edu.mx,salazargloria876
+Gloria,,Salazar,Marinez,Mujer,22,877,4,gloriasalazar877@urcmac.edu.mx,salazargloria877
+Gloria,,Salazar,Sanchez,Mujer,28,878,5,gloriasalazar878@urcmac.edu.mx,salazargloria878
+Gloria,,Salazar,Estrada,Mujer,24,879,5,gloriasalazar879@urcmac.edu.mx,salazargloria879
+Gloria,,Salazar,Espinosa,Mujer,20,880,5,gloriasalazar880@urcmac.edu.mx,salazargloria880
+Gloria,,Rubio,Hernandez,Mujer,25,881,3,gloriarubio881@urcmac.edu.mx,rubiogloria881
+Gloria,,Rubio,Marinez,Mujer,20,882,1,gloriarubio882@urcmac.edu.mx,rubiogloria882
+Gloria,,Rubio,Sanchez,Mujer,24,883,4,gloriarubio883@urcmac.edu.mx,rubiogloria883
+Gloria,,Rubio,Estrada,Mujer,24,884,1,gloriarubio884@urcmac.edu.mx,rubiogloria884
+Gloria,,Rubio,Espinosa,Mujer,20,885,3,gloriarubio885@urcmac.edu.mx,rubiogloria885
+Gloria,,Ruiz,Hernandez,Mujer,28,886,5,gloriaruiz886@urcmac.edu.mx,ruizgloria886
+Gloria,,Ruiz,Marinez,Mujer,23,887,2,gloriaruiz887@urcmac.edu.mx,ruizgloria887
+Gloria,,Ruiz,Sanchez,Mujer,23,888,2,gloriaruiz888@urcmac.edu.mx,ruizgloria888
+Gloria,,Ruiz,Estrada,Mujer,28,889,1,gloriaruiz889@urcmac.edu.mx,ruizgloria889
+Gloria,,Ruiz,Espinosa,Mujer,27,890,1,gloriaruiz890@urcmac.edu.mx,ruizgloria890
+Gloria,,Tolentino,Hernandez,Mujer,21,891,5,gloriatolentino891@urcmac.edu.mx,tolentinogloria891
+Gloria,,Tolentino,Marinez,Mujer,23,892,1,gloriatolentino892@urcmac.edu.mx,tolentinogloria892
+Gloria,,Tolentino,Sanchez,Mujer,24,893,3,gloriatolentino893@urcmac.edu.mx,tolentinogloria893
+Gloria,,Tolentino,Estrada,Mujer,27,894,1,gloriatolentino894@urcmac.edu.mx,tolentinogloria894
+Gloria,,Tolentino,Espinosa,Mujer,23,895,5,gloriatolentino895@urcmac.edu.mx,tolentinogloria895
+Gloria,,Garcia,Hernandez,Mujer,22,896,2,gloriagarcia896@urcmac.edu.mx,garciagloria896
+Gloria,,Garcia,Marinez,Mujer,24,897,4,gloriagarcia897@urcmac.edu.mx,garciagloria897
+Gloria,,Garcia,Sanchez,Mujer,22,898,1,gloriagarcia898@urcmac.edu.mx,garciagloria898
+Gloria,,Garcia,Estrada,Mujer,30,899,5,gloriagarcia899@urcmac.edu.mx,garciagloria899
+Gloria,,Garcia,Espinosa,Mujer,24,900,2,gloriagarcia900@urcmac.edu.mx,garciagloria900
+Gloria,Elizabeth,Salazar,Hernandez,Mujer,30,901,2,gloriasalazar901@urcmac.edu.mx,salazargloria901
+Gloria,Elizabeth,Salazar,Marinez,Mujer,24,902,1,gloriasalazar902@urcmac.edu.mx,salazargloria902
+Gloria,Elizabeth,Salazar,Sanchez,Mujer,20,903,3,gloriasalazar903@urcmac.edu.mx,salazargloria903
+Gloria,Elizabeth,Salazar,Estrada,Mujer,26,904,5,gloriasalazar904@urcmac.edu.mx,salazargloria904
+Gloria,Elizabeth,Salazar,Espinosa,Mujer,25,905,1,gloriasalazar905@urcmac.edu.mx,salazargloria905
+Gloria,Elizabeth,Rubio,Hernandez,Mujer,29,906,5,gloriarubio906@urcmac.edu.mx,rubiogloria906
+Gloria,Elizabeth,Rubio,Marinez,Mujer,24,907,3,gloriarubio907@urcmac.edu.mx,rubiogloria907
+Gloria,Elizabeth,Rubio,Sanchez,Mujer,26,908,1,gloriarubio908@urcmac.edu.mx,rubiogloria908
+Gloria,Elizabeth,Rubio,Estrada,Mujer,20,909,3,gloriarubio909@urcmac.edu.mx,rubiogloria909
+Gloria,Elizabeth,Rubio,Espinosa,Mujer,27,910,4,gloriarubio910@urcmac.edu.mx,rubiogloria910
+Gloria,Elizabeth,Ruiz,Hernandez,Mujer,22,911,3,gloriaruiz911@urcmac.edu.mx,ruizgloria911
+Gloria,Elizabeth,Ruiz,Marinez,Mujer,21,912,1,gloriaruiz912@urcmac.edu.mx,ruizgloria912
+Gloria,Elizabeth,Ruiz,Sanchez,Mujer,28,913,3,gloriaruiz913@urcmac.edu.mx,ruizgloria913
+Gloria,Elizabeth,Ruiz,Estrada,Mujer,30,914,2,gloriaruiz914@urcmac.edu.mx,ruizgloria914
+Gloria,Elizabeth,Ruiz,Espinosa,Mujer,25,915,5,gloriaruiz915@urcmac.edu.mx,ruizgloria915
+Gloria,Elizabeth,Tolentino,Hernandez,Mujer,22,916,2,gloriatolentino916@urcmac.edu.mx,tolentinogloria916
+Gloria,Elizabeth,Tolentino,Marinez,Mujer,25,917,4,gloriatolentino917@urcmac.edu.mx,tolentinogloria917
+Gloria,Elizabeth,Tolentino,Sanchez,Mujer,30,918,2,gloriatolentino918@urcmac.edu.mx,tolentinogloria918
+Gloria,Elizabeth,Tolentino,Estrada,Mujer,26,919,3,gloriatolentino919@urcmac.edu.mx,tolentinogloria919
+Gloria,Elizabeth,Tolentino,Espinosa,Mujer,20,920,5,gloriatolentino920@urcmac.edu.mx,tolentinogloria920
+Gloria,Elizabeth,Garcia,Hernandez,Mujer,26,921,3,gloriagarcia921@urcmac.edu.mx,garciagloria921
+Gloria,Elizabeth,Garcia,Marinez,Mujer,30,922,3,gloriagarcia922@urcmac.edu.mx,garciagloria922
+Gloria,Elizabeth,Garcia,Sanchez,Mujer,25,923,3,gloriagarcia923@urcmac.edu.mx,garciagloria923
+Gloria,Elizabeth,Garcia,Estrada,Mujer,20,924,3,gloriagarcia924@urcmac.edu.mx,garciagloria924
+Gloria,Elizabeth,Garcia,Espinosa,Mujer,20,925,3,gloriagarcia925@urcmac.edu.mx,garciagloria925
+Gloria,Urania,Salazar,Hernandez,Mujer,29,926,3,gloriasalazar926@urcmac.edu.mx,salazargloria926
+Gloria,Urania,Salazar,Marinez,Mujer,25,927,2,gloriasalazar927@urcmac.edu.mx,salazargloria927
+Gloria,Urania,Salazar,Sanchez,Mujer,24,928,5,gloriasalazar928@urcmac.edu.mx,salazargloria928
+Gloria,Urania,Salazar,Estrada,Mujer,30,929,4,gloriasalazar929@urcmac.edu.mx,salazargloria929
+Gloria,Urania,Salazar,Espinosa,Mujer,27,930,5,gloriasalazar930@urcmac.edu.mx,salazargloria930
+Gloria,Urania,Rubio,Hernandez,Mujer,27,931,5,gloriarubio931@urcmac.edu.mx,rubiogloria931
+Gloria,Urania,Rubio,Marinez,Mujer,22,932,2,gloriarubio932@urcmac.edu.mx,rubiogloria932
+Gloria,Urania,Rubio,Sanchez,Mujer,29,933,3,gloriarubio933@urcmac.edu.mx,rubiogloria933
+Gloria,Urania,Rubio,Estrada,Mujer,22,934,1,gloriarubio934@urcmac.edu.mx,rubiogloria934
+Gloria,Urania,Rubio,Espinosa,Mujer,21,935,1,gloriarubio935@urcmac.edu.mx,rubiogloria935
+Gloria,Urania,Ruiz,Hernandez,Mujer,20,936,1,gloriaruiz936@urcmac.edu.mx,ruizgloria936
+Gloria,Urania,Ruiz,Marinez,Mujer,28,937,3,gloriaruiz937@urcmac.edu.mx,ruizgloria937
+Gloria,Urania,Ruiz,Sanchez,Mujer,30,938,1,gloriaruiz938@urcmac.edu.mx,ruizgloria938
+Gloria,Urania,Ruiz,Estrada,Mujer,22,939,3,gloriaruiz939@urcmac.edu.mx,ruizgloria939
+Gloria,Urania,Ruiz,Espinosa,Mujer,28,940,3,gloriaruiz940@urcmac.edu.mx,ruizgloria940
+Gloria,Urania,Tolentino,Hernandez,Mujer,29,941,1,gloriatolentino941@urcmac.edu.mx,tolentinogloria941
+Gloria,Urania,Tolentino,Marinez,Mujer,27,942,2,gloriatolentino942@urcmac.edu.mx,tolentinogloria942
+Gloria,Urania,Tolentino,Sanchez,Mujer,22,943,4,gloriatolentino943@urcmac.edu.mx,tolentinogloria943
+Gloria,Urania,Tolentino,Estrada,Mujer,22,944,4,gloriatolentino944@urcmac.edu.mx,tolentinogloria944
+Gloria,Urania,Tolentino,Espinosa,Mujer,23,945,3,gloriatolentino945@urcmac.edu.mx,tolentinogloria945
+Gloria,Urania,Garcia,Hernandez,Mujer,24,946,3,gloriagarcia946@urcmac.edu.mx,garciagloria946
+Gloria,Urania,Garcia,Marinez,Mujer,20,947,4,gloriagarcia947@urcmac.edu.mx,garciagloria947
+Gloria,Urania,Garcia,Sanchez,Mujer,26,948,3,gloriagarcia948@urcmac.edu.mx,garciagloria948
+Gloria,Urania,Garcia,Estrada,Mujer,28,949,2,gloriagarcia949@urcmac.edu.mx,garciagloria949
+Gloria,Urania,Garcia,Espinosa,Mujer,24,950,2,gloriagarcia950@urcmac.edu.mx,garciagloria950
+Gloria,Arely,Salazar,Hernandez,Mujer,24,951,4,gloriasalazar951@urcmac.edu.mx,salazargloria951
+Gloria,Arely,Salazar,Marinez,Mujer,23,952,2,gloriasalazar952@urcmac.edu.mx,salazargloria952
+Gloria,Arely,Salazar,Sanchez,Mujer,23,953,5,gloriasalazar953@urcmac.edu.mx,salazargloria953
+Gloria,Arely,Salazar,Estrada,Mujer,27,954,4,gloriasalazar954@urcmac.edu.mx,salazargloria954
+Gloria,Arely,Salazar,Espinosa,Mujer,30,955,5,gloriasalazar955@urcmac.edu.mx,salazargloria955
+Gloria,Arely,Rubio,Hernandez,Mujer,28,956,1,gloriarubio956@urcmac.edu.mx,rubiogloria956
+Gloria,Arely,Rubio,Marinez,Mujer,30,957,2,gloriarubio957@urcmac.edu.mx,rubiogloria957
+Gloria,Arely,Rubio,Sanchez,Mujer,22,958,3,gloriarubio958@urcmac.edu.mx,rubiogloria958
+Gloria,Arely,Rubio,Estrada,Mujer,21,959,4,gloriarubio959@urcmac.edu.mx,rubiogloria959
+Gloria,Arely,Rubio,Espinosa,Mujer,27,960,1,gloriarubio960@urcmac.edu.mx,rubiogloria960
+Gloria,Arely,Ruiz,Hernandez,Mujer,29,961,5,gloriaruiz961@urcmac.edu.mx,ruizgloria961
+Gloria,Arely,Ruiz,Marinez,Mujer,20,962,4,gloriaruiz962@urcmac.edu.mx,ruizgloria962
+Gloria,Arely,Ruiz,Sanchez,Mujer,24,963,3,gloriaruiz963@urcmac.edu.mx,ruizgloria963
+Gloria,Arely,Ruiz,Estrada,Mujer,23,964,4,gloriaruiz964@urcmac.edu.mx,ruizgloria964
+Gloria,Arely,Ruiz,Espinosa,Mujer,29,965,5,gloriaruiz965@urcmac.edu.mx,ruizgloria965
+Gloria,Arely,Tolentino,Hernandez,Mujer,21,966,4,gloriatolentino966@urcmac.edu.mx,tolentinogloria966
+Gloria,Arely,Tolentino,Marinez,Mujer,25,967,3,gloriatolentino967@urcmac.edu.mx,tolentinogloria967
+Gloria,Arely,Tolentino,Sanchez,Mujer,27,968,1,gloriatolentino968@urcmac.edu.mx,tolentinogloria968
+Gloria,Arely,Tolentino,Estrada,Mujer,30,969,1,gloriatolentino969@urcmac.edu.mx,tolentinogloria969
+Gloria,Arely,Tolentino,Espinosa,Mujer,20,970,4,gloriatolentino970@urcmac.edu.mx,tolentinogloria970
+Gloria,Arely,Garcia,Hernandez,Mujer,30,971,2,gloriagarcia971@urcmac.edu.mx,garciagloria971
+Gloria,Arely,Garcia,Marinez,Mujer,29,972,2,gloriagarcia972@urcmac.edu.mx,garciagloria972
+Gloria,Arely,Garcia,Sanchez,Mujer,23,973,3,gloriagarcia973@urcmac.edu.mx,garciagloria973
+Gloria,Arely,Garcia,Estrada,Mujer,25,974,2,gloriagarcia974@urcmac.edu.mx,garciagloria974
+Gloria,Arely,Garcia,Espinosa,Mujer,26,975,4,gloriagarcia975@urcmac.edu.mx,garciagloria975
+Gloria,,Salazar,Hernandez,Mujer,26,976,2,gloriasalazar976@urcmac.edu.mx,salazargloria976
+Gloria,,Salazar,Marinez,Mujer,23,977,2,gloriasalazar977@urcmac.edu.mx,salazargloria977
+Gloria,,Salazar,Sanchez,Mujer,30,978,1,gloriasalazar978@urcmac.edu.mx,salazargloria978
+Gloria,,Salazar,Estrada,Mujer,21,979,4,gloriasalazar979@urcmac.edu.mx,salazargloria979
+Gloria,,Salazar,Espinosa,Mujer,25,980,4,gloriasalazar980@urcmac.edu.mx,salazargloria980
+Gloria,,Rubio,Hernandez,Mujer,21,981,4,gloriarubio981@urcmac.edu.mx,rubiogloria981
+Gloria,,Rubio,Marinez,Mujer,29,982,1,gloriarubio982@urcmac.edu.mx,rubiogloria982
+Gloria,,Rubio,Sanchez,Mujer,29,983,5,gloriarubio983@urcmac.edu.mx,rubiogloria983
+Gloria,,Rubio,Estrada,Mujer,30,984,1,gloriarubio984@urcmac.edu.mx,rubiogloria984
+Gloria,,Rubio,Espinosa,Mujer,24,985,5,gloriarubio985@urcmac.edu.mx,rubiogloria985
+Gloria,,Ruiz,Hernandez,Mujer,23,986,1,gloriaruiz986@urcmac.edu.mx,ruizgloria986
+Gloria,,Ruiz,Marinez,Mujer,20,987,1,gloriaruiz987@urcmac.edu.mx,ruizgloria987
+Gloria,,Ruiz,Sanchez,Mujer,29,988,5,gloriaruiz988@urcmac.edu.mx,ruizgloria988
+Gloria,,Ruiz,Estrada,Mujer,29,989,4,gloriaruiz989@urcmac.edu.mx,ruizgloria989
+Gloria,,Ruiz,Espinosa,Mujer,21,990,5,gloriaruiz990@urcmac.edu.mx,ruizgloria990
+Gloria,,Tolentino,Hernandez,Mujer,22,991,1,gloriatolentino991@urcmac.edu.mx,tolentinogloria991
+Gloria,,Tolentino,Marinez,Mujer,20,992,4,gloriatolentino992@urcmac.edu.mx,tolentinogloria992
+Gloria,,Tolentino,Sanchez,Mujer,30,993,2,gloriatolentino993@urcmac.edu.mx,tolentinogloria993
+Gloria,,Tolentino,Estrada,Mujer,24,994,4,gloriatolentino994@urcmac.edu.mx,tolentinogloria994
+Gloria,,Tolentino,Espinosa,Mujer,27,995,2,gloriatolentino995@urcmac.edu.mx,tolentinogloria995
+Gloria,,Garcia,Hernandez,Mujer,30,996,3,gloriagarcia996@urcmac.edu.mx,garciagloria996
+Gloria,,Garcia,Marinez,Mujer,29,997,2,gloriagarcia997@urcmac.edu.mx,garciagloria997
+Gloria,,Garcia,Sanchez,Mujer,29,998,3,gloriagarcia998@urcmac.edu.mx,garciagloria998
+Gloria,,Garcia,Estrada,Mujer,24,999,5,gloriagarcia999@urcmac.edu.mx,garciagloria999
+Gloria,,Garcia,Espinosa,Mujer,22,1000,1,gloriagarcia1000@urcmac.edu.mx,garciagloria1000
+Carmen,,Salazar,Hernandez,Mujer,23,1001,2,carmensalazar1001@urcmac.edu.mx,salazarcarmen1001
+Carmen,,Salazar,Marinez,Mujer,27,1002,5,carmensalazar1002@urcmac.edu.mx,salazarcarmen1002
+Carmen,,Salazar,Sanchez,Mujer,20,1003,3,carmensalazar1003@urcmac.edu.mx,salazarcarmen1003
+Carmen,,Salazar,Estrada,Mujer,26,1004,1,carmensalazar1004@urcmac.edu.mx,salazarcarmen1004
+Carmen,,Salazar,Espinosa,Mujer,27,1005,3,carmensalazar1005@urcmac.edu.mx,salazarcarmen1005
+Carmen,,Rubio,Hernandez,Mujer,22,1006,1,carmenrubio1006@urcmac.edu.mx,rubiocarmen1006
+Carmen,,Rubio,Marinez,Mujer,21,1007,4,carmenrubio1007@urcmac.edu.mx,rubiocarmen1007
+Carmen,,Rubio,Sanchez,Mujer,21,1008,4,carmenrubio1008@urcmac.edu.mx,rubiocarmen1008
+Carmen,,Rubio,Estrada,Mujer,26,1009,2,carmenrubio1009@urcmac.edu.mx,rubiocarmen1009
+Carmen,,Rubio,Espinosa,Mujer,20,1010,5,carmenrubio1010@urcmac.edu.mx,rubiocarmen1010
+Carmen,,Ruiz,Hernandez,Mujer,22,1011,5,carmenruiz1011@urcmac.edu.mx,ruizcarmen1011
+Carmen,,Ruiz,Marinez,Mujer,25,1012,2,carmenruiz1012@urcmac.edu.mx,ruizcarmen1012
+Carmen,,Ruiz,Sanchez,Mujer,25,1013,5,carmenruiz1013@urcmac.edu.mx,ruizcarmen1013
+Carmen,,Ruiz,Estrada,Mujer,25,1014,5,carmenruiz1014@urcmac.edu.mx,ruizcarmen1014
+Carmen,,Ruiz,Espinosa,Mujer,26,1015,1,carmenruiz1015@urcmac.edu.mx,ruizcarmen1015
+Carmen,,Tolentino,Hernandez,Mujer,30,1016,2,carmentolentino1016@urcmac.edu.mx,tolentinocarmen1016
+Carmen,,Tolentino,Marinez,Mujer,23,1017,2,carmentolentino1017@urcmac.edu.mx,tolentinocarmen1017
+Carmen,,Tolentino,Sanchez,Mujer,30,1018,2,carmentolentino1018@urcmac.edu.mx,tolentinocarmen1018
+Carmen,,Tolentino,Estrada,Mujer,22,1019,3,carmentolentino1019@urcmac.edu.mx,tolentinocarmen1019
+Carmen,,Tolentino,Espinosa,Mujer,24,1020,5,carmentolentino1020@urcmac.edu.mx,tolentinocarmen1020
+Carmen,,Garcia,Hernandez,Mujer,22,1021,2,carmengarcia1021@urcmac.edu.mx,garciacarmen1021
+Carmen,,Garcia,Marinez,Mujer,23,1022,1,carmengarcia1022@urcmac.edu.mx,garciacarmen1022
+Carmen,,Garcia,Sanchez,Mujer,27,1023,4,carmengarcia1023@urcmac.edu.mx,garciacarmen1023
+Carmen,,Garcia,Estrada,Mujer,26,1024,4,carmengarcia1024@urcmac.edu.mx,garciacarmen1024
+Carmen,,Garcia,Espinosa,Mujer,21,1025,5,carmengarcia1025@urcmac.edu.mx,garciacarmen1025
+Carmen,Elizabeth,Salazar,Hernandez,Mujer,27,1026,3,carmensalazar1026@urcmac.edu.mx,salazarcarmen1026
+Carmen,Elizabeth,Salazar,Marinez,Mujer,28,1027,5,carmensalazar1027@urcmac.edu.mx,salazarcarmen1027
+Carmen,Elizabeth,Salazar,Sanchez,Mujer,23,1028,5,carmensalazar1028@urcmac.edu.mx,salazarcarmen1028
+Carmen,Elizabeth,Salazar,Estrada,Mujer,20,1029,4,carmensalazar1029@urcmac.edu.mx,salazarcarmen1029
+Carmen,Elizabeth,Salazar,Espinosa,Mujer,21,1030,1,carmensalazar1030@urcmac.edu.mx,salazarcarmen1030
+Carmen,Elizabeth,Rubio,Hernandez,Mujer,23,1031,4,carmenrubio1031@urcmac.edu.mx,rubiocarmen1031
+Carmen,Elizabeth,Rubio,Marinez,Mujer,23,1032,1,carmenrubio1032@urcmac.edu.mx,rubiocarmen1032
+Carmen,Elizabeth,Rubio,Sanchez,Mujer,24,1033,2,carmenrubio1033@urcmac.edu.mx,rubiocarmen1033
+Carmen,Elizabeth,Rubio,Estrada,Mujer,26,1034,5,carmenrubio1034@urcmac.edu.mx,rubiocarmen1034
+Carmen,Elizabeth,Rubio,Espinosa,Mujer,29,1035,4,carmenrubio1035@urcmac.edu.mx,rubiocarmen1035
+Carmen,Elizabeth,Ruiz,Hernandez,Mujer,23,1036,4,carmenruiz1036@urcmac.edu.mx,ruizcarmen1036
+Carmen,Elizabeth,Ruiz,Marinez,Mujer,28,1037,2,carmenruiz1037@urcmac.edu.mx,ruizcarmen1037
+Carmen,Elizabeth,Ruiz,Sanchez,Mujer,20,1038,5,carmenruiz1038@urcmac.edu.mx,ruizcarmen1038
+Carmen,Elizabeth,Ruiz,Estrada,Mujer,30,1039,3,carmenruiz1039@urcmac.edu.mx,ruizcarmen1039
+Carmen,Elizabeth,Ruiz,Espinosa,Mujer,27,1040,4,carmenruiz1040@urcmac.edu.mx,ruizcarmen1040
+Carmen,Elizabeth,Tolentino,Hernandez,Mujer,28,1041,2,carmentolentino1041@urcmac.edu.mx,tolentinocarmen1041
+Carmen,Elizabeth,Tolentino,Marinez,Mujer,24,1042,5,carmentolentino1042@urcmac.edu.mx,tolentinocarmen1042
+Carmen,Elizabeth,Tolentino,Sanchez,Mujer,22,1043,2,carmentolentino1043@urcmac.edu.mx,tolentinocarmen1043
+Carmen,Elizabeth,Tolentino,Estrada,Mujer,20,1044,5,carmentolentino1044@urcmac.edu.mx,tolentinocarmen1044
+Carmen,Elizabeth,Tolentino,Espinosa,Mujer,24,1045,4,carmentolentino1045@urcmac.edu.mx,tolentinocarmen1045
+Carmen,Elizabeth,Garcia,Hernandez,Mujer,24,1046,5,carmengarcia1046@urcmac.edu.mx,garciacarmen1046
+Carmen,Elizabeth,Garcia,Marinez,Mujer,30,1047,1,carmengarcia1047@urcmac.edu.mx,garciacarmen1047
+Carmen,Elizabeth,Garcia,Sanchez,Mujer,23,1048,5,carmengarcia1048@urcmac.edu.mx,garciacarmen1048
+Carmen,Elizabeth,Garcia,Estrada,Mujer,29,1049,5,carmengarcia1049@urcmac.edu.mx,garciacarmen1049
+Carmen,Elizabeth,Garcia,Espinosa,Mujer,23,1050,3,carmengarcia1050@urcmac.edu.mx,garciacarmen1050
+Carmen,Urania,Salazar,Hernandez,Mujer,28,1051,1,carmensalazar1051@urcmac.edu.mx,salazarcarmen1051
+Carmen,Urania,Salazar,Marinez,Mujer,25,1052,1,carmensalazar1052@urcmac.edu.mx,salazarcarmen1052
+Carmen,Urania,Salazar,Sanchez,Mujer,25,1053,2,carmensalazar1053@urcmac.edu.mx,salazarcarmen1053
+Carmen,Urania,Salazar,Estrada,Mujer,22,1054,3,carmensalazar1054@urcmac.edu.mx,salazarcarmen1054
+Carmen,Urania,Salazar,Espinosa,Mujer,28,1055,5,carmensalazar1055@urcmac.edu.mx,salazarcarmen1055
+Carmen,Urania,Rubio,Hernandez,Mujer,20,1056,4,carmenrubio1056@urcmac.edu.mx,rubiocarmen1056
+Carmen,Urania,Rubio,Marinez,Mujer,25,1057,1,carmenrubio1057@urcmac.edu.mx,rubiocarmen1057
+Carmen,Urania,Rubio,Sanchez,Mujer,30,1058,4,carmenrubio1058@urcmac.edu.mx,rubiocarmen1058
+Carmen,Urania,Rubio,Estrada,Mujer,21,1059,4,carmenrubio1059@urcmac.edu.mx,rubiocarmen1059
+Carmen,Urania,Rubio,Espinosa,Mujer,22,1060,1,carmenrubio1060@urcmac.edu.mx,rubiocarmen1060
+Carmen,Urania,Ruiz,Hernandez,Mujer,25,1061,5,carmenruiz1061@urcmac.edu.mx,ruizcarmen1061
+Carmen,Urania,Ruiz,Marinez,Mujer,20,1062,2,carmenruiz1062@urcmac.edu.mx,ruizcarmen1062
+Carmen,Urania,Ruiz,Sanchez,Mujer,27,1063,2,carmenruiz1063@urcmac.edu.mx,ruizcarmen1063
+Carmen,Urania,Ruiz,Estrada,Mujer,28,1064,5,carmenruiz1064@urcmac.edu.mx,ruizcarmen1064
+Carmen,Urania,Ruiz,Espinosa,Mujer,28,1065,1,carmenruiz1065@urcmac.edu.mx,ruizcarmen1065
+Carmen,Urania,Tolentino,Hernandez,Mujer,23,1066,4,carmentolentino1066@urcmac.edu.mx,tolentinocarmen1066
+Carmen,Urania,Tolentino,Marinez,Mujer,20,1067,5,carmentolentino1067@urcmac.edu.mx,tolentinocarmen1067
+Carmen,Urania,Tolentino,Sanchez,Mujer,30,1068,2,carmentolentino1068@urcmac.edu.mx,tolentinocarmen1068
+Carmen,Urania,Tolentino,Estrada,Mujer,20,1069,5,carmentolentino1069@urcmac.edu.mx,tolentinocarmen1069
+Carmen,Urania,Tolentino,Espinosa,Mujer,26,1070,1,carmentolentino1070@urcmac.edu.mx,tolentinocarmen1070
+Carmen,Urania,Garcia,Hernandez,Mujer,26,1071,5,carmengarcia1071@urcmac.edu.mx,garciacarmen1071
+Carmen,Urania,Garcia,Marinez,Mujer,23,1072,4,carmengarcia1072@urcmac.edu.mx,garciacarmen1072
+Carmen,Urania,Garcia,Sanchez,Mujer,24,1073,3,carmengarcia1073@urcmac.edu.mx,garciacarmen1073
+Carmen,Urania,Garcia,Estrada,Mujer,20,1074,5,carmengarcia1074@urcmac.edu.mx,garciacarmen1074
+Carmen,Urania,Garcia,Espinosa,Mujer,28,1075,4,carmengarcia1075@urcmac.edu.mx,garciacarmen1075
+Carmen,Arely,Salazar,Hernandez,Mujer,23,1076,3,carmensalazar1076@urcmac.edu.mx,salazarcarmen1076
+Carmen,Arely,Salazar,Marinez,Mujer,23,1077,3,carmensalazar1077@urcmac.edu.mx,salazarcarmen1077
+Carmen,Arely,Salazar,Sanchez,Mujer,29,1078,2,carmensalazar1078@urcmac.edu.mx,salazarcarmen1078
+Carmen,Arely,Salazar,Estrada,Mujer,24,1079,1,carmensalazar1079@urcmac.edu.mx,salazarcarmen1079
+Carmen,Arely,Salazar,Espinosa,Mujer,24,1080,3,carmensalazar1080@urcmac.edu.mx,salazarcarmen1080
+Carmen,Arely,Rubio,Hernandez,Mujer,29,1081,5,carmenrubio1081@urcmac.edu.mx,rubiocarmen1081
+Carmen,Arely,Rubio,Marinez,Mujer,30,1082,3,carmenrubio1082@urcmac.edu.mx,rubiocarmen1082
+Carmen,Arely,Rubio,Sanchez,Mujer,30,1083,4,carmenrubio1083@urcmac.edu.mx,rubiocarmen1083
+Carmen,Arely,Rubio,Estrada,Mujer,21,1084,2,carmenrubio1084@urcmac.edu.mx,rubiocarmen1084
+Carmen,Arely,Rubio,Espinosa,Mujer,24,1085,4,carmenrubio1085@urcmac.edu.mx,rubiocarmen1085
+Carmen,Arely,Ruiz,Hernandez,Mujer,22,1086,3,carmenruiz1086@urcmac.edu.mx,ruizcarmen1086
+Carmen,Arely,Ruiz,Marinez,Mujer,23,1087,5,carmenruiz1087@urcmac.edu.mx,ruizcarmen1087
+Carmen,Arely,Ruiz,Sanchez,Mujer,26,1088,5,carmenruiz1088@urcmac.edu.mx,ruizcarmen1088
+Carmen,Arely,Ruiz,Estrada,Mujer,20,1089,1,carmenruiz1089@urcmac.edu.mx,ruizcarmen1089
+Carmen,Arely,Ruiz,Espinosa,Mujer,27,1090,5,carmenruiz1090@urcmac.edu.mx,ruizcarmen1090
+Carmen,Arely,Tolentino,Hernandez,Mujer,21,1091,4,carmentolentino1091@urcmac.edu.mx,tolentinocarmen1091
+Carmen,Arely,Tolentino,Marinez,Mujer,20,1092,1,carmentolentino1092@urcmac.edu.mx,tolentinocarmen1092
+Carmen,Arely,Tolentino,Sanchez,Mujer,26,1093,2,carmentolentino1093@urcmac.edu.mx,tolentinocarmen1093
+Carmen,Arely,Tolentino,Estrada,Mujer,26,1094,5,carmentolentino1094@urcmac.edu.mx,tolentinocarmen1094
+Carmen,Arely,Tolentino,Espinosa,Mujer,25,1095,3,carmentolentino1095@urcmac.edu.mx,tolentinocarmen1095
+Carmen,Arely,Garcia,Hernandez,Mujer,25,1096,5,carmengarcia1096@urcmac.edu.mx,garciacarmen1096
+Carmen,Arely,Garcia,Marinez,Mujer,24,1097,4,carmengarcia1097@urcmac.edu.mx,garciacarmen1097
+Carmen,Arely,Garcia,Sanchez,Mujer,25,1098,5,carmengarcia1098@urcmac.edu.mx,garciacarmen1098
+Carmen,Arely,Garcia,Estrada,Mujer,23,1099,1,carmengarcia1099@urcmac.edu.mx,garciacarmen1099
+Carmen,Arely,Garcia,Espinosa,Mujer,30,1100,2,carmengarcia1100@urcmac.edu.mx,garciacarmen1100
+Carmen,,Salazar,Hernandez,Mujer,24,1101,1,carmensalazar1101@urcmac.edu.mx,salazarcarmen1101
+Carmen,,Salazar,Marinez,Mujer,22,1102,5,carmensalazar1102@urcmac.edu.mx,salazarcarmen1102
+Carmen,,Salazar,Sanchez,Mujer,26,1103,5,carmensalazar1103@urcmac.edu.mx,salazarcarmen1103
+Carmen,,Salazar,Estrada,Mujer,26,1104,1,carmensalazar1104@urcmac.edu.mx,salazarcarmen1104
+Carmen,,Salazar,Espinosa,Mujer,27,1105,3,carmensalazar1105@urcmac.edu.mx,salazarcarmen1105
+Carmen,,Rubio,Hernandez,Mujer,27,1106,2,carmenrubio1106@urcmac.edu.mx,rubiocarmen1106
+Carmen,,Rubio,Marinez,Mujer,21,1107,5,carmenrubio1107@urcmac.edu.mx,rubiocarmen1107
+Carmen,,Rubio,Sanchez,Mujer,30,1108,3,carmenrubio1108@urcmac.edu.mx,rubiocarmen1108
+Carmen,,Rubio,Estrada,Mujer,26,1109,5,carmenrubio1109@urcmac.edu.mx,rubiocarmen1109
+Carmen,,Rubio,Espinosa,Mujer,28,1110,5,carmenrubio1110@urcmac.edu.mx,rubiocarmen1110
+Carmen,,Ruiz,Hernandez,Mujer,29,1111,4,carmenruiz1111@urcmac.edu.mx,ruizcarmen1111
+Carmen,,Ruiz,Marinez,Mujer,25,1112,1,carmenruiz1112@urcmac.edu.mx,ruizcarmen1112
+Carmen,,Ruiz,Sanchez,Mujer,27,1113,3,carmenruiz1113@urcmac.edu.mx,ruizcarmen1113
+Carmen,,Ruiz,Estrada,Mujer,26,1114,2,carmenruiz1114@urcmac.edu.mx,ruizcarmen1114
+Carmen,,Ruiz,Espinosa,Mujer,26,1115,4,carmenruiz1115@urcmac.edu.mx,ruizcarmen1115
+Carmen,,Tolentino,Hernandez,Mujer,20,1116,2,carmentolentino1116@urcmac.edu.mx,tolentinocarmen1116
+Carmen,,Tolentino,Marinez,Mujer,30,1117,2,carmentolentino1117@urcmac.edu.mx,tolentinocarmen1117
+Carmen,,Tolentino,Sanchez,Mujer,25,1118,1,carmentolentino1118@urcmac.edu.mx,tolentinocarmen1118
+Carmen,,Tolentino,Estrada,Mujer,20,1119,4,carmentolentino1119@urcmac.edu.mx,tolentinocarmen1119
+Carmen,,Tolentino,Espinosa,Mujer,23,1120,3,carmentolentino1120@urcmac.edu.mx,tolentinocarmen1120
+Carmen,,Garcia,Hernandez,Mujer,25,1121,5,carmengarcia1121@urcmac.edu.mx,garciacarmen1121
+Carmen,,Garcia,Marinez,Mujer,28,1122,4,carmengarcia1122@urcmac.edu.mx,garciacarmen1122
+Carmen,,Garcia,Sanchez,Mujer,28,1123,4,carmengarcia1123@urcmac.edu.mx,garciacarmen1123
+Carmen,,Garcia,Estrada,Mujer,23,1124,4,carmengarcia1124@urcmac.edu.mx,garciacarmen1124
+Carmen,,Garcia,Espinosa,Mujer,29,1125,3,carmengarcia1125@urcmac.edu.mx,garciacarmen1125
+Valeria ,,Salazar,Hernandez,Mujer,30,1126,2,valeria salazar1126@urcmac.edu.mx,salazarvaleria 1126
+Valeria ,,Salazar,Marinez,Mujer,22,1127,2,valeria salazar1127@urcmac.edu.mx,salazarvaleria 1127
+Valeria ,,Salazar,Sanchez,Mujer,22,1128,2,valeria salazar1128@urcmac.edu.mx,salazarvaleria 1128
+Valeria ,,Salazar,Estrada,Mujer,20,1129,1,valeria salazar1129@urcmac.edu.mx,salazarvaleria 1129
+Valeria ,,Salazar,Espinosa,Mujer,30,1130,2,valeria salazar1130@urcmac.edu.mx,salazarvaleria 1130
+Valeria ,,Rubio,Hernandez,Mujer,28,1131,3,valeria rubio1131@urcmac.edu.mx,rubiovaleria 1131
+Valeria ,,Rubio,Marinez,Mujer,21,1132,5,valeria rubio1132@urcmac.edu.mx,rubiovaleria 1132
+Valeria ,,Rubio,Sanchez,Mujer,28,1133,2,valeria rubio1133@urcmac.edu.mx,rubiovaleria 1133
+Valeria ,,Rubio,Estrada,Mujer,20,1134,4,valeria rubio1134@urcmac.edu.mx,rubiovaleria 1134
+Valeria ,,Rubio,Espinosa,Mujer,23,1135,5,valeria rubio1135@urcmac.edu.mx,rubiovaleria 1135
+Valeria ,,Ruiz,Hernandez,Mujer,20,1136,1,valeria ruiz1136@urcmac.edu.mx,ruizvaleria 1136
+Valeria ,,Ruiz,Marinez,Mujer,25,1137,3,valeria ruiz1137@urcmac.edu.mx,ruizvaleria 1137
+Valeria ,,Ruiz,Sanchez,Mujer,22,1138,5,valeria ruiz1138@urcmac.edu.mx,ruizvaleria 1138
+Valeria ,,Ruiz,Estrada,Mujer,21,1139,1,valeria ruiz1139@urcmac.edu.mx,ruizvaleria 1139
+Valeria ,,Ruiz,Espinosa,Mujer,27,1140,2,valeria ruiz1140@urcmac.edu.mx,ruizvaleria 1140
+Valeria ,,Tolentino,Hernandez,Mujer,20,1141,2,valeria tolentino1141@urcmac.edu.mx,tolentinovaleria 1141
+Valeria ,,Tolentino,Marinez,Mujer,20,1142,5,valeria tolentino1142@urcmac.edu.mx,tolentinovaleria 1142
+Valeria ,,Tolentino,Sanchez,Mujer,24,1143,5,valeria tolentino1143@urcmac.edu.mx,tolentinovaleria 1143
+Valeria ,,Tolentino,Estrada,Mujer,28,1144,4,valeria tolentino1144@urcmac.edu.mx,tolentinovaleria 1144
+Valeria ,,Tolentino,Espinosa,Mujer,26,1145,4,valeria tolentino1145@urcmac.edu.mx,tolentinovaleria 1145
+Valeria ,,Garcia,Hernandez,Mujer,27,1146,2,valeria garcia1146@urcmac.edu.mx,garciavaleria 1146
+Valeria ,,Garcia,Marinez,Mujer,21,1147,1,valeria garcia1147@urcmac.edu.mx,garciavaleria 1147
+Valeria ,,Garcia,Sanchez,Mujer,28,1148,4,valeria garcia1148@urcmac.edu.mx,garciavaleria 1148
+Valeria ,,Garcia,Estrada,Mujer,23,1149,4,valeria garcia1149@urcmac.edu.mx,garciavaleria 1149
+Valeria ,,Garcia,Espinosa,Mujer,28,1150,4,valeria garcia1150@urcmac.edu.mx,garciavaleria 1150
+Valeria ,Elizabeth,Salazar,Hernandez,Mujer,25,1151,5,valeria salazar1151@urcmac.edu.mx,salazarvaleria 1151
+Valeria ,Elizabeth,Salazar,Marinez,Mujer,23,1152,1,valeria salazar1152@urcmac.edu.mx,salazarvaleria 1152
+Valeria ,Elizabeth,Salazar,Sanchez,Mujer,25,1153,3,valeria salazar1153@urcmac.edu.mx,salazarvaleria 1153
+Valeria ,Elizabeth,Salazar,Estrada,Mujer,20,1154,5,valeria salazar1154@urcmac.edu.mx,salazarvaleria 1154
+Valeria ,Elizabeth,Salazar,Espinosa,Mujer,28,1155,3,valeria salazar1155@urcmac.edu.mx,salazarvaleria 1155
+Valeria ,Elizabeth,Rubio,Hernandez,Mujer,22,1156,2,valeria rubio1156@urcmac.edu.mx,rubiovaleria 1156
+Valeria ,Elizabeth,Rubio,Marinez,Mujer,29,1157,4,valeria rubio1157@urcmac.edu.mx,rubiovaleria 1157
+Valeria ,Elizabeth,Rubio,Sanchez,Mujer,23,1158,4,valeria rubio1158@urcmac.edu.mx,rubiovaleria 1158
+Valeria ,Elizabeth,Rubio,Estrada,Mujer,25,1159,1,valeria rubio1159@urcmac.edu.mx,rubiovaleria 1159
+Valeria ,Elizabeth,Rubio,Espinosa,Mujer,25,1160,1,valeria rubio1160@urcmac.edu.mx,rubiovaleria 1160
+Valeria ,Elizabeth,Ruiz,Hernandez,Mujer,26,1161,4,valeria ruiz1161@urcmac.edu.mx,ruizvaleria 1161
+Valeria ,Elizabeth,Ruiz,Marinez,Mujer,20,1162,4,valeria ruiz1162@urcmac.edu.mx,ruizvaleria 1162
+Valeria ,Elizabeth,Ruiz,Sanchez,Mujer,29,1163,5,valeria ruiz1163@urcmac.edu.mx,ruizvaleria 1163
+Valeria ,Elizabeth,Ruiz,Estrada,Mujer,22,1164,4,valeria ruiz1164@urcmac.edu.mx,ruizvaleria 1164
+Valeria ,Elizabeth,Ruiz,Espinosa,Mujer,25,1165,1,valeria ruiz1165@urcmac.edu.mx,ruizvaleria 1165
+Valeria ,Elizabeth,Tolentino,Hernandez,Mujer,21,1166,4,valeria tolentino1166@urcmac.edu.mx,tolentinovaleria 1166
+Valeria ,Elizabeth,Tolentino,Marinez,Mujer,20,1167,2,valeria tolentino1167@urcmac.edu.mx,tolentinovaleria 1167
+Valeria ,Elizabeth,Tolentino,Sanchez,Mujer,20,1168,4,valeria tolentino1168@urcmac.edu.mx,tolentinovaleria 1168
+Valeria ,Elizabeth,Tolentino,Estrada,Mujer,26,1169,1,valeria tolentino1169@urcmac.edu.mx,tolentinovaleria 1169
+Valeria ,Elizabeth,Tolentino,Espinosa,Mujer,27,1170,5,valeria tolentino1170@urcmac.edu.mx,tolentinovaleria 1170
+Valeria ,Elizabeth,Garcia,Hernandez,Mujer,23,1171,4,valeria garcia1171@urcmac.edu.mx,garciavaleria 1171
+Valeria ,Elizabeth,Garcia,Marinez,Mujer,26,1172,4,valeria garcia1172@urcmac.edu.mx,garciavaleria 1172
+Valeria ,Elizabeth,Garcia,Sanchez,Mujer,29,1173,3,valeria garcia1173@urcmac.edu.mx,garciavaleria 1173
+Valeria ,Elizabeth,Garcia,Estrada,Mujer,21,1174,3,valeria garcia1174@urcmac.edu.mx,garciavaleria 1174
+Valeria ,Elizabeth,Garcia,Espinosa,Mujer,25,1175,4,valeria garcia1175@urcmac.edu.mx,garciavaleria 1175
+Valeria ,Urania,Salazar,Hernandez,Mujer,27,1176,3,valeria salazar1176@urcmac.edu.mx,salazarvaleria 1176
+Valeria ,Urania,Salazar,Marinez,Mujer,26,1177,1,valeria salazar1177@urcmac.edu.mx,salazarvaleria 1177
+Valeria ,Urania,Salazar,Sanchez,Mujer,20,1178,5,valeria salazar1178@urcmac.edu.mx,salazarvaleria 1178
+Valeria ,Urania,Salazar,Estrada,Mujer,20,1179,2,valeria salazar1179@urcmac.edu.mx,salazarvaleria 1179
+Valeria ,Urania,Salazar,Espinosa,Mujer,24,1180,1,valeria salazar1180@urcmac.edu.mx,salazarvaleria 1180
+Valeria ,Urania,Rubio,Hernandez,Mujer,28,1181,5,valeria rubio1181@urcmac.edu.mx,rubiovaleria 1181
+Valeria ,Urania,Rubio,Marinez,Mujer,21,1182,2,valeria rubio1182@urcmac.edu.mx,rubiovaleria 1182
+Valeria ,Urania,Rubio,Sanchez,Mujer,21,1183,4,valeria rubio1183@urcmac.edu.mx,rubiovaleria 1183
+Valeria ,Urania,Rubio,Estrada,Mujer,23,1184,1,valeria rubio1184@urcmac.edu.mx,rubiovaleria 1184
+Valeria ,Urania,Rubio,Espinosa,Mujer,28,1185,4,valeria rubio1185@urcmac.edu.mx,rubiovaleria 1185
+Valeria ,Urania,Ruiz,Hernandez,Mujer,28,1186,5,valeria ruiz1186@urcmac.edu.mx,ruizvaleria 1186
+Valeria ,Urania,Ruiz,Marinez,Mujer,29,1187,4,valeria ruiz1187@urcmac.edu.mx,ruizvaleria 1187
+Valeria ,Urania,Ruiz,Sanchez,Mujer,29,1188,4,valeria ruiz1188@urcmac.edu.mx,ruizvaleria 1188
+Valeria ,Urania,Ruiz,Estrada,Mujer,22,1189,5,valeria ruiz1189@urcmac.edu.mx,ruizvaleria 1189
+Valeria ,Urania,Ruiz,Espinosa,Mujer,27,1190,5,valeria ruiz1190@urcmac.edu.mx,ruizvaleria 1190
+Valeria ,Urania,Tolentino,Hernandez,Mujer,27,1191,1,valeria tolentino1191@urcmac.edu.mx,tolentinovaleria 1191
+Valeria ,Urania,Tolentino,Marinez,Mujer,24,1192,5,valeria tolentino1192@urcmac.edu.mx,tolentinovaleria 1192
+Valeria ,Urania,Tolentino,Sanchez,Mujer,28,1193,5,valeria tolentino1193@urcmac.edu.mx,tolentinovaleria 1193
+Valeria ,Urania,Tolentino,Estrada,Mujer,21,1194,2,valeria tolentino1194@urcmac.edu.mx,tolentinovaleria 1194
+Valeria ,Urania,Tolentino,Espinosa,Mujer,26,1195,4,valeria tolentino1195@urcmac.edu.mx,tolentinovaleria 1195
+Valeria ,Urania,Garcia,Hernandez,Mujer,27,1196,3,valeria garcia1196@urcmac.edu.mx,garciavaleria 1196
+Valeria ,Urania,Garcia,Marinez,Mujer,25,1197,5,valeria garcia1197@urcmac.edu.mx,garciavaleria 1197
+Valeria ,Urania,Garcia,Sanchez,Mujer,27,1198,2,valeria garcia1198@urcmac.edu.mx,garciavaleria 1198
+Valeria ,Urania,Garcia,Estrada,Mujer,28,1199,3,valeria garcia1199@urcmac.edu.mx,garciavaleria 1199
+Valeria ,Urania,Garcia,Espinosa,Mujer,27,1200,3,valeria garcia1200@urcmac.edu.mx,garciavaleria 1200
+Valeria ,Arely,Salazar,Hernandez,Mujer,28,1201,1,valeria salazar1201@urcmac.edu.mx,salazarvaleria 1201
+Valeria ,Arely,Salazar,Marinez,Mujer,29,1202,5,valeria salazar1202@urcmac.edu.mx,salazarvaleria 1202
+Valeria ,Arely,Salazar,Sanchez,Mujer,21,1203,2,valeria salazar1203@urcmac.edu.mx,salazarvaleria 1203
+Valeria ,Arely,Salazar,Estrada,Mujer,29,1204,3,valeria salazar1204@urcmac.edu.mx,salazarvaleria 1204
+Valeria ,Arely,Salazar,Espinosa,Mujer,21,1205,1,valeria salazar1205@urcmac.edu.mx,salazarvaleria 1205
+Valeria ,Arely,Rubio,Hernandez,Mujer,25,1206,3,valeria rubio1206@urcmac.edu.mx,rubiovaleria 1206
+Valeria ,Arely,Rubio,Marinez,Mujer,26,1207,2,valeria rubio1207@urcmac.edu.mx,rubiovaleria 1207
+Valeria ,Arely,Rubio,Sanchez,Mujer,21,1208,4,valeria rubio1208@urcmac.edu.mx,rubiovaleria 1208
+Valeria ,Arely,Rubio,Estrada,Mujer,25,1209,5,valeria rubio1209@urcmac.edu.mx,rubiovaleria 1209
+Valeria ,Arely,Rubio,Espinosa,Mujer,21,1210,1,valeria rubio1210@urcmac.edu.mx,rubiovaleria 1210
+Valeria ,Arely,Ruiz,Hernandez,Mujer,22,1211,5,valeria ruiz1211@urcmac.edu.mx,ruizvaleria 1211
+Valeria ,Arely,Ruiz,Marinez,Mujer,30,1212,4,valeria ruiz1212@urcmac.edu.mx,ruizvaleria 1212
+Valeria ,Arely,Ruiz,Sanchez,Mujer,21,1213,3,valeria ruiz1213@urcmac.edu.mx,ruizvaleria 1213
+Valeria ,Arely,Ruiz,Estrada,Mujer,21,1214,1,valeria ruiz1214@urcmac.edu.mx,ruizvaleria 1214
+Valeria ,Arely,Ruiz,Espinosa,Mujer,22,1215,2,valeria ruiz1215@urcmac.edu.mx,ruizvaleria 1215
+Valeria ,Arely,Tolentino,Hernandez,Mujer,25,1216,5,valeria tolentino1216@urcmac.edu.mx,tolentinovaleria 1216
+Valeria ,Arely,Tolentino,Marinez,Mujer,21,1217,3,valeria tolentino1217@urcmac.edu.mx,tolentinovaleria 1217
+Valeria ,Arely,Tolentino,Sanchez,Mujer,28,1218,4,valeria tolentino1218@urcmac.edu.mx,tolentinovaleria 1218
+Valeria ,Arely,Tolentino,Estrada,Mujer,21,1219,4,valeria tolentino1219@urcmac.edu.mx,tolentinovaleria 1219
+Valeria ,Arely,Tolentino,Espinosa,Mujer,28,1220,5,valeria tolentino1220@urcmac.edu.mx,tolentinovaleria 1220
+Valeria ,Arely,Garcia,Hernandez,Mujer,24,1221,5,valeria garcia1221@urcmac.edu.mx,garciavaleria 1221
+Valeria ,Arely,Garcia,Marinez,Mujer,29,1222,4,valeria garcia1222@urcmac.edu.mx,garciavaleria 1222
+Valeria ,Arely,Garcia,Sanchez,Mujer,23,1223,3,valeria garcia1223@urcmac.edu.mx,garciavaleria 1223
+Valeria ,Arely,Garcia,Estrada,Mujer,25,1224,3,valeria garcia1224@urcmac.edu.mx,garciavaleria 1224
+Valeria ,Arely,Garcia,Espinosa,Mujer,25,1225,1,valeria garcia1225@urcmac.edu.mx,garciavaleria 1225
+Valeria ,,Salazar,Hernandez,Mujer,29,1226,1,valeria salazar1226@urcmac.edu.mx,salazarvaleria 1226
+Valeria ,,Salazar,Marinez,Mujer,26,1227,1,valeria salazar1227@urcmac.edu.mx,salazarvaleria 1227
+Valeria ,,Salazar,Sanchez,Mujer,23,1228,1,valeria salazar1228@urcmac.edu.mx,salazarvaleria 1228
+Valeria ,,Salazar,Estrada,Mujer,22,1229,5,valeria salazar1229@urcmac.edu.mx,salazarvaleria 1229
+Valeria ,,Salazar,Espinosa,Mujer,28,1230,3,valeria salazar1230@urcmac.edu.mx,salazarvaleria 1230
+Valeria ,,Rubio,Hernandez,Mujer,24,1231,4,valeria rubio1231@urcmac.edu.mx,rubiovaleria 1231
+Valeria ,,Rubio,Marinez,Mujer,22,1232,3,valeria rubio1232@urcmac.edu.mx,rubiovaleria 1232
+Valeria ,,Rubio,Sanchez,Mujer,21,1233,5,valeria rubio1233@urcmac.edu.mx,rubiovaleria 1233
+Valeria ,,Rubio,Estrada,Mujer,24,1234,4,valeria rubio1234@urcmac.edu.mx,rubiovaleria 1234
+Valeria ,,Rubio,Espinosa,Mujer,27,1235,5,valeria rubio1235@urcmac.edu.mx,rubiovaleria 1235
+Valeria ,,Ruiz,Hernandez,Mujer,23,1236,2,valeria ruiz1236@urcmac.edu.mx,ruizvaleria 1236
+Valeria ,,Ruiz,Marinez,Mujer,24,1237,2,valeria ruiz1237@urcmac.edu.mx,ruizvaleria 1237
+Valeria ,,Ruiz,Sanchez,Mujer,22,1238,5,valeria ruiz1238@urcmac.edu.mx,ruizvaleria 1238
+Valeria ,,Ruiz,Estrada,Mujer,28,1239,3,valeria ruiz1239@urcmac.edu.mx,ruizvaleria 1239
+Valeria ,,Ruiz,Espinosa,Mujer,24,1240,4,valeria ruiz1240@urcmac.edu.mx,ruizvaleria 1240
+Valeria ,,Tolentino,Hernandez,Mujer,28,1241,1,valeria tolentino1241@urcmac.edu.mx,tolentinovaleria 1241
+Valeria ,,Tolentino,Marinez,Mujer,30,1242,5,valeria tolentino1242@urcmac.edu.mx,tolentinovaleria 1242
+Valeria ,,Tolentino,Sanchez,Mujer,25,1243,1,valeria tolentino1243@urcmac.edu.mx,tolentinovaleria 1243
+Valeria ,,Tolentino,Estrada,Mujer,29,1244,5,valeria tolentino1244@urcmac.edu.mx,tolentinovaleria 1244
+Valeria ,,Tolentino,Espinosa,Mujer,20,1245,5,valeria tolentino1245@urcmac.edu.mx,tolentinovaleria 1245
+Valeria ,,Garcia,Hernandez,Mujer,26,1246,2,valeria garcia1246@urcmac.edu.mx,garciavaleria 1246
+Valeria ,,Garcia,Marinez,Mujer,27,1247,4,valeria garcia1247@urcmac.edu.mx,garciavaleria 1247
+Valeria ,,Garcia,Sanchez,Mujer,24,1248,2,valeria garcia1248@urcmac.edu.mx,garciavaleria 1248
+Valeria ,,Garcia,Estrada,Mujer,27,1249,3,valeria garcia1249@urcmac.edu.mx,garciavaleria 1249
+Valeria ,,Garcia,Espinosa,Mujer,30,1250,4,valeria garcia1250@urcmac.edu.mx,garciavaleria 1250
