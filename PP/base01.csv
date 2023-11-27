@@ -1,0 +1,1126 @@
+nombre1,nombre2,apellido1,apellido2,genero,edad,fecha_nacimiento,curp,id,voto,email,password
+Albert,,Espinosa,Sebastian,Hombre,25,1998-01-07,ESSA980107HOMBREDFES33O,1,1,albertespinosa1@urcmac.edu.mx,espinosaalbert1
+Albert,Donaji,Hidalgo,Cirigo,Hombre,23,2000-01-07,HICA000107HOMBREDFHI86C,2,4,alberthidalgo2@urcmac.edu.mx,hidalgoalbert2
+Juan ,Rogelio,Hidalgo,Sanchez,Hombre,25,1998-01-07,HISJ980107HOMBREDFHI79P,3,2,juan hidalgo3@urcmac.edu.mx,hidalgojuan 3
+Demian,Donaji,Adaya,Romero,Hombre,25,1998-01-07,ADRD980107HOMBREDFAD21F,4,3,demianadaya4@urcmac.edu.mx,adayademian4
+Demian,Pablo,Hidalgo,Romero,Hombre,22,2001-01-06,HIRD010106HOMBREDFHI53P,5,4,demianhidalgo5@urcmac.edu.mx,hidalgodemian5
+Hector,Rogelio,Ruiz,Cirigo,Hombre,25,1998-01-07,RUCH980107HOMBREDFRU25O,6,1,hectorruiz6@urcmac.edu.mx,ruizhector6
+Jose,Rogelio,Hidalgo,Martinez,Hombre,26,1997-01-07,HIMJ970107HOMBREDFHI73H,7,5,josehidalgo7@urcmac.edu.mx,hidalgojose7
+Albert,Alfonso,Ruiz,Cirigo,Hombre,24,1999-01-07,RUCA990107HOMBREDFRU74M,8,3,albertruiz8@urcmac.edu.mx,ruizalbert8
+Demian,,Adaya,Romero,Hombre,22,2001-01-06,ADRD010106HOMBREDFAD31J,9,1,demianadaya9@urcmac.edu.mx,adayademian9
+Juan ,Alfonso,Zarate,Martinez,Hombre,25,1998-01-07,ZAMJ980107HOMBREDFZA66H,10,2,juan zarate10@urcmac.edu.mx,zaratejuan 10
+Juan ,,Adaya,Sanchez,Hombre,25,1998-01-07,ADSJ980107HOMBREDFAD76J,11,1,juan adaya11@urcmac.edu.mx,adayajuan 11
+Juan ,Alfonso,Espinosa,Martinez,Hombre,28,1995-01-08,ESMJ950108HOMBREDFES22W,12,1,juan espinosa12@urcmac.edu.mx,espinosajuan 12
+Juan ,Alfonso,Adaya,Cirigo,Hombre,21,2002-01-06,ADCJ020106HOMBREDFAD51P,13,4,juan adaya13@urcmac.edu.mx,adayajuan 13
+Demian,Alfonso,Ruiz,Sebastian,Hombre,22,2001-01-06,RUSD010106HOMBREDFRU31I,14,5,demianruiz14@urcmac.edu.mx,ruizdemian14
+Demian,Alfonso,Adaya,Romero,Hombre,29,1994-01-08,ADRD940108HOMBREDFAD25H,15,4,demianadaya15@urcmac.edu.mx,adayademian15
+Hector,Pablo,Zarate,Cirigo,Hombre,30,1993-01-08,ZACH930108HOMBREDFZA34S,16,5,hectorzarate16@urcmac.edu.mx,zaratehector16
+Hector,Pablo,Ruiz,Romero,Hombre,29,1994-01-08,RURH940108HOMBREDFRU24Q,17,3,hectorruiz17@urcmac.edu.mx,ruizhector17
+Hector,Donaji,Ruiz,Romero,Hombre,21,2002-01-06,RURH020106HOMBREDFRU71G,18,5,hectorruiz18@urcmac.edu.mx,ruizhector18
+Jose,,Adaya,Martinez,Hombre,25,1998-01-07,ADMJ980107HOMBREDFAD17Q,19,1,joseadaya19@urcmac.edu.mx,adayajose19
+Jose,Alfonso,Adaya,Romero,Hombre,22,2001-01-06,ADRJ010106HOMBREDFAD49F,20,4,joseadaya20@urcmac.edu.mx,adayajose20
+Juan ,Pablo,Ruiz,Sanchez,Hombre,30,1993-01-08,RUSJ930108HOMBREDFRU91P,21,4,juan ruiz21@urcmac.edu.mx,ruizjuan 21
+Jose,,Zarate,Romero,Hombre,24,1999-01-07,ZARJ990107HOMBREDFZA48Q,22,4,josezarate22@urcmac.edu.mx,zaratejose22
+Jose,,Espinosa,Romero,Hombre,30,1993-01-08,ESRJ930108HOMBREDFES44O,23,4,joseespinosa23@urcmac.edu.mx,espinosajose23
+Hector,Pablo,Espinosa,Martinez,Hombre,27,1996-01-08,ESMH960108HOMBREDFES91U,24,2,hectorespinosa24@urcmac.edu.mx,espinosahector24
+Jose,Pablo,Ruiz,Martinez,Hombre,20,2003-01-06,RUMJ030106HOMBREDFRU71B,25,3,joseruiz25@urcmac.edu.mx,ruizjose25
+Hector,Donaji,Espinosa,Martinez,Hombre,29,1994-01-08,ESMH940108HOMBREDFES47Z,26,3,hectorespinosa26@urcmac.edu.mx,espinosahector26
+Hector,Donaji,Adaya,Cirigo,Hombre,30,1993-01-08,ADCH930108HOMBREDFAD19M,27,2,hectoradaya27@urcmac.edu.mx,adayahector27
+Hector,Pablo,Hidalgo,Cirigo,Hombre,21,2002-01-06,HICH020106HOMBREDFHI43X,28,1,hectorhidalgo28@urcmac.edu.mx,hidalgohector28
+Albert,,Hidalgo,Romero,Hombre,20,2003-01-06,HIRA030106HOMBREDFHI22R,29,1,alberthidalgo29@urcmac.edu.mx,hidalgoalbert29
+Demian,Rogelio,Zarate,Cirigo,Hombre,30,1993-01-08,ZACD930108HOMBREDFZA87U,30,5,demianzarate30@urcmac.edu.mx,zaratedemian30
+Jose,Rogelio,Zarate,Martinez,Hombre,24,1999-01-07,ZAMJ990107HOMBREDFZA82L,31,2,josezarate31@urcmac.edu.mx,zaratejose31
+Albert,Alfonso,Adaya,Martinez,Hombre,20,2003-01-06,ADMA030106HOMBREDFAD61K,32,5,albertadaya32@urcmac.edu.mx,adayaalbert32
+Demian,Rogelio,Ruiz,Romero,Hombre,28,1995-01-08,RURD950108HOMBREDFRU30V,33,1,demianruiz33@urcmac.edu.mx,ruizdemian33
+Hector,Rogelio,Hidalgo,Martinez,Hombre,28,1995-01-08,HIMH950108HOMBREDFHI72Q,34,3,hectorhidalgo34@urcmac.edu.mx,hidalgohector34
+Albert,Pablo,Adaya,Sebastian,Hombre,28,1995-01-08,ADSA950108HOMBREDFAD80O,35,2,albertadaya35@urcmac.edu.mx,adayaalbert35
+Demian,Rogelio,Espinosa,Cirigo,Hombre,25,1998-01-07,ESCD980107HOMBREDFES98X,36,1,demianespinosa36@urcmac.edu.mx,espinosademian36
+Jose,Pablo,Adaya,Sanchez,Hombre,26,1997-01-07,ADSJ970107HOMBREDFAD37M,37,4,joseadaya37@urcmac.edu.mx,adayajose37
+Albert,Rogelio,Zarate,Sanchez,Hombre,22,2001-01-06,ZASA010106HOMBREDFZA57Z,38,3,albertzarate38@urcmac.edu.mx,zaratealbert38
+Demian,Pablo,Adaya,Martinez,Hombre,29,1994-01-08,ADMD940108HOMBREDFAD84B,39,4,demianadaya39@urcmac.edu.mx,adayademian39
+Albert,Donaji,Zarate,Cirigo,Hombre,26,1997-01-07,ZACA970107HOMBREDFZA50S,40,3,albertzarate40@urcmac.edu.mx,zaratealbert40
+Juan ,Rogelio,Zarate,Sanchez,Hombre,29,1994-01-08,ZASJ940108HOMBREDFZA76P,41,3,juan zarate41@urcmac.edu.mx,zaratejuan 41
+Albert,Donaji,Ruiz,Romero,Hombre,21,2002-01-06,RURA020106HOMBREDFRU94X,42,4,albertruiz42@urcmac.edu.mx,ruizalbert42
+Albert,Rogelio,Espinosa,Sanchez,Hombre,20,2003-01-06,ESSA030106HOMBREDFES10J,43,5,albertespinosa43@urcmac.edu.mx,espinosaalbert43
+Albert,,Ruiz,Cirigo,Hombre,28,1995-01-08,RUCA950108HOMBREDFRU71Q,44,2,albertruiz44@urcmac.edu.mx,ruizalbert44
+Albert,Donaji,Espinosa,Cirigo,Hombre,26,1997-01-07,ESCA970107HOMBREDFES81C,45,5,albertespinosa45@urcmac.edu.mx,espinosaalbert45
+Juan ,Rogelio,Espinosa,Sanchez,Hombre,28,1995-01-08,ESSJ950108HOMBREDFES35M,46,2,juan espinosa46@urcmac.edu.mx,espinosajuan 46
+Juan ,,Ruiz,Cirigo,Hombre,22,2001-01-06,RUCJ010106HOMBREDFRU96P,47,1,juan ruiz47@urcmac.edu.mx,ruizjuan 47
+Juan ,Donaji,Ruiz,Sebastian,Hombre,28,1995-01-08,RUSJ950108HOMBREDFRU63Y,48,2,juan ruiz48@urcmac.edu.mx,ruizjuan 48
+Hector,,Adaya,Martinez,Hombre,24,1999-01-07,ADMH990107HOMBREDFAD24N,49,5,hectoradaya49@urcmac.edu.mx,adayahector49
+Demian,,Adaya,Martinez,Hombre,30,1993-01-08,ADMD930108HOMBREDFAD57T,50,1,demianadaya50@urcmac.edu.mx,adayademian50
+Hector,,Zarate,Romero,Hombre,27,1996-01-08,ZARH960108HOMBREDFZA54W,51,5,hectorzarate51@urcmac.edu.mx,zaratehector51
+Albert,,Zarate,Sanchez,Hombre,27,1996-01-08,ZASA960108HOMBREDFZA22R,52,2,albertzarate52@urcmac.edu.mx,zaratealbert52
+Jose,Rogelio,Hidalgo,Cirigo,Hombre,25,1998-01-07,HICJ980107HOMBREDFHI79U,53,4,josehidalgo53@urcmac.edu.mx,hidalgojose53
+Juan ,,Zarate,Sanchez,Hombre,28,1995-01-08,ZASJ950108HOMBREDFZA21A,54,1,juan zarate54@urcmac.edu.mx,zaratejuan 54
+Juan ,Alfonso,Zarate,Cirigo,Hombre,24,1999-01-07,ZACJ990107HOMBREDFZA19R,55,2,juan zarate55@urcmac.edu.mx,zaratejuan 55
+Albert,,Espinosa,Sanchez,Hombre,24,1999-01-07,ESSA990107HOMBREDFES72F,56,4,albertespinosa56@urcmac.edu.mx,espinosaalbert56
+Hector,Pablo,Ruiz,Martinez,Hombre,21,2002-01-06,RUMH020106HOMBREDFRU59K,57,1,hectorruiz57@urcmac.edu.mx,ruizhector57
+Juan ,Alfonso,Ruiz,Romero,Hombre,24,1999-01-07,RURJ990107HOMBREDFRU55L,58,4,juan ruiz58@urcmac.edu.mx,ruizjuan 58
+Juan ,,Espinosa,Sebastian,Hombre,30,1993-01-08,ESSJ930108HOMBREDFES49K,59,5,juan espinosa59@urcmac.edu.mx,espinosajuan 59
+Juan ,Alfonso,Espinosa,Cirigo,Hombre,29,1994-01-08,ESCJ940108HOMBREDFES89G,60,2,juan espinosa60@urcmac.edu.mx,espinosajuan 60
+Jose,,Zarate,Martinez,Hombre,23,2000-01-07,ZAMJ000107HOMBREDFZA78S,61,5,josezarate61@urcmac.edu.mx,zaratejose61
+Jose,,Espinosa,Martinez,Hombre,24,1999-01-07,ESMJ990107HOMBREDFES30Y,62,2,joseespinosa62@urcmac.edu.mx,espinosajose62
+Jose,,Adaya,Cirigo,Hombre,25,1998-01-07,ADCJ980107HOMBREDFAD35Y,63,3,joseadaya63@urcmac.edu.mx,adayajose63
+Hector,,Hidalgo,Romero,Hombre,27,1996-01-08,HIRH960108HOMBREDFHI64J,64,5,hectorhidalgo64@urcmac.edu.mx,hidalgohector64
+Demian,Alfonso,Ruiz,Sanchez,Hombre,20,2003-01-06,RUSD030106HOMBREDFRU37Z,65,3,demianruiz65@urcmac.edu.mx,ruizdemian65
+Albert,Rogelio,Ruiz,Sebastian,Hombre,22,2001-01-06,RUSA010106HOMBREDFRU97W,66,2,albertruiz66@urcmac.edu.mx,ruizalbert66
+Jose,Alfonso,Ruiz,Sebastian,Hombre,24,1999-01-07,RUSJ990107HOMBREDFRU31B,67,4,joseruiz67@urcmac.edu.mx,ruizjose67
+Hector,Pablo,Espinosa,Cirigo,Hombre,24,1999-01-07,ESCH990107HOMBREDFES31K,68,3,hectorespinosa68@urcmac.edu.mx,espinosahector68
+Juan ,Rogelio,Ruiz,Sebastian,Hombre,25,1998-01-07,RUSJ980107HOMBREDFRU96G,69,4,juan ruiz69@urcmac.edu.mx,ruizjuan 69
+Jose,Pablo,Ruiz,Cirigo,Hombre,22,2001-01-06,RUCJ010106HOMBREDFRU12K,70,1,joseruiz70@urcmac.edu.mx,ruizjose70
+Albert,,Hidalgo,Martinez,Hombre,30,1993-01-08,HIMA930108HOMBREDFHI14V,71,5,alberthidalgo71@urcmac.edu.mx,hidalgoalbert71
+Hector,Donaji,Espinosa,Cirigo,Hombre,24,1999-01-07,ESCH990107HOMBREDFES63M,72,1,hectorespinosa72@urcmac.edu.mx,espinosahector72
+Demian,Rogelio,Ruiz,Martinez,Hombre,23,2000-01-07,RUMD000107HOMBREDFRU13E,73,3,demianruiz73@urcmac.edu.mx,ruizdemian73
+Hector,Rogelio,Zarate,Romero,Hombre,20,2003-01-06,ZARH030106HOMBREDFZA27P,74,2,hectorzarate74@urcmac.edu.mx,zaratehector74
+Hector,Rogelio,Adaya,Cirigo,Hombre,30,1993-01-08,ADCH930108HOMBREDFAD60L,75,2,hectoradaya75@urcmac.edu.mx,adayahector75
+Albert,Pablo,Ruiz,Martinez,Hombre,27,1996-01-08,RUMA960108HOMBREDFRU36J,76,4,albertruiz76@urcmac.edu.mx,ruizalbert76
+Albert,Alfonso,Zarate,Romero,Hombre,22,2001-01-06,ZARA010106HOMBREDFZA40X,77,2,albertzarate77@urcmac.edu.mx,zaratealbert77
+Jose,Rogelio,Zarate,Cirigo,Hombre,25,1998-01-07,ZACJ980107HOMBREDFZA85Z,78,3,josezarate78@urcmac.edu.mx,zaratejose78
+Albert,Alfonso,Adaya,Cirigo,Hombre,30,1993-01-08,ADCA930108HOMBREDFAD41S,79,2,albertadaya79@urcmac.edu.mx,adayaalbert79
+Albert,Donaji,Ruiz,Martinez,Hombre,28,1995-01-08,RUMA950108HOMBREDFRU63Z,80,2,albertruiz80@urcmac.edu.mx,ruizalbert80
+Jose,Rogelio,Ruiz,Romero,Hombre,22,2001-01-06,RURJ010106HOMBREDFRU62Y,81,3,joseruiz81@urcmac.edu.mx,ruizjose81
+Hector,Rogelio,Hidalgo,Cirigo,Hombre,26,1997-01-07,HICH970107HOMBREDFHI33C,82,4,hectorhidalgo82@urcmac.edu.mx,hidalgohector82
+Hector,Rogelio,Espinosa,Romero,Hombre,26,1997-01-07,ESRH970107HOMBREDFES43C,83,3,hectorespinosa83@urcmac.edu.mx,espinosahector83
+Juan ,Pablo,Zarate,Cirigo,Hombre,29,1994-01-08,ZACJ940108HOMBREDFZA17A,84,5,juan zarate84@urcmac.edu.mx,zaratejuan 84
+Albert,Alfonso,Espinosa,Romero,Hombre,23,2000-01-07,ESRA000107HOMBREDFES76H,85,5,albertespinosa85@urcmac.edu.mx,espinosaalbert85
+Demian,Pablo,Zarate,Romero,Hombre,21,2002-01-06,ZARD020106HOMBREDFZA92J,86,2,demianzarate86@urcmac.edu.mx,zaratedemian86
+Demian,Pablo,Adaya,Cirigo,Hombre,23,2000-01-07,ADCD000107HOMBREDFAD76Y,87,5,demianadaya87@urcmac.edu.mx,adayademian87
+Albert,Pablo,Adaya,Sanchez,Hombre,24,1999-01-07,ADSA990107HOMBREDFAD56Y,88,3,albertadaya88@urcmac.edu.mx,adayaalbert88
+Hector,,Adaya,Cirigo,Hombre,29,1994-01-08,ADCH940108HOMBREDFAD15Q,89,3,hectoradaya89@urcmac.edu.mx,adayahector89
+Jose,Rogelio,Espinosa,Martinez,Hombre,21,2002-01-06,ESMJ020106HOMBREDFES54T,90,2,joseespinosa90@urcmac.edu.mx,espinosajose90
+Juan ,Pablo,Adaya,Sebastian,Hombre,30,1993-01-08,ADSJ930108HOMBREDFAD19B,91,3,juan adaya91@urcmac.edu.mx,adayajuan 91
+Demian,,Adaya,Cirigo,Hombre,27,1996-01-08,ADCD960108HOMBREDFAD93W,92,4,demianadaya92@urcmac.edu.mx,adayademian92
+Juan ,Donaji,Ruiz,Sanchez,Hombre,29,1994-01-08,RUSJ940108HOMBREDFRU23I,93,5,juan ruiz93@urcmac.edu.mx,ruizjuan 93
+Albert,Rogelio,Hidalgo,Martinez,Hombre,27,1996-01-08,HIMA960108HOMBREDFHI50T,94,5,alberthidalgo94@urcmac.edu.mx,hidalgoalbert94
+Hector,Alfonso,Adaya,Romero,Hombre,24,1999-01-07,ADRH990107HOMBREDFAD46I,95,1,hectoradaya95@urcmac.edu.mx,adayahector95
+Jose,Donaji,Adaya,Romero,Hombre,21,2002-01-06,ADRJ020106HOMBREDFAD36P,96,1,joseadaya96@urcmac.edu.mx,adayajose96
+Juan ,Rogelio,Hidalgo,Martinez,Hombre,23,2000-01-07,HIMJ000107HOMBREDFHI34F,97,2,juan hidalgo97@urcmac.edu.mx,hidalgojuan 97
+Jose,Pablo,Hidalgo,Romero,Hombre,20,2003-01-06,HIRJ030106HOMBREDFHI60P,98,2,josehidalgo98@urcmac.edu.mx,hidalgojose98
+Jose,,Zarate,Cirigo,Hombre,27,1996-01-08,ZACJ960108HOMBREDFZA40D,99,3,josezarate99@urcmac.edu.mx,zaratejose99
+Jose,,Ruiz,Romero,Hombre,21,2002-01-06,RURJ020106HOMBREDFRU63G,100,4,joseruiz100@urcmac.edu.mx,ruizjose100
+Jose,,Espinosa,Cirigo,Hombre,27,1996-01-08,ESCJ960108HOMBREDFES29S,101,5,joseespinosa101@urcmac.edu.mx,espinosajose101
+Juan ,,Espinosa,Sanchez,Hombre,29,1994-01-08,ESSJ940108HOMBREDFES77M,102,1,juan espinosa102@urcmac.edu.mx,espinosajuan 102
+Hector,Rogelio,Zarate,Martinez,Hombre,21,2002-01-06,ZAMH020106HOMBREDFZA14T,103,1,hectorzarate103@urcmac.edu.mx,zaratehector103
+Albert,,Hidalgo,Cirigo,Hombre,20,2003-01-06,HICA030106HOMBREDFHI46Z,104,5,alberthidalgo104@urcmac.edu.mx,hidalgoalbert104
+Albert,Alfonso,Zarate,Martinez,Hombre,27,1996-01-08,ZAMA960108HOMBREDFZA57P,105,5,albertzarate105@urcmac.edu.mx,zaratealbert105
+Hector,Rogelio,Espinosa,Martinez,Hombre,22,2001-01-06,ESMH010106HOMBREDFES58Y,106,2,hectorespinosa106@urcmac.edu.mx,espinosahector106
+Juan ,Donaji,Hidalgo,Sebastian,Hombre,22,2001-01-06,HISJ010106HOMBREDFHI91C,107,1,juan hidalgo107@urcmac.edu.mx,hidalgojuan 107
+Hector,Pablo,Adaya,Sanchez,Hombre,29,1994-01-08,ADSH940108HOMBREDFAD53R,108,5,hectoradaya108@urcmac.edu.mx,adayahector108
+Albert,Alfonso,Espinosa,Martinez,Hombre,20,2003-01-06,ESMA030106HOMBREDFES86U,109,1,albertespinosa109@urcmac.edu.mx,espinosaalbert109
+Juan ,Pablo,Ruiz,Martinez,Hombre,26,1997-01-07,RUMJ970107HOMBREDFRU10E,110,2,juan ruiz110@urcmac.edu.mx,ruizjuan 110
+Albert,Pablo,Ruiz,Cirigo,Hombre,20,2003-01-06,RUCA030106HOMBREDFRU20T,111,4,albertruiz111@urcmac.edu.mx,ruizalbert111
+Albert,Rogelio,Ruiz,Sanchez,Hombre,20,2003-01-06,RUSA030106HOMBREDFRU38P,112,2,albertruiz112@urcmac.edu.mx,ruizalbert112
+Jose,Alfonso,Ruiz,Sanchez,Hombre,24,1999-01-07,RUSJ990107HOMBREDFRU97F,113,2,joseruiz113@urcmac.edu.mx,ruizjose113
+Albert,Donaji,Ruiz,Cirigo,Hombre,26,1997-01-07,RUCA970107HOMBREDFRU26Z,114,5,albertruiz114@urcmac.edu.mx,ruizalbert114
+Juan ,Rogelio,Ruiz,Sanchez,Hombre,30,1993-01-08,RUSJ930108HOMBREDFRU58Z,115,3,juan ruiz115@urcmac.edu.mx,ruizjuan 115
+Juan ,,Hidalgo,Romero,Hombre,25,1998-01-07,HIRJ980107HOMBREDFHI45Z,116,1,juan hidalgo116@urcmac.edu.mx,hidalgojuan 116
+Hector,,Ruiz,Romero,Hombre,29,1994-01-08,RURH940108HOMBREDFRU52S,117,4,hectorruiz117@urcmac.edu.mx,ruizhector117
+Jose,Rogelio,Espinosa,Cirigo,Hombre,27,1996-01-08,ESCJ960108HOMBREDFES78M,118,3,joseespinosa118@urcmac.edu.mx,espinosajose118
+Jose,Pablo,Adaya,Martinez,Hombre,26,1997-01-07,ADMJ970107HOMBREDFAD39P,119,4,joseadaya119@urcmac.edu.mx,adayajose119
+Demian,Alfonso,Hidalgo,Sebastian,Hombre,28,1995-01-08,HISD950108HOMBREDFHI14O,120,2,demianhidalgo120@urcmac.edu.mx,hidalgodemian120
+Demian,Pablo,Espinosa,Romero,Hombre,28,1995-01-08,ESRD950108HOMBREDFES77T,121,2,demianespinosa121@urcmac.edu.mx,espinosademian121
+Jose,Pablo,Zarate,Romero,Hombre,29,1994-01-08,ZARJ940108HOMBREDFZA93T,122,5,josezarate122@urcmac.edu.mx,zaratejose122
+Albert,Rogelio,Hidalgo,Cirigo,Hombre,22,2001-01-06,HICA010106HOMBREDFHI42L,123,3,alberthidalgo123@urcmac.edu.mx,hidalgoalbert123
+Jose,Pablo,Espinosa,Romero,Hombre,27,1996-01-08,ESRJ960108HOMBREDFES83X,124,2,joseespinosa124@urcmac.edu.mx,espinosajose124
+Juan ,Pablo,Adaya,Sanchez,Hombre,21,2002-01-06,ADSJ020106HOMBREDFAD20X,125,4,juan adaya125@urcmac.edu.mx,adayajuan 125
+Hector,,Espinosa,Romero,Hombre,21,2002-01-06,ESRH020106HOMBREDFES55I,126,2,hectorespinosa126@urcmac.edu.mx,espinosahector126
+Demian,Rogelio,Adaya,Romero,Hombre,28,1995-01-08,ADRD950108HOMBREDFAD89R,127,2,demianadaya127@urcmac.edu.mx,adayademian127
+Juan ,Rogelio,Hidalgo,Cirigo,Hombre,28,1995-01-08,HICJ950108HOMBREDFHI57S,128,3,juan hidalgo128@urcmac.edu.mx,hidalgojuan 128
+Hector,Alfonso,Ruiz,Sebastian,Hombre,20,2003-01-06,RUSH030106HOMBREDFRU98Q,129,2,hectorruiz129@urcmac.edu.mx,ruizhector129
+Albert,,Zarate,Martinez,Hombre,23,2000-01-07,ZAMA000107HOMBREDFZA65E,130,2,albertzarate130@urcmac.edu.mx,zaratealbert130
+Albert,Donaji,Adaya,Romero,Hombre,21,2002-01-06,ADRA020106HOMBREDFAD26K,131,4,albertadaya131@urcmac.edu.mx,adayaalbert131
+Juan ,,Zarate,Martinez,Hombre,20,2003-01-06,ZAMJ030106HOMBREDFZA84W,132,2,juan zarate132@urcmac.edu.mx,zaratejuan 132
+Albert,Pablo,Hidalgo,Romero,Hombre,28,1995-01-08,HIRA950108HOMBREDFHI15L,133,3,alberthidalgo133@urcmac.edu.mx,hidalgoalbert133
+Albert,,Espinosa,Martinez,Hombre,22,2001-01-06,ESMA010106HOMBREDFES60K,134,4,albertespinosa134@urcmac.edu.mx,espinosaalbert134
+Juan ,,Adaya,Cirigo,Hombre,26,1997-01-07,ADCJ970107HOMBREDFAD18V,135,4,juan adaya135@urcmac.edu.mx,adayajuan 135
+Juan ,Donaji,Adaya,Sebastian,Hombre,24,1999-01-07,ADSJ990107HOMBREDFAD65N,136,2,juan adaya136@urcmac.edu.mx,adayajuan 136
+Hector,Rogelio,Zarate,Cirigo,Hombre,26,1997-01-07,ZACH970107HOMBREDFZA87A,137,4,hectorzarate137@urcmac.edu.mx,zaratehector137
+Hector,Rogelio,Ruiz,Romero,Hombre,29,1994-01-08,RURH940108HOMBREDFRU64H,138,5,hectorruiz138@urcmac.edu.mx,ruizhector138
+Albert,Alfonso,Ruiz,Romero,Hombre,29,1994-01-08,RURA940108HOMBREDFRU40Z,139,4,albertruiz139@urcmac.edu.mx,ruizalbert139
+Hector,Rogelio,Espinosa,Cirigo,Hombre,27,1996-01-08,ESCH960108HOMBREDFES59I,140,3,hectorespinosa140@urcmac.edu.mx,espinosahector140
+Demian,Alfonso,Zarate,Sebastian,Hombre,24,1999-01-07,ZASD990107HOMBREDFZA21L,141,4,demianzarate141@urcmac.edu.mx,zaratedemian141
+Juan ,Pablo,Ruiz,Cirigo,Hombre,21,2002-01-06,RUCJ020106HOMBREDFRU75C,142,3,juan ruiz142@urcmac.edu.mx,ruizjuan 142
+Juan ,Alfonso,Adaya,Romero,Hombre,29,1994-01-08,ADRJ940108HOMBREDFAD77A,143,3,juan adaya143@urcmac.edu.mx,adayajuan 143
+Demian,Donaji,Hidalgo,Sebastian,Hombre,22,2001-01-06,HISD010106HOMBREDFHI48H,144,5,demianhidalgo144@urcmac.edu.mx,hidalgodemian144
+Juan ,,Hidalgo,Martinez,Hombre,29,1994-01-08,HIMJ940108HOMBREDFHI31Q,145,5,juan hidalgo145@urcmac.edu.mx,hidalgojuan 145
+Hector,Pablo,Zarate,Romero,Hombre,24,1999-01-07,ZARH990107HOMBREDFZA70W,146,2,hectorzarate146@urcmac.edu.mx,zaratehector146
+Juan ,Donaji,Hidalgo,Sanchez,Hombre,30,1993-01-08,HISJ930108HOMBREDFHI30Q,147,4,juan hidalgo147@urcmac.edu.mx,hidalgojuan 147
+Demian,,Hidalgo,Sebastian,Hombre,27,1996-01-08,HISD960108HOMBREDFHI26X,148,4,demianhidalgo148@urcmac.edu.mx,hidalgodemian148
+Demian,Alfonso,Adaya,Sebastian,Hombre,23,2000-01-07,ADSD000107HOMBREDFAD87Y,149,3,demianadaya149@urcmac.edu.mx,adayademian149
+Hector,Donaji,Ruiz,Sebastian,Hombre,27,1996-01-08,RUSH960108HOMBREDFRU26W,150,3,hectorruiz150@urcmac.edu.mx,ruizhector150
+Albert,Rogelio,Adaya,Sebastian,Hombre,30,1993-01-08,ADSA930108HOMBREDFAD79V,151,3,albertadaya151@urcmac.edu.mx,adayaalbert151
+Hector,Donaji,Adaya,Romero,Hombre,25,1998-01-07,ADRH980107HOMBREDFAD14I,152,5,hectoradaya152@urcmac.edu.mx,adayahector152
+Juan ,Rogelio,Adaya,Sebastian,Hombre,29,1994-01-08,ADSJ940108HOMBREDFAD85G,153,4,juan adaya153@urcmac.edu.mx,adayajuan 153
+Jose,Pablo,Adaya,Cirigo,Hombre,29,1994-01-08,ADCJ940108HOMBREDFAD50U,154,5,joseadaya154@urcmac.edu.mx,adayajose154
+Albert,Rogelio,Zarate,Cirigo,Hombre,27,1996-01-08,ZACA960108HOMBREDFZA76G,155,5,albertzarate155@urcmac.edu.mx,zaratealbert155
+Jose,Alfonso,Hidalgo,Sebastian,Hombre,21,2002-01-06,HISJ020106HOMBREDFHI36K,156,2,josehidalgo156@urcmac.edu.mx,hidalgojose156
+Hector,Pablo,Hidalgo,Romero,Hombre,27,1996-01-08,HIRH960108HOMBREDFHI55J,157,3,hectorhidalgo157@urcmac.edu.mx,hidalgohector157
+Demian,Rogelio,Adaya,Martinez,Hombre,24,1999-01-07,ADMD990107HOMBREDFAD80H,158,5,demianadaya158@urcmac.edu.mx,adayademian158
+Hector,,Espinosa,Martinez,Hombre,22,2001-01-06,ESMH010106HOMBREDFES82U,159,1,hectorespinosa159@urcmac.edu.mx,espinosahector159
+Juan ,Rogelio,Zarate,Cirigo,Hombre,27,1996-01-08,ZACJ960108HOMBREDFZA52R,160,2,juan zarate160@urcmac.edu.mx,zaratejuan 160
+Albert,Rogelio,Espinosa,Cirigo,Hombre,22,2001-01-06,ESCA010106HOMBREDFES60K,161,4,albertespinosa161@urcmac.edu.mx,espinosaalbert161
+Demian,Rogelio,Zarate,Romero,Hombre,29,1994-01-08,ZARD940108HOMBREDFZA51V,162,4,demianzarate162@urcmac.edu.mx,zaratedemian162
+Juan ,Rogelio,Espinosa,Cirigo,Hombre,24,1999-01-07,ESCJ990107HOMBREDFES57V,163,2,juan espinosa163@urcmac.edu.mx,espinosajuan 163
+Albert,Pablo,Adaya,Martinez,Hombre,26,1997-01-07,ADMA970107HOMBREDFAD70L,164,5,albertadaya164@urcmac.edu.mx,adayaalbert164
+Albert,Donaji,Adaya,Martinez,Hombre,24,1999-01-07,ADMA990107HOMBREDFAD99L,165,5,albertadaya165@urcmac.edu.mx,adayaalbert165
+Demian,Rogelio,Espinosa,Romero,Hombre,20,2003-01-06,ESRD030106HOMBREDFES16A,166,5,demianespinosa166@urcmac.edu.mx,espinosademian166
+Albert,Pablo,Hidalgo,Martinez,Hombre,29,1994-01-08,HIMA940108HOMBREDFHI79H,167,1,alberthidalgo167@urcmac.edu.mx,hidalgoalbert167
+Albert,Pablo,Zarate,Romero,Hombre,28,1995-01-08,ZARA950108HOMBREDFZA23V,168,3,albertzarate168@urcmac.edu.mx,zaratealbert168
+Demian,Alfonso,Hidalgo,Sanchez,Hombre,20,2003-01-06,HISD030106HOMBREDFHI37Z,169,5,demianhidalgo169@urcmac.edu.mx,hidalgodemian169
+Albert,Donaji,Zarate,Romero,Hombre,20,2003-01-06,ZARA030106HOMBREDFZA50P,170,5,albertzarate170@urcmac.edu.mx,zaratealbert170
+Albert,Pablo,Espinosa,Romero,Hombre,26,1997-01-07,ESRA970107HOMBREDFES28E,171,3,albertespinosa171@urcmac.edu.mx,espinosaalbert171
+Albert,,Zarate,Cirigo,Hombre,28,1995-01-08,ZACA950108HOMBREDFZA95V,172,1,albertzarate172@urcmac.edu.mx,zaratealbert172
+Albert,,Ruiz,Romero,Hombre,28,1995-01-08,RURA950108HOMBREDFRU99B,173,5,albertruiz173@urcmac.edu.mx,ruizalbert173
+Albert,Donaji,Espinosa,Romero,Hombre,29,1994-01-08,ESRA940108HOMBREDFES24B,174,4,albertespinosa174@urcmac.edu.mx,espinosaalbert174
+Juan ,,Zarate,Cirigo,Hombre,26,1997-01-07,ZACJ970107HOMBREDFZA33A,175,1,juan zarate175@urcmac.edu.mx,zaratejuan 175
+Juan ,Donaji,Zarate,Sebastian,Hombre,22,2001-01-06,ZASJ010106HOMBREDFZA90K,176,4,juan zarate176@urcmac.edu.mx,zaratejuan 176
+Albert,,Espinosa,Cirigo,Hombre,27,1996-01-08,ESCA960108HOMBREDFES75N,177,3,albertespinosa177@urcmac.edu.mx,espinosaalbert177
+Juan ,,Ruiz,Romero,Hombre,23,2000-01-07,RURJ000107HOMBREDFRU46B,178,4,juan ruiz178@urcmac.edu.mx,ruizjuan 178
+Juan ,Donaji,Espinosa,Sebastian,Hombre,26,1997-01-07,ESSJ970107HOMBREDFES64Q,179,4,juan espinosa179@urcmac.edu.mx,espinosajuan 179
+Hector,Alfonso,Ruiz,Sanchez,Hombre,30,1993-01-08,RUSH930108HOMBREDFRU21A,180,2,hectorruiz180@urcmac.edu.mx,ruizhector180
+Jose,Rogelio,Hidalgo,Romero,Hombre,30,1993-01-08,HIRJ930108HOMBREDFHI70F,181,3,josehidalgo181@urcmac.edu.mx,hidalgojose181
+Juan ,Pablo,Hidalgo,Romero,Hombre,30,1993-01-08,HIRJ930108HOMBREDFHI67I,182,2,juan hidalgo182@urcmac.edu.mx,hidalgojuan 182
+Juan ,,Espinosa,Martinez,Hombre,30,1993-01-08,ESMJ930108HOMBREDFES81Y,183,2,juan espinosa183@urcmac.edu.mx,espinosajuan 183
+Juan ,Donaji,Adaya,Sanchez,Hombre,26,1997-01-07,ADSJ970107HOMBREDFAD41K,184,4,juan adaya184@urcmac.edu.mx,adayajuan 184
+Demian,Alfonso,Ruiz,Cirigo,Hombre,23,2000-01-07,RUCD000107HOMBREDFRU22F,185,4,demianruiz185@urcmac.edu.mx,ruizdemian185
+Juan ,,Hidalgo,Cirigo,Hombre,29,1994-01-08,HICJ940108HOMBREDFHI89Q,186,1,juan hidalgo186@urcmac.edu.mx,hidalgojuan 186
+Jose,,Adaya,Romero,Hombre,27,1996-01-08,ADRJ960108HOMBREDFAD85I,187,4,joseadaya187@urcmac.edu.mx,adayajose187
+Demian,Alfonso,Zarate,Sanchez,Hombre,25,1998-01-07,ZASD980107HOMBREDFZA22R,188,1,demianzarate188@urcmac.edu.mx,zaratedemian188
+Hector,Pablo,Adaya,Martinez,Hombre,29,1994-01-08,ADMH940108HOMBREDFAD95Z,189,1,hectoradaya189@urcmac.edu.mx,adayahector189
+Demian,Alfonso,Espinosa,Sebastian,Hombre,21,2002-01-06,ESSD020106HOMBREDFES21Q,190,1,demianespinosa190@urcmac.edu.mx,espinosademian190
+Demian,Donaji,Hidalgo,Sanchez,Hombre,20,2003-01-06,HISD030106HOMBREDFHI10X,191,4,demianhidalgo191@urcmac.edu.mx,hidalgodemian191
+Jose,Alfonso,Zarate,Sebastian,Hombre,20,2003-01-06,ZASJ030106HOMBREDFZA87H,192,4,josezarate192@urcmac.edu.mx,zaratejose192
+Albert,Rogelio,Ruiz,Martinez,Hombre,26,1997-01-07,RUMA970107HOMBREDFRU15U,193,2,albertruiz193@urcmac.edu.mx,ruizalbert193
+Juan ,Rogelio,Ruiz,Martinez,Hombre,22,2001-01-06,RUMJ010106HOMBREDFRU10W,194,3,juan ruiz194@urcmac.edu.mx,ruizjuan 194
+Hector,Pablo,Espinosa,Romero,Hombre,29,1994-01-08,ESRH940108HOMBREDFES34K,195,4,hectorespinosa195@urcmac.edu.mx,espinosahector195
+Jose,Alfonso,Espinosa,Sebastian,Hombre,25,1998-01-07,ESSJ980107HOMBREDFES13Y,196,5,joseespinosa196@urcmac.edu.mx,espinosajose196
+Jose,Pablo,Ruiz,Romero,Hombre,27,1996-01-08,RURJ960108HOMBREDFRU74D,197,3,joseruiz197@urcmac.edu.mx,ruizjose197
+Jose,Donaji,Hidalgo,Sebastian,Hombre,21,2002-01-06,HISJ020106HOMBREDFHI11V,198,1,josehidalgo198@urcmac.edu.mx,hidalgojose198
+Demian,,Hidalgo,Sanchez,Hombre,25,1998-01-07,HISD980107HOMBREDFHI37U,199,3,demianhidalgo199@urcmac.edu.mx,hidalgodemian199
+Albert,Pablo,Zarate,Martinez,Hombre,27,1996-01-08,ZAMA960108HOMBREDFZA45D,200,3,albertzarate200@urcmac.edu.mx,zaratealbert200
+Hector,Rogelio,Adaya,Romero,Hombre,28,1995-01-08,ADRH950108HOMBREDFAD77E,201,5,hectoradaya201@urcmac.edu.mx,adayahector201
+Albert,Alfonso,Adaya,Romero,Hombre,30,1993-01-08,ADRA930108HOMBREDFAD63R,202,5,albertadaya202@urcmac.edu.mx,adayaalbert202
+Albert,Pablo,Adaya,Cirigo,Hombre,30,1993-01-08,ADCA930108HOMBREDFAD68R,203,3,albertadaya203@urcmac.edu.mx,adayaalbert203
+Albert,Rogelio,Adaya,Sanchez,Hombre,22,2001-01-06,ADSA010106HOMBREDFAD66C,204,2,albertadaya204@urcmac.edu.mx,adayaalbert204
+Albert,Pablo,Espinosa,Martinez,Hombre,22,2001-01-06,ESMA010106HOMBREDFES21M,205,4,albertespinosa205@urcmac.edu.mx,espinosaalbert205
+Juan ,Pablo,Zarate,Romero,Hombre,23,2000-01-07,ZARJ000107HOMBREDFZA45F,206,4,juan zarate206@urcmac.edu.mx,zaratejuan 206
+Albert,Donaji,Adaya,Cirigo,Hombre,26,1997-01-07,ADCA970107HOMBREDFAD70D,207,3,albertadaya207@urcmac.edu.mx,adayaalbert207
+Juan ,Rogelio,Adaya,Sanchez,Hombre,25,1998-01-07,ADSJ980107HOMBREDFAD84K,208,5,juan adaya208@urcmac.edu.mx,adayajuan 208
+Jose,Alfonso,Hidalgo,Sanchez,Hombre,21,2002-01-06,HISJ020106HOMBREDFHI90J,209,1,josehidalgo209@urcmac.edu.mx,hidalgojose209
+Juan ,,Ruiz,Martinez,Hombre,24,1999-01-07,RUMJ990107HOMBREDFRU20V,210,4,juan ruiz210@urcmac.edu.mx,ruizjuan 210
+Demian,Pablo,Adaya,Romero,Hombre,27,1996-01-08,ADRD960108HOMBREDFAD43H,211,4,demianadaya211@urcmac.edu.mx,adayademian211
+Jose,Rogelio,Adaya,Martinez,Hombre,29,1994-01-08,ADMJ940108HOMBREDFAD74E,212,4,joseadaya212@urcmac.edu.mx,adayajose212
+Hector,,Adaya,Romero,Hombre,24,1999-01-07,ADRH990107HOMBREDFAD84C,213,3,hectoradaya213@urcmac.edu.mx,adayahector213
+Demian,Donaji,Zarate,Sebastian,Hombre,24,1999-01-07,ZASD990107HOMBREDFZA51F,214,2,demianzarate214@urcmac.edu.mx,zaratedemian214
+Juan ,Pablo,Hidalgo,Martinez,Hombre,29,1994-01-08,HIMJ940108HOMBREDFHI66F,215,5,juan hidalgo215@urcmac.edu.mx,hidalgojuan 215
+Demian,Donaji,Espinosa,Sebastian,Hombre,29,1994-01-08,ESSD940108HOMBREDFES34Q,216,1,demianespinosa216@urcmac.edu.mx,espinosademian216
+Juan ,Donaji,Zarate,Sanchez,Hombre,29,1994-01-08,ZASJ940108HOMBREDFZA74I,217,5,juan zarate217@urcmac.edu.mx,zaratejuan 217
+Demian,,Zarate,Sebastian,Hombre,24,1999-01-07,ZASD990107HOMBREDFZA18O,218,3,demianzarate218@urcmac.edu.mx,zaratedemian218
+Juan ,,Espinosa,Cirigo,Hombre,30,1993-01-08,ESCJ930108HOMBREDFES14B,219,4,juan espinosa219@urcmac.edu.mx,espinosajuan 219
+Juan ,Donaji,Espinosa,Sanchez,Hombre,25,1998-01-07,ESSJ980107HOMBREDFES56E,220,4,juan espinosa220@urcmac.edu.mx,espinosajuan 220
+Demian,,Espinosa,Sebastian,Hombre,20,2003-01-06,ESSD030106HOMBREDFES17R,221,2,demianespinosa221@urcmac.edu.mx,espinosademian221
+Hector,Alfonso,Adaya,Sebastian,Hombre,27,1996-01-08,ADSH960108HOMBREDFAD31Q,222,1,hectoradaya222@urcmac.edu.mx,adayahector222
+Hector,Pablo,Adaya,Cirigo,Hombre,29,1994-01-08,ADCH940108HOMBREDFAD54K,223,5,hectoradaya223@urcmac.edu.mx,adayahector223
+Hector,Alfonso,Hidalgo,Sebastian,Hombre,30,1993-01-08,HISH930108HOMBREDFHI40D,224,4,hectorhidalgo224@urcmac.edu.mx,hidalgohector224
+Albert,Rogelio,Ruiz,Cirigo,Hombre,25,1998-01-07,RUCA980107HOMBREDFRU42A,225,5,albertruiz225@urcmac.edu.mx,ruizalbert225
+Albert,,Adaya,Romero,Hombre,23,2000-01-07,ADRA000107HOMBREDFAD50M,226,4,albertadaya226@urcmac.edu.mx,adayaalbert226
+Juan ,Rogelio,Ruiz,Cirigo,Hombre,23,2000-01-07,RUCJ000107HOMBREDFRU24Q,227,5,juan ruiz227@urcmac.edu.mx,ruizjuan 227
+Hector,Rogelio,Adaya,Martinez,Hombre,23,2000-01-07,ADMH000107HOMBREDFAD18I,228,4,hectoradaya228@urcmac.edu.mx,adayahector228
+Juan ,Donaji,Hidalgo,Martinez,Hombre,20,2003-01-06,HIMJ030106HOMBREDFHI78G,229,3,juan hidalgo229@urcmac.edu.mx,hidalgojuan 229
+Juan ,Pablo,Zarate,Martinez,Hombre,24,1999-01-07,ZAMJ990107HOMBREDFZA39K,230,1,juan zarate230@urcmac.edu.mx,zaratejuan 230
+Demian,Alfonso,Espinosa,Sanchez,Hombre,23,2000-01-07,ESSD000107HOMBREDFES91H,231,4,demianespinosa231@urcmac.edu.mx,espinosademian231
+Albert,Pablo,Zarate,Cirigo,Hombre,25,1998-01-07,ZACA980107HOMBREDFZA21X,232,2,albertzarate232@urcmac.edu.mx,zaratealbert232
+Jose,Alfonso,Zarate,Sanchez,Hombre,22,2001-01-06,ZASJ010106HOMBREDFZA21Q,233,3,josezarate233@urcmac.edu.mx,zaratejose233
+Albert,Pablo,Ruiz,Romero,Hombre,20,2003-01-06,RURA030106HOMBREDFRU80Z,234,3,albertruiz234@urcmac.edu.mx,ruizalbert234
+Albert,Pablo,Espinosa,Cirigo,Hombre,28,1995-01-08,ESCA950108HOMBREDFES64V,235,2,albertespinosa235@urcmac.edu.mx,espinosaalbert235
+Jose,Alfonso,Espinosa,Sanchez,Hombre,22,2001-01-06,ESSJ010106HOMBREDFES85V,236,5,joseespinosa236@urcmac.edu.mx,espinosajose236
+Jose,Donaji,Hidalgo,Sanchez,Hombre,25,1998-01-07,HISJ980107HOMBREDFHI84Q,237,5,josehidalgo237@urcmac.edu.mx,hidalgojose237
+Jose,Rogelio,Adaya,Cirigo,Hombre,30,1993-01-08,ADCJ930108HOMBREDFAD26W,238,3,joseadaya238@urcmac.edu.mx,adayajose238
+Jose,Rogelio,Espinosa,Romero,Hombre,20,2003-01-06,ESRJ030106HOMBREDFES29B,239,3,joseespinosa239@urcmac.edu.mx,espinosajose239
+Demian,Donaji,Ruiz,Sebastian,Hombre,30,1993-01-08,RUSD930108HOMBREDFRU68B,240,3,demianruiz240@urcmac.edu.mx,ruizdemian240
+Juan ,Pablo,Espinosa,Romero,Hombre,25,1998-01-07,ESRJ980107HOMBREDFES96K,241,2,juan espinosa241@urcmac.edu.mx,espinosajuan 241
+Demian,Alfonso,Hidalgo,Martinez,Hombre,24,1999-01-07,HIMD990107HOMBREDFHI16P,242,5,demianhidalgo242@urcmac.edu.mx,hidalgodemian242
+Juan ,Pablo,Hidalgo,Cirigo,Hombre,21,2002-01-06,HICJ020106HOMBREDFHI54A,243,5,juan hidalgo243@urcmac.edu.mx,hidalgojuan 243
+Albert,Rogelio,Hidalgo,Romero,Hombre,21,2002-01-06,HIRA020106HOMBREDFHI42E,244,1,alberthidalgo244@urcmac.edu.mx,hidalgoalbert244
+Juan ,Rogelio,Hidalgo,Romero,Hombre,25,1998-01-07,HIRJ980107HOMBREDFHI62B,245,2,juan hidalgo245@urcmac.edu.mx,hidalgojuan 245
+Demian,Donaji,Zarate,Sanchez,Hombre,26,1997-01-07,ZASD970107HOMBREDFZA83N,246,5,demianzarate246@urcmac.edu.mx,zaratedemian246
+Hector,Alfonso,Zarate,Sebastian,Hombre,29,1994-01-08,ZASH940108HOMBREDFZA36B,247,5,hectorzarate247@urcmac.edu.mx,zaratehector247
+Demian,Donaji,Espinosa,Sanchez,Hombre,25,1998-01-07,ESSD980107HOMBREDFES88S,248,1,demianespinosa248@urcmac.edu.mx,espinosademian248
+Jose,Donaji,Zarate,Sebastian,Hombre,25,1998-01-07,ZASJ980107HOMBREDFZA79U,249,2,josezarate249@urcmac.edu.mx,zaratejose249
+Albert,,Adaya,Martinez,Hombre,20,2003-01-06,ADMA030106HOMBREDFAD68P,250,4,albertadaya250@urcmac.edu.mx,adayaalbert250
+Demian,,Zarate,Sanchez,Hombre,26,1997-01-07,ZASD970107HOMBREDFZA83E,251,5,demianzarate251@urcmac.edu.mx,zaratedemian251
+Hector,Alfonso,Espinosa,Sebastian,Hombre,29,1994-01-08,ESSH940108HOMBREDFES81W,252,3,hectorespinosa252@urcmac.edu.mx,espinosahector252
+Jose,Donaji,Espinosa,Sebastian,Hombre,21,2002-01-06,ESSJ020106HOMBREDFES24W,253,4,joseespinosa253@urcmac.edu.mx,espinosajose253
+Demian,,Espinosa,Sanchez,Hombre,26,1997-01-07,ESSD970107HOMBREDFES23K,254,4,demianespinosa254@urcmac.edu.mx,espinosademian254
+Juan ,,Adaya,Romero,Hombre,29,1994-01-08,ADRJ940108HOMBREDFAD39F,255,1,juan adaya255@urcmac.edu.mx,adayajuan 255
+Demian,Rogelio,Hidalgo,Sebastian,Hombre,27,1996-01-08,HISD960108HOMBREDFHI39X,256,2,demianhidalgo256@urcmac.edu.mx,hidalgodemian256
+Juan ,Donaji,Hidalgo,Cirigo,Hombre,27,1996-01-08,HICJ960108HOMBREDFHI35H,257,3,juan hidalgo257@urcmac.edu.mx,hidalgojuan 257
+Albert,Donaji,Hidalgo,Sebastian,Hombre,25,1998-01-07,HISA980107HOMBREDFHI58M,258,2,alberthidalgo258@urcmac.edu.mx,hidalgoalbert258
+Demian,Alfonso,Zarate,Martinez,Hombre,29,1994-01-08,ZAMD940108HOMBREDFZA31D,259,2,demianzarate259@urcmac.edu.mx,zaratedemian259
+Hector,Alfonso,Hidalgo,Sanchez,Hombre,23,2000-01-07,HISH000107HOMBREDFHI74M,260,3,hectorhidalgo260@urcmac.edu.mx,hidalgohector260
+Juan ,Pablo,Ruiz,Romero,Hombre,21,2002-01-06,RURJ020106HOMBREDFRU38N,261,4,juan ruiz261@urcmac.edu.mx,ruizjuan 261
+Demian,Donaji,Hidalgo,Martinez,Hombre,27,1996-01-08,HIMD960108HOMBREDFHI26K,262,3,demianhidalgo262@urcmac.edu.mx,hidalgodemian262
+Demian,Pablo,Ruiz,Sebastian,Hombre,25,1998-01-07,RUSD980107HOMBREDFRU84G,263,4,demianruiz263@urcmac.edu.mx,ruizdemian263
+Juan ,Pablo,Espinosa,Martinez,Hombre,23,2000-01-07,ESMJ000107HOMBREDFES81D,264,3,juan espinosa264@urcmac.edu.mx,espinosajuan 264
+Juan ,Alfonso,Hidalgo,Sebastian,Hombre,25,1998-01-07,HISJ980107HOMBREDFHI63Q,265,3,juan hidalgo265@urcmac.edu.mx,hidalgojuan 265
+Hector,Donaji,Zarate,Sebastian,Hombre,23,2000-01-07,ZASH000107HOMBREDFZA42H,266,2,hectorzarate266@urcmac.edu.mx,zaratehector266
+Albert,Rogelio,Adaya,Martinez,Hombre,25,1998-01-07,ADMA980107HOMBREDFAD51P,267,4,albertadaya267@urcmac.edu.mx,adayaalbert267
+Juan ,Rogelio,Adaya,Martinez,Hombre,26,1997-01-07,ADMJ970107HOMBREDFAD28Y,268,1,juan adaya268@urcmac.edu.mx,adayajuan 268
+Demian,Alfonso,Hidalgo,Cirigo,Hombre,22,2001-01-06,HICD010106HOMBREDFHI25Y,269,4,demianhidalgo269@urcmac.edu.mx,hidalgodemian269
+Jose,Pablo,Adaya,Romero,Hombre,22,2001-01-06,ADRJ010106HOMBREDFAD89M,270,4,joseadaya270@urcmac.edu.mx,adayajose270
+Jose,Alfonso,Hidalgo,Martinez,Hombre,28,1995-01-08,HIMJ950108HOMBREDFHI15U,271,1,josehidalgo271@urcmac.edu.mx,hidalgojose271
+Albert,Rogelio,Zarate,Romero,Hombre,20,2003-01-06,ZARA030106HOMBREDFZA71R,272,2,albertzarate272@urcmac.edu.mx,zaratealbert272
+Demian,,Ruiz,Sebastian,Hombre,30,1993-01-08,RUSD930108HOMBREDFRU28W,273,3,demianruiz273@urcmac.edu.mx,ruizdemian273
+Juan ,Rogelio,Zarate,Romero,Hombre,29,1994-01-08,ZARJ940108HOMBREDFZA44H,274,4,juan zarate274@urcmac.edu.mx,zaratejuan 274
+Albert,Rogelio,Espinosa,Romero,Hombre,30,1993-01-08,ESRA930108HOMBREDFES62S,275,3,albertespinosa275@urcmac.edu.mx,espinosaalbert275
+Albert,Donaji,Espinosa,Martinez,Hombre,20,2003-01-06,ESMA030106HOMBREDFES47T,276,3,albertespinosa276@urcmac.edu.mx,espinosaalbert276
+Juan ,Rogelio,Espinosa,Romero,Hombre,30,1993-01-08,ESRJ930108HOMBREDFES65J,277,1,juan espinosa277@urcmac.edu.mx,espinosajuan 277
+Demian,Donaji,Ruiz,Sanchez,Hombre,30,1993-01-08,RUSD930108HOMBREDFRU59Y,278,1,demianruiz278@urcmac.edu.mx,ruizdemian278
+Hector,Donaji,Hidalgo,Sebastian,Hombre,26,1997-01-07,HISH970107HOMBREDFHI26L,279,5,hectorhidalgo279@urcmac.edu.mx,hidalgohector279
+Juan ,,Adaya,Martinez,Hombre,21,2002-01-06,ADMJ020106HOMBREDFAD20C,280,3,juan adaya280@urcmac.edu.mx,adayajuan 280
+Albert,,Zarate,Romero,Hombre,22,2001-01-06,ZARA010106HOMBREDFZA67U,281,3,albertzarate281@urcmac.edu.mx,zaratealbert281
+Albert,,Adaya,Cirigo,Hombre,25,1998-01-07,ADCA980107HOMBREDFAD60A,282,5,albertadaya282@urcmac.edu.mx,adayaalbert282
+Juan ,Donaji,Zarate,Martinez,Hombre,29,1994-01-08,ZAMJ940108HOMBREDFZA43V,283,4,juan zarate283@urcmac.edu.mx,zaratejuan 283
+Juan ,,Zarate,Romero,Hombre,28,1995-01-08,ZARJ950108HOMBREDFZA83K,284,1,juan zarate284@urcmac.edu.mx,zaratejuan 284
+Albert,,Espinosa,Romero,Hombre,27,1996-01-08,ESRA960108HOMBREDFES83D,285,1,albertespinosa285@urcmac.edu.mx,espinosaalbert285
+Juan ,Donaji,Espinosa,Martinez,Hombre,23,2000-01-07,ESMJ000107HOMBREDFES88R,286,3,juan espinosa286@urcmac.edu.mx,espinosajuan 286
+Hector,Alfonso,Zarate,Sanchez,Hombre,28,1995-01-08,ZASH950108HOMBREDFZA23P,287,4,hectorzarate287@urcmac.edu.mx,zaratehector287
+Jose,Donaji,Zarate,Sanchez,Hombre,27,1996-01-08,ZASJ960108HOMBREDFZA67W,288,5,josezarate288@urcmac.edu.mx,zaratejose288
+Hector,Alfonso,Espinosa,Sanchez,Hombre,21,2002-01-06,ESSH020106HOMBREDFES43Y,289,4,hectorespinosa289@urcmac.edu.mx,espinosahector289
+Jose,Donaji,Espinosa,Sanchez,Hombre,22,2001-01-06,ESSJ010106HOMBREDFES18J,290,3,joseespinosa290@urcmac.edu.mx,espinosajose290
+Demian,Alfonso,Zarate,Cirigo,Hombre,20,2003-01-06,ZACD030106HOMBREDFZA80C,291,4,demianzarate291@urcmac.edu.mx,zaratedemian291
+Demian,Alfonso,Ruiz,Romero,Hombre,27,1996-01-08,RURD960108HOMBREDFRU62X,292,5,demianruiz292@urcmac.edu.mx,ruizdemian292
+Demian,Rogelio,Hidalgo,Sanchez,Hombre,29,1994-01-08,HISD940108HOMBREDFHI51C,293,2,demianhidalgo293@urcmac.edu.mx,hidalgodemian293
+Demian,Donaji,Hidalgo,Cirigo,Hombre,30,1993-01-08,HICD930108HOMBREDFHI47R,294,4,demianhidalgo294@urcmac.edu.mx,hidalgodemian294
+Juan ,Alfonso,Zarate,Sebastian,Hombre,24,1999-01-07,ZASJ990107HOMBREDFZA58M,295,4,juan zarate295@urcmac.edu.mx,zaratejuan 295
+Albert,Donaji,Hidalgo,Sanchez,Hombre,22,2001-01-06,HISA010106HOMBREDFHI61W,296,5,alberthidalgo296@urcmac.edu.mx,hidalgoalbert296
+Juan ,Alfonso,Espinosa,Sebastian,Hombre,29,1994-01-08,ESSJ940108HOMBREDFES70A,297,1,juan espinosa297@urcmac.edu.mx,espinosajuan 297
+Demian,Alfonso,Espinosa,Martinez,Hombre,23,2000-01-07,ESMD000107HOMBREDFES62S,298,5,demianespinosa298@urcmac.edu.mx,espinosademian298
+Juan ,Pablo,Espinosa,Cirigo,Hombre,23,2000-01-07,ESCJ000107HOMBREDFES87M,299,1,juan espinosa299@urcmac.edu.mx,espinosajuan 299
+Albert,Rogelio,Zarate,Martinez,Hombre,29,1994-01-08,ZAMA940108HOMBREDFZA21N,300,5,albertzarate300@urcmac.edu.mx,zaratealbert300
+Jose,Alfonso,Zarate,Martinez,Hombre,26,1997-01-07,ZAMJ970107HOMBREDFZA45E,301,3,josezarate301@urcmac.edu.mx,zaratejose301
+Juan ,Rogelio,Zarate,Martinez,Hombre,28,1995-01-08,ZAMJ950108HOMBREDFZA82K,302,4,juan zarate302@urcmac.edu.mx,zaratejuan 302
+Albert,Rogelio,Espinosa,Martinez,Hombre,26,1997-01-07,ESMA970107HOMBREDFES58M,303,5,albertespinosa303@urcmac.edu.mx,espinosaalbert303
+Jose,Alfonso,Espinosa,Martinez,Hombre,20,2003-01-06,ESMJ030106HOMBREDFES78Z,304,5,joseespinosa304@urcmac.edu.mx,espinosajose304
+Albert,Rogelio,Adaya,Cirigo,Hombre,26,1997-01-07,ADCA970107HOMBREDFAD91Q,305,3,albertadaya305@urcmac.edu.mx,adayaalbert305
+Juan ,Rogelio,Espinosa,Martinez,Hombre,30,1993-01-08,ESMJ930108HOMBREDFES94T,306,3,juan espinosa306@urcmac.edu.mx,espinosajuan 306
+Juan ,Rogelio,Adaya,Cirigo,Hombre,22,2001-01-06,ADCJ010106HOMBREDFAD88D,307,4,juan adaya307@urcmac.edu.mx,adayajuan 307
+Jose,,Hidalgo,Sebastian,Hombre,23,2000-01-07,HISJ000107HOMBREDFHI11M,308,5,josehidalgo308@urcmac.edu.mx,hidalgojose308
+Jose,Alfonso,Hidalgo,Cirigo,Hombre,25,1998-01-07,HICJ980107HOMBREDFHI41R,309,1,josehidalgo309@urcmac.edu.mx,hidalgojose309
+Demian,Pablo,Ruiz,Sanchez,Hombre,25,1998-01-07,RUSD980107HOMBREDFRU54P,310,2,demianruiz310@urcmac.edu.mx,ruizdemian310
+Juan ,Alfonso,Hidalgo,Sanchez,Hombre,22,2001-01-06,HISJ010106HOMBREDFHI24T,311,5,juan hidalgo311@urcmac.edu.mx,hidalgojuan 311
+Hector,Donaji,Zarate,Sanchez,Hombre,25,1998-01-07,ZASH980107HOMBREDFZA47T,312,2,hectorzarate312@urcmac.edu.mx,zaratehector312
+Jose,Pablo,Ruiz,Sebastian,Hombre,20,2003-01-06,RUSJ030106HOMBREDFRU34U,313,1,joseruiz313@urcmac.edu.mx,ruizjose313
+Albert,Pablo,Adaya,Romero,Hombre,20,2003-01-06,ADRA030106HOMBREDFAD41P,314,5,albertadaya314@urcmac.edu.mx,adayaalbert314
+Hector,Donaji,Espinosa,Sebastian,Hombre,20,2003-01-06,ESSH030106HOMBREDFES79H,315,3,hectorespinosa315@urcmac.edu.mx,espinosahector315
+Jose,Donaji,Ruiz,Sebastian,Hombre,22,2001-01-06,RUSJ010106HOMBREDFRU56F,316,5,joseruiz316@urcmac.edu.mx,ruizjose316
+Demian,,Ruiz,Sanchez,Hombre,24,1999-01-07,RUSD990107HOMBREDFRU76G,317,2,demianruiz317@urcmac.edu.mx,ruizdemian317
+Jose,Rogelio,Zarate,Sebastian,Hombre,25,1998-01-07,ZASJ980107HOMBREDFZA23S,318,4,josezarate318@urcmac.edu.mx,zaratejose318
+Hector,Rogelio,Hidalgo,Sebastian,Hombre,30,1993-01-08,HISH930108HOMBREDFHI55X,319,4,hectorhidalgo319@urcmac.edu.mx,hidalgohector319
+Juan ,Donaji,Zarate,Cirigo,Hombre,25,1998-01-07,ZACJ980107HOMBREDFZA91M,320,2,juan zarate320@urcmac.edu.mx,zaratejuan 320
+Juan ,Donaji,Ruiz,Romero,Hombre,21,2002-01-06,RURJ020106HOMBREDFRU70H,321,5,juan ruiz321@urcmac.edu.mx,ruizjuan 321
+Albert,Alfonso,Hidalgo,Sebastian,Hombre,22,2001-01-06,HISA010106HOMBREDFHI23N,322,4,alberthidalgo322@urcmac.edu.mx,hidalgoalbert322
+Juan ,Donaji,Espinosa,Cirigo,Hombre,23,2000-01-07,ESCJ000107HOMBREDFES93Q,323,4,juan espinosa323@urcmac.edu.mx,espinosajuan 323
+Demian,Pablo,Adaya,Sebastian,Hombre,27,1996-01-08,ADSD960108HOMBREDFAD13K,324,4,demianadaya324@urcmac.edu.mx,adayademian324
+Demian,Donaji,Zarate,Martinez,Hombre,28,1995-01-08,ZAMD950108HOMBREDFZA17S,325,1,demianzarate325@urcmac.edu.mx,zaratedemian325
+Hector,Donaji,Hidalgo,Sanchez,Hombre,28,1995-01-08,HISH950108HOMBREDFHI91H,326,3,hectorhidalgo326@urcmac.edu.mx,hidalgohector326
+Demian,Donaji,Adaya,Sebastian,Hombre,23,2000-01-07,ADSD000107HOMBREDFAD79R,327,2,demianadaya327@urcmac.edu.mx,adayademian327
+Demian,Alfonso,Ruiz,Martinez,Hombre,24,1999-01-07,RUMD990107HOMBREDFRU80X,328,2,demianruiz328@urcmac.edu.mx,ruizdemian328
+Demian,Pablo,Hidalgo,Sebastian,Hombre,21,2002-01-06,HISD020106HOMBREDFHI98V,329,2,demianhidalgo329@urcmac.edu.mx,hidalgodemian329
+Demian,Donaji,Espinosa,Martinez,Hombre,29,1994-01-08,ESMD940108HOMBREDFES97O,330,3,demianespinosa330@urcmac.edu.mx,espinosademian330
+Demian,,Adaya,Sebastian,Hombre,29,1994-01-08,ADSD940108HOMBREDFAD42T,331,2,demianadaya331@urcmac.edu.mx,adayademian331
+Juan ,,Espinosa,Romero,Hombre,25,1998-01-07,ESRJ980107HOMBREDFES58B,332,5,juan espinosa332@urcmac.edu.mx,espinosajuan 332
+Hector,Pablo,Ruiz,Sebastian,Hombre,21,2002-01-06,RUSH020106HOMBREDFRU61S,333,1,hectorruiz333@urcmac.edu.mx,ruizhector333
+Hector,Pablo,Adaya,Romero,Hombre,22,2001-01-06,ADRH010106HOMBREDFAD68O,334,3,hectoradaya334@urcmac.edu.mx,adayahector334
+Jose,Alfonso,Adaya,Sebastian,Hombre,30,1993-01-08,ADSJ930108HOMBREDFAD82A,335,2,joseadaya335@urcmac.edu.mx,adayajose335
+Hector,Alfonso,Hidalgo,Martinez,Hombre,28,1995-01-08,HIMH950108HOMBREDFHI74O,336,4,hectorhidalgo336@urcmac.edu.mx,hidalgohector336
+Demian,Alfonso,Espinosa,Cirigo,Hombre,26,1997-01-07,ESCD970107HOMBREDFES16T,337,2,demianespinosa337@urcmac.edu.mx,espinosademian337
+Jose,,Zarate,Sebastian,Hombre,24,1999-01-07,ZASJ990107HOMBREDFZA65B,338,5,josezarate338@urcmac.edu.mx,zaratejose338
+Jose,Alfonso,Zarate,Cirigo,Hombre,25,1998-01-07,ZACJ980107HOMBREDFZA96V,339,2,josezarate339@urcmac.edu.mx,zaratejose339
+Albert,Rogelio,Ruiz,Romero,Hombre,30,1993-01-08,RURA930108HOMBREDFRU60I,340,2,albertruiz340@urcmac.edu.mx,ruizalbert340
+Jose,,Espinosa,Sebastian,Hombre,26,1997-01-07,ESSJ970107HOMBREDFES13K,341,4,joseespinosa341@urcmac.edu.mx,espinosajose341
+Jose,Alfonso,Espinosa,Cirigo,Hombre,30,1993-01-08,ESCJ930108HOMBREDFES34R,342,2,joseespinosa342@urcmac.edu.mx,espinosajose342
+Juan ,Rogelio,Ruiz,Romero,Hombre,29,1994-01-08,RURJ940108HOMBREDFRU56L,343,3,juan ruiz343@urcmac.edu.mx,ruizjuan 343
+Juan ,Alfonso,Zarate,Sanchez,Hombre,28,1995-01-08,ZASJ950108HOMBREDFZA55J,344,4,juan zarate344@urcmac.edu.mx,zaratejuan 344
+Juan ,Alfonso,Espinosa,Sanchez,Hombre,27,1996-01-08,ESSJ960108HOMBREDFES42T,345,1,juan espinosa345@urcmac.edu.mx,espinosajuan 345
+Albert,,Hidalgo,Sebastian,Hombre,24,1999-01-07,HISA990107HOMBREDFHI28L,346,5,alberthidalgo346@urcmac.edu.mx,hidalgoalbert346
+Demian,Rogelio,Ruiz,Sebastian,Hombre,21,2002-01-06,RUSD020106HOMBREDFRU57Y,347,4,demianruiz347@urcmac.edu.mx,ruizdemian347
+Jose,,Hidalgo,Sanchez,Hombre,25,1998-01-07,HISJ980107HOMBREDFHI44H,348,4,josehidalgo348@urcmac.edu.mx,hidalgojose348
+Juan ,Donaji,Ruiz,Martinez,Hombre,27,1996-01-08,RUMJ960108HOMBREDFRU11C,349,3,juan ruiz349@urcmac.edu.mx,ruizjuan 349
+Albert,Donaji,Ruiz,Sebastian,Hombre,22,2001-01-06,RUSA010106HOMBREDFRU40H,350,2,albertruiz350@urcmac.edu.mx,ruizalbert350
+Jose,Rogelio,Adaya,Romero,Hombre,30,1993-01-08,ADRJ930108HOMBREDFAD38X,351,2,joseadaya351@urcmac.edu.mx,adayajose351
+Jose,Pablo,Ruiz,Sanchez,Hombre,20,2003-01-06,RUSJ030106HOMBREDFRU64P,352,2,joseruiz352@urcmac.edu.mx,ruizjose352
+Hector,Donaji,Espinosa,Sanchez,Hombre,26,1997-01-07,ESSH970107HOMBREDFES14X,353,1,hectorespinosa353@urcmac.edu.mx,espinosahector353
+Jose,Donaji,Ruiz,Sanchez,Hombre,21,2002-01-06,RUSJ020106HOMBREDFRU77I,354,5,joseruiz354@urcmac.edu.mx,ruizjose354
+Juan ,Pablo,Adaya,Romero,Hombre,26,1997-01-07,ADRJ970107HOMBREDFAD95M,355,1,juan adaya355@urcmac.edu.mx,adayajuan 355
+Demian,Donaji,Ruiz,Martinez,Hombre,27,1996-01-08,RUMD960108HOMBREDFRU79S,356,2,demianruiz356@urcmac.edu.mx,ruizdemian356
+Demian,Donaji,Zarate,Cirigo,Hombre,21,2002-01-06,ZACD020106HOMBREDFZA23I,357,4,demianzarate357@urcmac.edu.mx,zaratedemian357
+Hector,,Zarate,Sebastian,Hombre,23,2000-01-07,ZASH000107HOMBREDFZA58F,358,4,hectorzarate358@urcmac.edu.mx,zaratehector358
+Jose,Rogelio,Zarate,Sanchez,Hombre,30,1993-01-08,ZASJ930108HOMBREDFZA30N,359,2,josezarate359@urcmac.edu.mx,zaratejose359
+Demian,Donaji,Espinosa,Cirigo,Hombre,21,2002-01-06,ESCD020106HOMBREDFES83G,360,3,demianespinosa360@urcmac.edu.mx,espinosademian360
+Hector,Rogelio,Hidalgo,Sanchez,Hombre,23,2000-01-07,HISH000107HOMBREDFHI93X,361,1,hectorhidalgo361@urcmac.edu.mx,hidalgohector361
+Albert,Alfonso,Hidalgo,Sanchez,Hombre,23,2000-01-07,HISA000107HOMBREDFHI18E,362,2,alberthidalgo362@urcmac.edu.mx,hidalgoalbert362
+Demian,Pablo,Adaya,Sanchez,Hombre,29,1994-01-08,ADSD940108HOMBREDFAD39D,363,2,demianadaya363@urcmac.edu.mx,adayademian363
+Juan ,Alfonso,Ruiz,Sebastian,Hombre,22,2001-01-06,RUSJ010106HOMBREDFRU66O,364,1,juan ruiz364@urcmac.edu.mx,ruizjuan 364
+Demian,Donaji,Adaya,Sanchez,Hombre,20,2003-01-06,ADSD030106HOMBREDFAD47B,365,4,demianadaya365@urcmac.edu.mx,adayademian365
+Demian,Pablo,Hidalgo,Sanchez,Hombre,24,1999-01-07,HISD990107HOMBREDFHI29Z,366,4,demianhidalgo366@urcmac.edu.mx,hidalgodemian366
+Hector,Alfonso,Zarate,Martinez,Hombre,20,2003-01-06,ZAMH030106HOMBREDFZA74I,367,3,hectorzarate367@urcmac.edu.mx,zaratehector367
+Hector,Alfonso,Espinosa,Martinez,Hombre,23,2000-01-07,ESMH000107HOMBREDFES59P,368,1,hectorespinosa368@urcmac.edu.mx,espinosahector368
+Jose,Alfonso,Ruiz,Martinez,Hombre,22,2001-01-06,RUMJ010106HOMBREDFRU53F,369,5,joseruiz369@urcmac.edu.mx,ruizjose369
+Demian,,Adaya,Sanchez,Hombre,28,1995-01-08,ADSD950108HOMBREDFAD58R,370,1,demianadaya370@urcmac.edu.mx,adayademian370
+Hector,,Hidalgo,Sebastian,Hombre,27,1996-01-08,HISH960108HOMBREDFHI67U,371,2,hectorhidalgo371@urcmac.edu.mx,hidalgohector371
+Hector,Alfonso,Hidalgo,Cirigo,Hombre,22,2001-01-06,HICH010106HOMBREDFHI63S,372,3,hectorhidalgo372@urcmac.edu.mx,hidalgohector372
+Demian,Alfonso,Adaya,Sanchez,Hombre,27,1996-01-08,ADSD960108HOMBREDFAD71G,373,4,demianadaya373@urcmac.edu.mx,adayademian373
+Hector,Pablo,Ruiz,Sanchez,Hombre,30,1993-01-08,RUSH930108HOMBREDFRU17O,374,5,hectorruiz374@urcmac.edu.mx,ruizhector374
+Hector,Donaji,Ruiz,Sanchez,Hombre,28,1995-01-08,RUSH950108HOMBREDFRU73F,375,1,hectorruiz375@urcmac.edu.mx,ruizhector375
+Juan ,Donaji,Hidalgo,Romero,Hombre,22,2001-01-06,HIRJ010106HOMBREDFHI52D,376,5,juan hidalgo376@urcmac.edu.mx,hidalgojuan 376
+Jose,Alfonso,Adaya,Sanchez,Hombre,29,1994-01-08,ADSJ940108HOMBREDFAD84Z,377,1,joseadaya377@urcmac.edu.mx,adayajose377
+Jose,,Zarate,Sanchez,Hombre,25,1998-01-07,ZASJ980107HOMBREDFZA58Z,378,2,josezarate378@urcmac.edu.mx,zaratejose378
+Hector,Rogelio,Zarate,Sebastian,Hombre,22,2001-01-06,ZASH010106HOMBREDFZA86R,379,3,hectorzarate379@urcmac.edu.mx,zaratehector379
+Jose,,Espinosa,Sanchez,Hombre,28,1995-01-08,ESSJ950108HOMBREDFES19V,380,4,joseespinosa380@urcmac.edu.mx,espinosajose380
+Albert,Alfonso,Zarate,Sebastian,Hombre,28,1995-01-08,ZASA950108HOMBREDFZA68S,381,3,albertzarate381@urcmac.edu.mx,zaratealbert381
+Hector,Rogelio,Espinosa,Sebastian,Hombre,24,1999-01-07,ESSH990107HOMBREDFES82E,382,1,hectorespinosa382@urcmac.edu.mx,espinosahector382
+Jose,Rogelio,Ruiz,Sebastian,Hombre,28,1995-01-08,RUSJ950108HOMBREDFRU69I,383,1,joseruiz383@urcmac.edu.mx,ruizjose383
+Albert,Alfonso,Espinosa,Sebastian,Hombre,21,2002-01-06,ESSA020106HOMBREDFES33D,384,3,albertespinosa384@urcmac.edu.mx,espinosaalbert384
+Juan ,Donaji,Ruiz,Cirigo,Hombre,22,2001-01-06,RUCJ010106HOMBREDFRU48M,385,3,juan ruiz385@urcmac.edu.mx,ruizjuan 385
+Juan ,Pablo,Adaya,Martinez,Hombre,28,1995-01-08,ADMJ950108HOMBREDFAD32A,386,1,juan adaya386@urcmac.edu.mx,adayajuan 386
+Demian,Pablo,Zarate,Sebastian,Hombre,29,1994-01-08,ZASD940108HOMBREDFZA54B,387,2,demianzarate387@urcmac.edu.mx,zaratedemian387
+Albert,,Hidalgo,Sanchez,Hombre,26,1997-01-07,HISA970107HOMBREDFHI98W,388,4,alberthidalgo388@urcmac.edu.mx,hidalgoalbert388
+Hector,Donaji,Zarate,Martinez,Hombre,23,2000-01-07,ZAMH000107HOMBREDFZA39Z,389,1,hectorzarate389@urcmac.edu.mx,zaratehector389
+Demian,Rogelio,Ruiz,Sanchez,Hombre,20,2003-01-06,RUSD030106HOMBREDFRU82H,390,1,demianruiz390@urcmac.edu.mx,ruizdemian390
+Demian,Donaji,Ruiz,Cirigo,Hombre,28,1995-01-08,RUCD950108HOMBREDFRU88L,391,4,demianruiz391@urcmac.edu.mx,ruizdemian391
+Demian,,Ruiz,Martinez,Hombre,26,1997-01-07,RUMD970107HOMBREDFRU42V,392,4,demianruiz392@urcmac.edu.mx,ruizdemian392
+Demian,Alfonso,Hidalgo,Romero,Hombre,27,1996-01-08,HIRD960108HOMBREDFHI51F,393,4,demianhidalgo393@urcmac.edu.mx,hidalgodemian393
+Albert,Donaji,Ruiz,Sanchez,Hombre,23,2000-01-07,RUSA000107HOMBREDFRU27M,394,1,albertruiz394@urcmac.edu.mx,ruizalbert394
+Hector,Donaji,Hidalgo,Martinez,Hombre,26,1997-01-07,HIMH970107HOMBREDFHI53E,395,2,hectorhidalgo395@urcmac.edu.mx,hidalgohector395
+Jose,Donaji,Adaya,Sebastian,Hombre,24,1999-01-07,ADSJ990107HOMBREDFAD82G,396,3,joseadaya396@urcmac.edu.mx,adayajose396
+Hector,,Zarate,Sanchez,Hombre,27,1996-01-08,ZASH960108HOMBREDFZA14P,397,1,hectorzarate397@urcmac.edu.mx,zaratehector397
+Hector,Alfonso,Zarate,Cirigo,Hombre,20,2003-01-06,ZACH030106HOMBREDFZA22P,398,3,hectorzarate398@urcmac.edu.mx,zaratehector398
+Jose,Pablo,Hidalgo,Sebastian,Hombre,24,1999-01-07,HISJ990107HOMBREDFHI87T,399,3,josehidalgo399@urcmac.edu.mx,hidalgojose399
+Hector,Alfonso,Ruiz,Romero,Hombre,26,1997-01-07,RURH970107HOMBREDFRU47I,400,1,hectorruiz400@urcmac.edu.mx,ruizhector400
+Hector,Alfonso,Espinosa,Cirigo,Hombre,21,2002-01-06,ESCH020106HOMBREDFES29Y,401,2,hectorespinosa401@urcmac.edu.mx,espinosahector401
+Jose,,Ruiz,Sebastian,Hombre,26,1997-01-07,RUSJ970107HOMBREDFRU39X,402,3,joseruiz402@urcmac.edu.mx,ruizjose402
+Jose,Alfonso,Ruiz,Cirigo,Hombre,29,1994-01-08,RUCJ940108HOMBREDFRU85L,403,1,joseruiz403@urcmac.edu.mx,ruizjose403
+Juan ,Alfonso,Ruiz,Sanchez,Hombre,28,1995-01-08,RUSJ950108HOMBREDFRU77R,404,4,juan ruiz404@urcmac.edu.mx,ruizjuan 404
+Juan ,Donaji,Adaya,Romero,Hombre,29,1994-01-08,ADRJ940108HOMBREDFAD58F,405,5,juan adaya405@urcmac.edu.mx,adayajuan 405
+Hector,,Hidalgo,Sanchez,Hombre,22,2001-01-06,HISH010106HOMBREDFHI71P,406,1,hectorhidalgo406@urcmac.edu.mx,hidalgohector406
+Demian,Alfonso,Zarate,Romero,Hombre,20,2003-01-06,ZARD030106HOMBREDFZA94Z,407,1,demianzarate407@urcmac.edu.mx,zaratedemian407
+Demian,Donaji,Hidalgo,Romero,Hombre,24,1999-01-07,HIRD990107HOMBREDFHI25J,408,5,demianhidalgo408@urcmac.edu.mx,hidalgodemian408
+Demian,,Hidalgo,Romero,Hombre,24,1999-01-07,HIRD990107HOMBREDFHI86A,409,3,demianhidalgo409@urcmac.edu.mx,hidalgodemian409
+Juan ,Pablo,Adaya,Cirigo,Hombre,29,1994-01-08,ADCJ940108HOMBREDFAD74K,410,3,juan adaya410@urcmac.edu.mx,adayajuan 410
+Demian,Pablo,Ruiz,Cirigo,Hombre,29,1994-01-08,RUCD940108HOMBREDFRU72Y,411,5,demianruiz411@urcmac.edu.mx,ruizdemian411
+Juan ,,Hidalgo,Sebastian,Hombre,27,1996-01-08,HISJ960108HOMBREDFHI52S,412,4,juan hidalgo412@urcmac.edu.mx,hidalgojuan 412
+Juan ,Alfonso,Hidalgo,Cirigo,Hombre,28,1995-01-08,HICJ950108HOMBREDFHI54F,413,2,juan hidalgo413@urcmac.edu.mx,hidalgojuan 413
+Hector,Rogelio,Zarate,Sanchez,Hombre,29,1994-01-08,ZASH940108HOMBREDFZA25F,414,5,hectorzarate414@urcmac.edu.mx,zaratehector414
+Hector,Donaji,Zarate,Cirigo,Hombre,22,2001-01-06,ZACH010106HOMBREDFZA97G,415,5,hectorzarate415@urcmac.edu.mx,zaratehector415
+Albert,Alfonso,Zarate,Sanchez,Hombre,27,1996-01-08,ZASA960108HOMBREDFZA76S,416,2,albertzarate416@urcmac.edu.mx,zaratealbert416
+Hector,Rogelio,Espinosa,Sanchez,Hombre,23,2000-01-07,ESSH000107HOMBREDFES64M,417,5,hectorespinosa417@urcmac.edu.mx,espinosahector417
+Hector,,Ruiz,Sebastian,Hombre,30,1993-01-08,RUSH930108HOMBREDFRU60F,418,2,hectorruiz418@urcmac.edu.mx,ruizhector418
+Jose,Rogelio,Ruiz,Sanchez,Hombre,25,1998-01-07,RUSJ980107HOMBREDFRU54U,419,4,joseruiz419@urcmac.edu.mx,ruizjose419
+Albert,Rogelio,Adaya,Romero,Hombre,30,1993-01-08,ADRA930108HOMBREDFAD82O,420,4,albertadaya420@urcmac.edu.mx,adayaalbert420
+Albert,Alfonso,Espinosa,Sanchez,Hombre,30,1993-01-08,ESSA930108HOMBREDFES61L,421,5,albertespinosa421@urcmac.edu.mx,espinosaalbert421
+Jose,,Hidalgo,Martinez,Hombre,23,2000-01-07,HIMJ000107HOMBREDFHI94C,422,4,josehidalgo422@urcmac.edu.mx,hidalgojose422
+Juan ,Rogelio,Adaya,Romero,Hombre,27,1996-01-08,ADRJ960108HOMBREDFAD89K,423,1,juan adaya423@urcmac.edu.mx,adayajuan 423
+Demian,,Ruiz,Cirigo,Hombre,21,2002-01-06,RUCD020106HOMBREDFRU23C,424,4,demianruiz424@urcmac.edu.mx,ruizdemian424
+Jose,Alfonso,Hidalgo,Romero,Hombre,30,1993-01-08,HIRJ930108HOMBREDFHI16A,425,5,josehidalgo425@urcmac.edu.mx,hidalgojose425
+Demian,Pablo,Zarate,Sanchez,Hombre,27,1996-01-08,ZASD960108HOMBREDFZA25A,426,3,demianzarate426@urcmac.edu.mx,zaratedemian426
+Demian,Pablo,Espinosa,Sebastian,Hombre,29,1994-01-08,ESSD940108HOMBREDFES41R,427,2,demianespinosa427@urcmac.edu.mx,espinosademian427
+Jose,Pablo,Zarate,Sebastian,Hombre,20,2003-01-06,ZASJ030106HOMBREDFZA30U,428,4,josezarate428@urcmac.edu.mx,zaratejose428
+Hector,Alfonso,Ruiz,Martinez,Hombre,26,1997-01-07,RUMH970107HOMBREDFRU55I,429,2,hectorruiz429@urcmac.edu.mx,ruizhector429
+Jose,Donaji,Ruiz,Martinez,Hombre,23,2000-01-07,RUMJ000107HOMBREDFRU79R,430,5,joseruiz430@urcmac.edu.mx,ruizjose430
+Jose,Pablo,Espinosa,Sebastian,Hombre,25,1998-01-07,ESSJ980107HOMBREDFES94F,431,3,joseespinosa431@urcmac.edu.mx,espinosajose431
+Hector,,Espinosa,Sebastian,Hombre,30,1993-01-08,ESSH930108HOMBREDFES70T,432,2,hectorespinosa432@urcmac.edu.mx,espinosahector432
+Demian,Rogelio,Adaya,Sebastian,Hombre,20,2003-01-06,ADSD030106HOMBREDFAD57M,433,3,demianadaya433@urcmac.edu.mx,adayademian433
+Hector,Donaji,Hidalgo,Cirigo,Hombre,28,1995-01-08,HICH950108HOMBREDFHI91U,434,5,hectorhidalgo434@urcmac.edu.mx,hidalgohector434
+Juan ,Donaji,Adaya,Martinez,Hombre,25,1998-01-07,ADMJ980107HOMBREDFAD11J,435,5,juan adaya435@urcmac.edu.mx,adayajuan 435
+Juan ,Donaji,Zarate,Romero,Hombre,27,1996-01-08,ZARJ960108HOMBREDFZA51R,436,1,juan zarate436@urcmac.edu.mx,zaratejuan 436
+Albert,Alfonso,Hidalgo,Martinez,Hombre,29,1994-01-08,HIMA940108HOMBREDFHI30A,437,1,alberthidalgo437@urcmac.edu.mx,hidalgoalbert437
+Albert,Donaji,Adaya,Sebastian,Hombre,24,1999-01-07,ADSA990107HOMBREDFAD51W,438,3,albertadaya438@urcmac.edu.mx,adayaalbert438
+Albert,Pablo,Hidalgo,Sebastian,Hombre,28,1995-01-08,HISA950108HOMBREDFHI35X,439,1,alberthidalgo439@urcmac.edu.mx,hidalgoalbert439
+Hector,Alfonso,Adaya,Sanchez,Hombre,25,1998-01-07,ADSH980107HOMBREDFAD90V,440,3,hectoradaya440@urcmac.edu.mx,adayahector440
+Juan ,Donaji,Espinosa,Romero,Hombre,27,1996-01-08,ESRJ960108HOMBREDFES71T,441,5,juan espinosa441@urcmac.edu.mx,espinosajuan 441
+Jose,Donaji,Adaya,Sanchez,Hombre,27,1996-01-08,ADSJ960108HOMBREDFAD72I,442,1,joseadaya442@urcmac.edu.mx,adayajose442
+Jose,Pablo,Hidalgo,Sanchez,Hombre,27,1996-01-08,HISJ960108HOMBREDFHI34Y,443,1,josehidalgo443@urcmac.edu.mx,hidalgojose443
+Demian,Donaji,Adaya,Martinez,Hombre,26,1997-01-07,ADMD970107HOMBREDFAD58B,444,1,demianadaya444@urcmac.edu.mx,adayademian444
+Demian,Pablo,Hidalgo,Martinez,Hombre,25,1998-01-07,HIMD980107HOMBREDFHI18S,445,4,demianhidalgo445@urcmac.edu.mx,hidalgodemian445
+Jose,,Ruiz,Sanchez,Hombre,20,2003-01-06,RUSJ030106HOMBREDFRU98T,446,3,joseruiz446@urcmac.edu.mx,ruizjose446
+Hector,Rogelio,Ruiz,Sebastian,Hombre,25,1998-01-07,RUSH980107HOMBREDFRU73V,447,3,hectorruiz447@urcmac.edu.mx,ruizhector447
+Albert,Alfonso,Ruiz,Sebastian,Hombre,21,2002-01-06,RUSA020106HOMBREDFRU91R,448,4,albertruiz448@urcmac.edu.mx,ruizalbert448
+Demian,,Hidalgo,Martinez,Hombre,22,2001-01-06,HIMD010106HOMBREDFHI19Y,449,1,demianhidalgo449@urcmac.edu.mx,hidalgodemian449
+Juan ,Alfonso,Adaya,Sebastian,Hombre,26,1997-01-07,ADSJ970107HOMBREDFAD21R,450,3,juan adaya450@urcmac.edu.mx,adayajuan 450
+Demian,Alfonso,Adaya,Martinez,Hombre,20,2003-01-06,ADMD030106HOMBREDFAD56K,451,4,demianadaya451@urcmac.edu.mx,adayademian451
+Hector,Pablo,Zarate,Sebastian,Hombre,25,1998-01-07,ZASH980107HOMBREDFZA46U,452,3,hectorzarate452@urcmac.edu.mx,zaratehector452
+Hector,Donaji,Ruiz,Martinez,Hombre,24,1999-01-07,RUMH990107HOMBREDFRU66E,453,1,hectorruiz453@urcmac.edu.mx,ruizhector453
+Jose,Alfonso,Adaya,Martinez,Hombre,23,2000-01-07,ADMJ000107HOMBREDFAD88T,454,3,joseadaya454@urcmac.edu.mx,adayajose454
+Demian,Alfonso,Espinosa,Romero,Hombre,30,1993-01-08,ESRD930108HOMBREDFES42O,455,4,demianespinosa455@urcmac.edu.mx,espinosademian455
+Jose,Alfonso,Zarate,Romero,Hombre,27,1996-01-08,ZARJ960108HOMBREDFZA92X,456,5,josezarate456@urcmac.edu.mx,zaratejose456
+Jose,Alfonso,Espinosa,Romero,Hombre,28,1995-01-08,ESRJ950108HOMBREDFES46O,457,1,joseespinosa457@urcmac.edu.mx,espinosajose457
+Jose,Donaji,Hidalgo,Romero,Hombre,21,2002-01-06,HIRJ020106HOMBREDFHI85M,458,3,josehidalgo458@urcmac.edu.mx,hidalgojose458
+Jose,,Hidalgo,Cirigo,Hombre,24,1999-01-07,HICJ990107HOMBREDFHI19S,459,2,josehidalgo459@urcmac.edu.mx,hidalgojose459
+Hector,Pablo,Adaya,Sebastian,Hombre,25,1998-01-07,ADSH980107HOMBREDFAD13O,460,1,hectoradaya460@urcmac.edu.mx,adayahector460
+Hector,Donaji,Adaya,Sebastian,Hombre,20,2003-01-06,ADSH030106HOMBREDFAD40R,461,3,hectoradaya461@urcmac.edu.mx,adayahector461
+Juan ,,Hidalgo,Sanchez,Hombre,21,2002-01-06,HISJ020106HOMBREDFHI67G,462,2,juan hidalgo462@urcmac.edu.mx,hidalgojuan 462
+Hector,Pablo,Hidalgo,Sebastian,Hombre,30,1993-01-08,HISH930108HOMBREDFHI21K,463,2,hectorhidalgo463@urcmac.edu.mx,hidalgohector463
+Hector,,Ruiz,Sanchez,Hombre,26,1997-01-07,RUSH970107HOMBREDFRU13S,464,1,hectorruiz464@urcmac.edu.mx,ruizhector464
+Hector,Alfonso,Ruiz,Cirigo,Hombre,26,1997-01-07,RUCH970107HOMBREDFRU81Y,465,1,hectorruiz465@urcmac.edu.mx,ruizhector465
+Demian,Rogelio,Zarate,Sebastian,Hombre,20,2003-01-06,ZASD030106HOMBREDFZA68V,466,1,demianzarate466@urcmac.edu.mx,zaratedemian466
+Jose,Donaji,Ruiz,Cirigo,Hombre,27,1996-01-08,RUCJ960108HOMBREDFRU48S,467,4,joseruiz467@urcmac.edu.mx,ruizjose467
+Demian,Rogelio,Espinosa,Sebastian,Hombre,21,2002-01-06,ESSD020106HOMBREDFES87W,468,1,demianespinosa468@urcmac.edu.mx,espinosademian468
+Albert,Pablo,Zarate,Sebastian,Hombre,20,2003-01-06,ZASA030106HOMBREDFZA92Z,469,1,albertzarate469@urcmac.edu.mx,zaratealbert469
+Juan ,Donaji,Adaya,Cirigo,Hombre,26,1997-01-07,ADCJ970107HOMBREDFAD30E,470,2,juan adaya470@urcmac.edu.mx,adayajuan 470
+Demian,Pablo,Espinosa,Sanchez,Hombre,28,1995-01-08,ESSD950108HOMBREDFES83K,471,4,demianespinosa471@urcmac.edu.mx,espinosademian471
+Albert,Donaji,Zarate,Sebastian,Hombre,25,1998-01-07,ZASA980107HOMBREDFZA93S,472,2,albertzarate472@urcmac.edu.mx,zaratealbert472
+Jose,Pablo,Zarate,Sanchez,Hombre,27,1996-01-08,ZASJ960108HOMBREDFZA21J,473,4,josezarate473@urcmac.edu.mx,zaratejose473
+Albert,Pablo,Espinosa,Sebastian,Hombre,24,1999-01-07,ESSA990107HOMBREDFES19I,474,4,albertespinosa474@urcmac.edu.mx,espinosaalbert474
+Albert,Alfonso,Hidalgo,Cirigo,Hombre,24,1999-01-07,HICA990107HOMBREDFHI28Z,475,3,alberthidalgo475@urcmac.edu.mx,hidalgoalbert475
+Albert,,Ruiz,Sebastian,Hombre,20,2003-01-06,RUSA030106HOMBREDFRU33H,476,4,albertruiz476@urcmac.edu.mx,ruizalbert476
+Albert,Donaji,Espinosa,Sebastian,Hombre,30,1993-01-08,ESSA930108HOMBREDFES41L,477,4,albertespinosa477@urcmac.edu.mx,espinosaalbert477
+Jose,Pablo,Espinosa,Sanchez,Hombre,26,1997-01-07,ESSJ970107HOMBREDFES49F,478,1,joseespinosa478@urcmac.edu.mx,espinosajose478
+Juan ,,Ruiz,Sebastian,Hombre,23,2000-01-07,RUSJ000107HOMBREDFRU64E,479,5,juan ruiz479@urcmac.edu.mx,ruizjuan 479
+Demian,Rogelio,Adaya,Sanchez,Hombre,20,2003-01-06,ADSD030106HOMBREDFAD47Z,480,1,demianadaya480@urcmac.edu.mx,adayademian480
+Hector,,Espinosa,Sanchez,Hombre,24,1999-01-07,ESSH990107HOMBREDFES32T,481,3,hectorespinosa481@urcmac.edu.mx,espinosahector481
+Demian,Donaji,Zarate,Romero,Hombre,27,1996-01-08,ZARD960108HOMBREDFZA20Z,482,4,demianzarate482@urcmac.edu.mx,zaratedemian482
+Demian,Donaji,Adaya,Cirigo,Hombre,30,1993-01-08,ADCD930108HOMBREDFAD75Y,483,1,demianadaya483@urcmac.edu.mx,adayademian483
+Hector,,Zarate,Martinez,Hombre,28,1995-01-08,ZAMH950108HOMBREDFZA35S,484,2,hectorzarate484@urcmac.edu.mx,zaratehector484
+Demian,Pablo,Hidalgo,Cirigo,Hombre,26,1997-01-07,HICD970107HOMBREDFHI48V,485,1,demianhidalgo485@urcmac.edu.mx,hidalgodemian485
+Demian,Donaji,Espinosa,Romero,Hombre,30,1993-01-08,ESRD930108HOMBREDFES41U,486,1,demianespinosa486@urcmac.edu.mx,espinosademian486
+Jose,Rogelio,Adaya,Sebastian,Hombre,28,1995-01-08,ADSJ950108HOMBREDFAD77I,487,5,joseadaya487@urcmac.edu.mx,adayajose487
+Albert,Donaji,Adaya,Sanchez,Hombre,29,1994-01-08,ADSA940108HOMBREDFAD56W,488,3,albertadaya488@urcmac.edu.mx,adayaalbert488
+Demian,,Zarate,Romero,Hombre,25,1998-01-07,ZARD980107HOMBREDFZA81K,489,5,demianzarate489@urcmac.edu.mx,zaratedemian489
+Jose,Rogelio,Hidalgo,Sebastian,Hombre,29,1994-01-08,HISJ940108HOMBREDFHI66J,490,3,josehidalgo490@urcmac.edu.mx,hidalgojose490
+Albert,Pablo,Hidalgo,Sanchez,Hombre,21,2002-01-06,HISA020106HOMBREDFHI69F,491,4,alberthidalgo491@urcmac.edu.mx,hidalgoalbert491
+Juan ,Alfonso,Ruiz,Martinez,Hombre,26,1997-01-07,RUMJ970107HOMBREDFRU87K,492,4,juan ruiz492@urcmac.edu.mx,ruizjuan 492
+Demian,,Espinosa,Romero,Hombre,21,2002-01-06,ESRD020106HOMBREDFES98U,493,4,demianespinosa493@urcmac.edu.mx,espinosademian493
+Juan ,Pablo,Hidalgo,Sebastian,Hombre,22,2001-01-06,HISJ010106HOMBREDFHI33U,494,4,juan hidalgo494@urcmac.edu.mx,hidalgojuan 494
+Demian,,Hidalgo,Cirigo,Hombre,25,1998-01-07,HICD980107HOMBREDFHI24O,495,3,demianhidalgo495@urcmac.edu.mx,hidalgodemian495
+Demian,Alfonso,Adaya,Cirigo,Hombre,30,1993-01-08,ADCD930108HOMBREDFAD39J,496,1,demianadaya496@urcmac.edu.mx,adayademian496
+Hector,Pablo,Ruiz,Cirigo,Hombre,29,1994-01-08,RUCH940108HOMBREDFRU99U,497,4,hectorruiz497@urcmac.edu.mx,ruizhector497
+Hector,Rogelio,Ruiz,Sanchez,Hombre,27,1996-01-08,RUSH960108HOMBREDFRU61Z,498,3,hectorruiz498@urcmac.edu.mx,ruizhector498
+Hector,Donaji,Ruiz,Cirigo,Hombre,30,1993-01-08,RUCH930108HOMBREDFRU76E,499,3,hectorruiz499@urcmac.edu.mx,ruizhector499
+Albert,Alfonso,Ruiz,Sanchez,Hombre,22,2001-01-06,RUSA010106HOMBREDFRU46Y,500,1,albertruiz500@urcmac.edu.mx,ruizalbert500
+Hector,,Hidalgo,Martinez,Hombre,24,1999-01-07,HIMH990107HOMBREDFHI77E,501,1,hectorhidalgo501@urcmac.edu.mx,hidalgohector501
+Jose,,Adaya,Sebastian,Hombre,25,1998-01-07,ADSJ980107HOMBREDFAD27O,502,4,joseadaya502@urcmac.edu.mx,adayajose502
+Jose,Alfonso,Adaya,Cirigo,Hombre,22,2001-01-06,ADCJ010106HOMBREDFAD13L,503,2,joseadaya503@urcmac.edu.mx,adayajose503
+Jose,Donaji,Hidalgo,Martinez,Hombre,28,1995-01-08,HIMJ950108HOMBREDFHI76P,504,5,josehidalgo504@urcmac.edu.mx,hidalgojose504
+Hector,Alfonso,Hidalgo,Romero,Hombre,29,1994-01-08,HIRH940108HOMBREDFHI50B,505,1,hectorhidalgo505@urcmac.edu.mx,hidalgohector505
+Juan ,Alfonso,Adaya,Sanchez,Hombre,30,1993-01-08,ADSJ930108HOMBREDFAD67R,506,5,juan adaya506@urcmac.edu.mx,adayajuan 506
+Hector,Pablo,Zarate,Sanchez,Hombre,20,2003-01-06,ZASH030106HOMBREDFZA24W,507,1,hectorzarate507@urcmac.edu.mx,zaratehector507
+Hector,Pablo,Espinosa,Sebastian,Hombre,29,1994-01-08,ESSH940108HOMBREDFES48W,508,3,hectorespinosa508@urcmac.edu.mx,espinosahector508
+Hector,Rogelio,Adaya,Sebastian,Hombre,29,1994-01-08,ADSH940108HOMBREDFAD19X,509,4,hectoradaya509@urcmac.edu.mx,adayahector509
+Albert,Alfonso,Adaya,Sebastian,Hombre,30,1993-01-08,ADSA930108HOMBREDFAD33Q,510,1,albertadaya510@urcmac.edu.mx,adayaalbert510
+Jose,Rogelio,Ruiz,Martinez,Hombre,24,1999-01-07,RUMJ990107HOMBREDFRU72J,511,5,joseruiz511@urcmac.edu.mx,ruizjose511
+Demian,Rogelio,Ruiz,Cirigo,Hombre,30,1993-01-08,RUCD930108HOMBREDFRU64O,512,1,demianruiz512@urcmac.edu.mx,ruizdemian512
+Juan ,Pablo,Zarate,Sebastian,Hombre,25,1998-01-07,ZASJ980107HOMBREDFZA74C,513,4,juan zarate513@urcmac.edu.mx,zaratejuan 513
+Hector,Donaji,Adaya,Sanchez,Hombre,25,1998-01-07,ADSH980107HOMBREDFAD98I,514,1,hectoradaya514@urcmac.edu.mx,adayahector514
+Demian,Pablo,Zarate,Martinez,Hombre,22,2001-01-06,ZAMD010106HOMBREDFZA22V,515,3,demianzarate515@urcmac.edu.mx,zaratedemian515
+Hector,Pablo,Hidalgo,Sanchez,Hombre,29,1994-01-08,HISH940108HOMBREDFHI98A,516,1,hectorhidalgo516@urcmac.edu.mx,hidalgohector516
+Demian,Rogelio,Zarate,Sanchez,Hombre,30,1993-01-08,ZASD930108HOMBREDFZA56S,517,4,demianzarate517@urcmac.edu.mx,zaratedemian517
+Demian,Donaji,Ruiz,Romero,Hombre,25,1998-01-07,RURD980107HOMBREDFRU49W,518,4,demianruiz518@urcmac.edu.mx,ruizdemian518
+Demian,Rogelio,Espinosa,Sanchez,Hombre,23,2000-01-07,ESSD000107HOMBREDFES73D,519,5,demianespinosa519@urcmac.edu.mx,espinosademian519
+Demian,,Zarate,Martinez,Hombre,25,1998-01-07,ZAMD980107HOMBREDFZA62N,520,5,demianzarate520@urcmac.edu.mx,zaratedemian520
+Hector,,Adaya,Sebastian,Hombre,28,1995-01-08,ADSH950108HOMBREDFAD98J,521,5,hectoradaya521@urcmac.edu.mx,adayahector521
+Albert,Pablo,Zarate,Sanchez,Hombre,23,2000-01-07,ZASA000107HOMBREDFZA56A,522,1,albertzarate522@urcmac.edu.mx,zaratealbert522
+Hector,,Zarate,Cirigo,Hombre,26,1997-01-07,ZACH970107HOMBREDFZA26X,523,4,hectorzarate523@urcmac.edu.mx,zaratehector523
+Demian,,Espinosa,Martinez,Hombre,27,1996-01-08,ESMD960108HOMBREDFES77A,524,4,demianespinosa524@urcmac.edu.mx,espinosademian524
+Albert,Donaji,Zarate,Sanchez,Hombre,20,2003-01-06,ZASA030106HOMBREDFZA14R,525,2,albertzarate525@urcmac.edu.mx,zaratealbert525
+Albert,Pablo,Espinosa,Sanchez,Hombre,24,1999-01-07,ESSA990107HOMBREDFES42P,526,4,albertespinosa526@urcmac.edu.mx,espinosaalbert526
+Albert,,Ruiz,Sanchez,Hombre,27,1996-01-08,RUSA960108HOMBREDFRU51P,527,3,albertruiz527@urcmac.edu.mx,ruizalbert527
+Albert,Donaji,Espinosa,Sanchez,Hombre,27,1996-01-08,ESSA960108HOMBREDFES83H,528,3,albertespinosa528@urcmac.edu.mx,espinosaalbert528
+Juan ,,Ruiz,Sanchez,Hombre,20,2003-01-06,RUSJ030106HOMBREDFRU21X,529,1,juan ruiz529@urcmac.edu.mx,ruizjuan 529
+Juan ,Alfonso,Ruiz,Cirigo,Hombre,24,1999-01-07,RUCJ990107HOMBREDFRU50Z,530,1,juan ruiz530@urcmac.edu.mx,ruizjuan 530
+Hector,Alfonso,Adaya,Martinez,Hombre,22,2001-01-06,ADMH010106HOMBREDFAD36C,531,3,hectoradaya531@urcmac.edu.mx,adayahector531
+Jose,Donaji,Adaya,Martinez,Hombre,24,1999-01-07,ADMJ990107HOMBREDFAD55J,532,5,joseadaya532@urcmac.edu.mx,adayajose532
+Jose,Pablo,Hidalgo,Martinez,Hombre,21,2002-01-06,HIMJ020106HOMBREDFHI90V,533,4,josehidalgo533@urcmac.edu.mx,hidalgojose533
+Hector,Alfonso,Zarate,Romero,Hombre,27,1996-01-08,ZARH960108HOMBREDFZA52S,534,3,hectorzarate534@urcmac.edu.mx,zaratehector534
+Jose,Rogelio,Adaya,Sanchez,Hombre,22,2001-01-06,ADSJ010106HOMBREDFAD29I,535,1,joseadaya535@urcmac.edu.mx,adayajose535
+Jose,Donaji,Zarate,Romero,Hombre,21,2002-01-06,ZARJ020106HOMBREDFZA32O,536,4,josezarate536@urcmac.edu.mx,zaratejose536
+Jose,,Ruiz,Martinez,Hombre,28,1995-01-08,RUMJ950108HOMBREDFRU58F,537,3,joseruiz537@urcmac.edu.mx,ruizjose537
+Hector,Alfonso,Espinosa,Romero,Hombre,27,1996-01-08,ESRH960108HOMBREDFES50Z,538,2,hectorespinosa538@urcmac.edu.mx,espinosahector538
+Jose,Alfonso,Ruiz,Romero,Hombre,27,1996-01-08,RURJ960108HOMBREDFRU30S,539,3,joseruiz539@urcmac.edu.mx,ruizjose539
+Jose,Rogelio,Hidalgo,Sanchez,Hombre,27,1996-01-08,HISJ960108HOMBREDFHI19Q,540,3,josehidalgo540@urcmac.edu.mx,hidalgojose540
+Jose,Donaji,Espinosa,Romero,Hombre,24,1999-01-07,ESRJ990107HOMBREDFES90Z,541,4,joseespinosa541@urcmac.edu.mx,espinosajose541
+Hector,,Hidalgo,Cirigo,Hombre,20,2003-01-06,HICH030106HOMBREDFHI61K,542,5,hectorhidalgo542@urcmac.edu.mx,hidalgohector542
+Jose,Donaji,Hidalgo,Cirigo,Hombre,27,1996-01-08,HICJ960108HOMBREDFHI51A,543,4,josehidalgo543@urcmac.edu.mx,hidalgojose543
+Juan ,Pablo,Hidalgo,Sanchez,Hombre,24,1999-01-07,HISJ990107HOMBREDFHI57K,544,3,juan hidalgo544@urcmac.edu.mx,hidalgojuan 544
+Demian,Rogelio,Hidalgo,Romero,Hombre,27,1996-01-08,HIRD960108HOMBREDFHI42H,545,5,demianhidalgo545@urcmac.edu.mx,hidalgodemian545
+Albert,,Adaya,Sebastian,Hombre,24,1999-01-07,ADSA990107HOMBREDFAD66U,546,4,albertadaya546@urcmac.edu.mx,adayaalbert546
+Albert,Donaji,Hidalgo,Romero,Hombre,26,1997-01-07,HIRA970107HOMBREDFHI95R,547,3,alberthidalgo547@urcmac.edu.mx,hidalgoalbert547
+Jose,,Adaya,Sanchez,Hombre,25,1998-01-07,ADSJ980107HOMBREDFAD50Z,548,4,joseadaya548@urcmac.edu.mx,adayajose548
+Albert,Alfonso,Zarate,Cirigo,Hombre,22,2001-01-06,ZACA010106HOMBREDFZA96C,549,2,albertzarate549@urcmac.edu.mx,zaratealbert549
+Albert,Pablo,Ruiz,Sebastian,Hombre,24,1999-01-07,RUSA990107HOMBREDFRU62V,550,3,albertruiz550@urcmac.edu.mx,ruizalbert550
+Jose,Rogelio,Ruiz,Cirigo,Hombre,23,2000-01-07,RUCJ000107HOMBREDFRU43A,551,3,joseruiz551@urcmac.edu.mx,ruizjose551
+Hector,Pablo,Espinosa,Sanchez,Hombre,27,1996-01-08,ESSH960108HOMBREDFES22P,552,2,hectorespinosa552@urcmac.edu.mx,espinosahector552
+Albert,Alfonso,Espinosa,Cirigo,Hombre,23,2000-01-07,ESCA000107HOMBREDFES36A,553,1,albertespinosa553@urcmac.edu.mx,espinosaalbert553
+Demian,Pablo,Zarate,Cirigo,Hombre,24,1999-01-07,ZACD990107HOMBREDFZA90K,554,3,demianzarate554@urcmac.edu.mx,zaratedemian554
+Demian,Pablo,Ruiz,Romero,Hombre,22,2001-01-06,RURD010106HOMBREDFRU71L,555,4,demianruiz555@urcmac.edu.mx,ruizdemian555
+Juan ,Alfonso,Hidalgo,Romero,Hombre,28,1995-01-08,HIRJ950108HOMBREDFHI53G,556,5,juan hidalgo556@urcmac.edu.mx,hidalgojuan 556
+Hector,Rogelio,Adaya,Sanchez,Hombre,22,2001-01-06,ADSH010106HOMBREDFAD99F,557,4,hectoradaya557@urcmac.edu.mx,adayahector557
+Hector,Donaji,Zarate,Romero,Hombre,30,1993-01-08,ZARH930108HOMBREDFZA49F,558,2,hectorzarate558@urcmac.edu.mx,zaratehector558
+Hector,,Ruiz,Martinez,Hombre,26,1997-01-07,RUMH970107HOMBREDFRU13P,559,4,hectorruiz559@urcmac.edu.mx,ruizhector559
+Albert,Alfonso,Adaya,Sanchez,Hombre,29,1994-01-08,ADSA940108HOMBREDFAD78Q,560,3,albertadaya560@urcmac.edu.mx,adayaalbert560
+Juan ,Pablo,Zarate,Sanchez,Hombre,27,1996-01-08,ZASJ960108HOMBREDFZA63D,561,2,juan zarate561@urcmac.edu.mx,zaratejuan 561
+Demian,,Zarate,Cirigo,Hombre,21,2002-01-06,ZACD020106HOMBREDFZA55L,562,3,demianzarate562@urcmac.edu.mx,zaratedemian562
+Jose,Rogelio,Espinosa,Sebastian,Hombre,23,2000-01-07,ESSJ000107HOMBREDFES13W,563,4,joseespinosa563@urcmac.edu.mx,espinosajose563
+Demian,,Ruiz,Romero,Hombre,30,1993-01-08,RURD930108HOMBREDFRU74D,564,5,demianruiz564@urcmac.edu.mx,ruizdemian564
+Juan ,Pablo,Espinosa,Sebastian,Hombre,26,1997-01-07,ESSJ970107HOMBREDFES43V,565,3,juan espinosa565@urcmac.edu.mx,espinosajuan 565
+Demian,,Espinosa,Cirigo,Hombre,20,2003-01-06,ESCD030106HOMBREDFES55C,566,1,demianespinosa566@urcmac.edu.mx,espinosademian566
+Demian,Pablo,Espinosa,Martinez,Hombre,28,1995-01-08,ESMD950108HOMBREDFES52C,567,5,demianespinosa567@urcmac.edu.mx,espinosademian567
+Jose,Pablo,Zarate,Martinez,Hombre,22,2001-01-06,ZAMJ010106HOMBREDFZA87N,568,5,josezarate568@urcmac.edu.mx,zaratejose568
+Jose,Donaji,Zarate,Martinez,Hombre,23,2000-01-07,ZAMJ000107HOMBREDFZA64I,569,5,josezarate569@urcmac.edu.mx,zaratejose569
+Hector,,Adaya,Sanchez,Hombre,22,2001-01-06,ADSH010106HOMBREDFAD67T,570,2,hectoradaya570@urcmac.edu.mx,adayahector570
+Jose,Pablo,Espinosa,Martinez,Hombre,25,1998-01-07,ESMJ980107HOMBREDFES29L,571,4,joseespinosa571@urcmac.edu.mx,espinosajose571
+Albert,Rogelio,Hidalgo,Sebastian,Hombre,28,1995-01-08,HISA950108HOMBREDFHI56S,572,2,alberthidalgo572@urcmac.edu.mx,hidalgoalbert572
+Hector,Alfonso,Adaya,Cirigo,Hombre,26,1997-01-07,ADCH970107HOMBREDFAD65L,573,3,hectoradaya573@urcmac.edu.mx,adayahector573
+Jose,Donaji,Espinosa,Martinez,Hombre,30,1993-01-08,ESMJ930108HOMBREDFES70I,574,3,joseespinosa574@urcmac.edu.mx,espinosajose574
+Jose,Donaji,Adaya,Cirigo,Hombre,22,2001-01-06,ADCJ010106HOMBREDFAD68R,575,1,joseadaya575@urcmac.edu.mx,adayajose575
+Juan ,Rogelio,Hidalgo,Sebastian,Hombre,21,2002-01-06,HISJ020106HOMBREDFHI20F,576,2,juan hidalgo576@urcmac.edu.mx,hidalgojuan 576
+Jose,Pablo,Hidalgo,Cirigo,Hombre,23,2000-01-07,HICJ000107HOMBREDFHI12X,577,3,josehidalgo577@urcmac.edu.mx,hidalgojose577
+Hector,Donaji,Hidalgo,Romero,Hombre,25,1998-01-07,HIRH980107HOMBREDFHI57Q,578,1,hectorhidalgo578@urcmac.edu.mx,hidalgohector578
+Demian,Rogelio,Hidalgo,Martinez,Hombre,29,1994-01-08,HIMD940108HOMBREDFHI14O,579,5,demianhidalgo579@urcmac.edu.mx,hidalgodemian579
+Jose,,Ruiz,Cirigo,Hombre,21,2002-01-06,RUCJ020106HOMBREDFRU35X,580,5,joseruiz580@urcmac.edu.mx,ruizjose580
+Albert,Donaji,Hidalgo,Martinez,Hombre,29,1994-01-08,HIMA940108HOMBREDFHI42I,581,1,alberthidalgo581@urcmac.edu.mx,hidalgoalbert581
+Juan ,,Adaya,Sebastian,Hombre,27,1996-01-08,ADSJ960108HOMBREDFAD27A,582,1,juan adaya582@urcmac.edu.mx,adayajuan 582
+Hector,Rogelio,Ruiz,Martinez,Hombre,25,1998-01-07,RUMH980107HOMBREDFRU66Y,583,1,hectorruiz583@urcmac.edu.mx,ruizhector583
+Albert,Alfonso,Ruiz,Martinez,Hombre,29,1994-01-08,RUMA940108HOMBREDFRU76M,584,1,albertruiz584@urcmac.edu.mx,ruizalbert584
+Juan ,Pablo,Ruiz,Sebastian,Hombre,24,1999-01-07,RUSJ990107HOMBREDFRU37P,585,5,juan ruiz585@urcmac.edu.mx,ruizjuan 585
+Juan ,Alfonso,Adaya,Martinez,Hombre,20,2003-01-06,ADMJ030106HOMBREDFAD28Y,586,4,juan adaya586@urcmac.edu.mx,adayajuan 586
+Albert,,Adaya,Sanchez,Hombre,25,1998-01-07,ADSA980107HOMBREDFAD41D,587,4,albertadaya587@urcmac.edu.mx,adayaalbert587
+Demian,Pablo,Ruiz,Martinez,Hombre,22,2001-01-06,RUMD010106HOMBREDFRU43Z,588,5,demianruiz588@urcmac.edu.mx,ruizdemian588
+Hector,Pablo,Zarate,Martinez,Hombre,23,2000-01-07,ZAMH000107HOMBREDFZA53H,589,1,hectorzarate589@urcmac.edu.mx,zaratehector589
+Juan ,Alfonso,Hidalgo,Martinez,Hombre,27,1996-01-08,HIMJ960108HOMBREDFHI60W,590,4,juan hidalgo590@urcmac.edu.mx,hidalgojuan 590
+Juan ,Alfonso,Zarate,Romero,Hombre,30,1993-01-08,ZARJ930108HOMBREDFZA74W,591,3,juan zarate591@urcmac.edu.mx,zaratejuan 591
+Juan ,Alfonso,Espinosa,Romero,Hombre,23,2000-01-07,ESRJ000107HOMBREDFES48W,592,3,juan espinosa592@urcmac.edu.mx,espinosajuan 592
+Albert,Pablo,Ruiz,Sanchez,Hombre,28,1995-01-08,RUSA950108HOMBREDFRU51Z,593,2,albertruiz593@urcmac.edu.mx,ruizalbert593
+Hector,,Ruiz,Cirigo,Hombre,23,2000-01-07,RUCH000107HOMBREDFRU22O,594,5,hectorruiz594@urcmac.edu.mx,ruizhector594
+Jose,,Hidalgo,Romero,Hombre,20,2003-01-06,HIRJ030106HOMBREDFHI11S,595,2,josehidalgo595@urcmac.edu.mx,hidalgojose595
+Hector,Donaji,Adaya,Martinez,Hombre,20,2003-01-06,ADMH030106HOMBREDFAD82D,596,3,hectoradaya596@urcmac.edu.mx,adayahector596
+Hector,Pablo,Hidalgo,Martinez,Hombre,24,1999-01-07,HIMH990107HOMBREDFHI42J,597,1,hectorhidalgo597@urcmac.edu.mx,hidalgohector597
+Jose,Pablo,Adaya,Sebastian,Hombre,22,2001-01-06,ADSJ010106HOMBREDFAD67Z,598,3,joseadaya598@urcmac.edu.mx,adayajose598
+Albert,Rogelio,Zarate,Sebastian,Hombre,22,2001-01-06,ZASA010106HOMBREDFZA71G,599,3,albertzarate599@urcmac.edu.mx,zaratealbert599
+Demian,Pablo,Espinosa,Cirigo,Hombre,21,2002-01-06,ESCD020106HOMBREDFES44B,600,1,demianespinosa600@urcmac.edu.mx,espinosademian600
+Juan ,Rogelio,Zarate,Sebastian,Hombre,21,2002-01-06,ZASJ020106HOMBREDFZA68L,601,4,juan zarate601@urcmac.edu.mx,zaratejuan 601
+Jose,Pablo,Zarate,Cirigo,Hombre,28,1995-01-08,ZACJ950108HOMBREDFZA69B,602,1,josezarate602@urcmac.edu.mx,zaratejose602
+Albert,Rogelio,Espinosa,Sebastian,Hombre,26,1997-01-07,ESSA970107HOMBREDFES86G,603,4,albertespinosa603@urcmac.edu.mx,espinosaalbert603
+Demian,Rogelio,Zarate,Martinez,Hombre,27,1996-01-08,ZAMD960108HOMBREDFZA72P,604,4,demianzarate604@urcmac.edu.mx,zaratedemian604
+Jose,Donaji,Zarate,Cirigo,Hombre,26,1997-01-07,ZACJ970107HOMBREDFZA87W,605,4,josezarate605@urcmac.edu.mx,zaratejose605
+Hector,Donaji,Espinosa,Romero,Hombre,30,1993-01-08,ESRH930108HOMBREDFES14H,606,1,hectorespinosa606@urcmac.edu.mx,espinosahector606
+Juan ,Rogelio,Espinosa,Sebastian,Hombre,20,2003-01-06,ESSJ030106HOMBREDFES94D,607,4,juan espinosa607@urcmac.edu.mx,espinosajuan 607
+Jose,Pablo,Espinosa,Cirigo,Hombre,25,1998-01-07,ESCJ980107HOMBREDFES74X,608,1,joseespinosa608@urcmac.edu.mx,espinosajose608
+Jose,Rogelio,Espinosa,Sanchez,Hombre,29,1994-01-08,ESSJ940108HOMBREDFES64U,609,3,joseespinosa609@urcmac.edu.mx,espinosajose609
+Jose,Donaji,Ruiz,Romero,Hombre,20,2003-01-06,RURJ030106HOMBREDFRU32T,610,4,joseruiz610@urcmac.edu.mx,ruizjose610
+Hector,,Espinosa,Cirigo,Hombre,30,1993-01-08,ESCH930108HOMBREDFES28B,611,1,hectorespinosa611@urcmac.edu.mx,espinosahector611
+Demian,Rogelio,Espinosa,Martinez,Hombre,24,1999-01-07,ESMD990107HOMBREDFES61O,612,5,demianespinosa612@urcmac.edu.mx,espinosademian612
+Jose,Donaji,Espinosa,Cirigo,Hombre,23,2000-01-07,ESCJ000107HOMBREDFES91I,613,2,joseespinosa613@urcmac.edu.mx,espinosajose613
+Demian,Rogelio,Adaya,Cirigo,Hombre,21,2002-01-06,ADCD020106HOMBREDFAD83J,614,1,demianadaya614@urcmac.edu.mx,adayademian614
+Juan ,Pablo,Espinosa,Sanchez,Hombre,20,2003-01-06,ESSJ030106HOMBREDFES60F,615,5,juan espinosa615@urcmac.edu.mx,espinosajuan 615
+Demian,Rogelio,Hidalgo,Cirigo,Hombre,20,2003-01-06,HICD030106HOMBREDFHI45N,616,4,demianhidalgo616@urcmac.edu.mx,hidalgodemian616
+Albert,Donaji,Zarate,Martinez,Hombre,26,1997-01-07,ZAMA970107HOMBREDFZA26O,617,3,albertzarate617@urcmac.edu.mx,zaratealbert617
+Jose,Rogelio,Zarate,Romero,Hombre,23,2000-01-07,ZARJ000107HOMBREDFZA39C,618,3,josezarate618@urcmac.edu.mx,zaratejose618
+Hector,Rogelio,Hidalgo,Romero,Hombre,21,2002-01-06,HIRH020106HOMBREDFHI67V,619,5,hectorhidalgo619@urcmac.edu.mx,hidalgohector619
+Albert,,Zarate,Sebastian,Hombre,28,1995-01-08,ZASA950108HOMBREDFZA19B,620,5,albertzarate620@urcmac.edu.mx,zaratealbert620
+Albert,,Ruiz,Martinez,Hombre,26,1997-01-07,RUMA970107HOMBREDFRU44X,621,5,albertruiz621@urcmac.edu.mx,ruizalbert621
+Albert,Alfonso,Hidalgo,Romero,Hombre,26,1997-01-07,HIRA970107HOMBREDFHI25M,622,1,alberthidalgo622@urcmac.edu.mx,hidalgoalbert622
+Albert,Pablo,Hidalgo,Cirigo,Hombre,27,1996-01-08,HICA960108HOMBREDFHI10N,623,2,alberthidalgo623@urcmac.edu.mx,hidalgoalbert623
+Albert,Rogelio,Hidalgo,Sanchez,Hombre,23,2000-01-07,HISA000107HOMBREDFHI87V,624,4,alberthidalgo624@urcmac.edu.mx,hidalgoalbert624
+Juan ,,Zarate,Sebastian,Hombre,26,1997-01-07,ZASJ970107HOMBREDFZA55L,625,4,juan zarate625@urcmac.edu.mx,zaratejuan 625
+Valeria ,Elizabeth,Rubio,Hernandez,Mujer,25,1998-01-07,RUHV980107MUJERDFRU55R,626,2,valeria rubio626@urcmac.edu.mx,rubiovaleria 626
+Valeria,Elizabeth,Ruiz,Hernandez,Mujer,23,2000-01-07,RUHV000107MUJERDFRU21M,627,1,valeriaruiz627@urcmac.edu.mx,ruizvaleria627
+Valeria,Arely,Ruiz,Sanchez,Mujer,29,1994-01-08,RUSV940108MUJERDFRU75F,628,1,valeriaruiz628@urcmac.edu.mx,ruizvaleria628
+Carmen,,Ruiz,Hernandez,Mujer,21,2002-01-06,RUHC020106MUJERDFRU29F,629,4,carmenruiz629@urcmac.edu.mx,ruizcarmen629
+Laura,Urania,Garcia,Martinez,Mujer,25,1998-01-07,GAML980107MUJERDFGA52X,630,3,lauragarcia630@urcmac.edu.mx,garcialaura630
+Carmen,,Garcia,Martinez,Mujer,22,2001-01-06,GAMC010106MUJERDFGA70C,631,5,carmengarcia631@urcmac.edu.mx,garciacarmen631
+Carmen,Urania,Tolentino,Martinez,Mujer,28,1995-01-08,TOMC950108MUJERDFTO19D,632,5,carmentolentino632@urcmac.edu.mx,tolentinocarmen632
+Valeria,Arely,Ruiz,Hernandez,Mujer,30,1993-01-08,RUHV930108MUJERDFRU39Q,633,5,valeriaruiz633@urcmac.edu.mx,ruizvaleria633
+Carmen,Arely,Rubio,Martinez,Mujer,29,1994-01-08,RUMC940108MUJERDFRU43C,634,2,carmenrubio634@urcmac.edu.mx,rubiocarmen634
+Gloria,Arely,Garcia,Estrada,Mujer,26,1997-01-07,GAEG970107MUJERDFGA49L,635,4,gloriagarcia635@urcmac.edu.mx,garciagloria635
+Gloria,Arely,Garcia,Sanchez,Mujer,28,1995-01-08,GASG950108MUJERDFGA87A,636,5,gloriagarcia636@urcmac.edu.mx,garciagloria636
+Valeria ,,Tolentino,Estrada,Mujer,26,1997-01-07,TOEV970107MUJERDFTO39J,637,5,valeria tolentino637@urcmac.edu.mx,tolentinovaleria 637
+Gloria,,Salazar,Estrada,Mujer,22,2001-01-06,SAEG010106MUJERDFSA78Y,638,2,gloriasalazar638@urcmac.edu.mx,salazargloria638
+Carmen,Arely,Garcia,Martinez,Mujer,20,2003-01-06,GAMC030106MUJERDFGA39L,639,5,carmengarcia639@urcmac.edu.mx,garciacarmen639
+Valeria ,Elizabeth,Rubio,Espinosa,Mujer,20,2003-01-06,RUEV030106MUJERDFRU22R,640,5,valeria rubio640@urcmac.edu.mx,rubiovaleria 640
+Gloria,Arely,Garcia,Hernandez,Mujer,27,1996-01-08,GAHG960108MUJERDFGA98B,641,3,gloriagarcia641@urcmac.edu.mx,garciagloria641
+Valeria ,,Salazar,Estrada,Mujer,27,1996-01-08,SAEV960108MUJERDFSA45T,642,3,valeria salazar642@urcmac.edu.mx,salazarvaleria 642
+Valeria,Elizabeth,Ruiz,Espinosa,Mujer,22,2001-01-06,RUEV010106MUJERDFRU71Y,643,1,valeriaruiz643@urcmac.edu.mx,ruizvaleria643
+Carmen,,Ruiz,Espinosa,Mujer,20,2003-01-06,RUEC030106MUJERDFRU47H,644,2,carmenruiz644@urcmac.edu.mx,ruizcarmen644
+Gloria,Urania,Tolentino,Estrada,Mujer,29,1994-01-08,TOEG940108MUJERDFTO33R,645,4,gloriatolentino645@urcmac.edu.mx,tolentinogloria645
+Valeria ,,Salazar,Sanchez,Mujer,29,1994-01-08,SASV940108MUJERDFSA38K,646,2,valeria salazar646@urcmac.edu.mx,salazarvaleria 646
+Valeria,Arely,Ruiz,Espinosa,Mujer,20,2003-01-06,RUEV030106MUJERDFRU82C,647,1,valeriaruiz647@urcmac.edu.mx,ruizvaleria647
+Laura,Urania,Ruiz,Estrada,Mujer,26,1997-01-07,RUEL970107MUJERDFRU35U,648,1,lauraruiz648@urcmac.edu.mx,ruizlaura648
+Gloria,Urania,Salazar,Estrada,Mujer,23,2000-01-07,SAEG000107MUJERDFSA58Z,649,1,gloriasalazar649@urcmac.edu.mx,salazargloria649
+Valeria ,,Salazar,Hernandez,Mujer,29,1994-01-08,SAHV940108MUJERDFSA84P,650,4,valeria salazar650@urcmac.edu.mx,salazarvaleria 650
+Laura,Urania,Ruiz,Sanchez,Mujer,28,1995-01-08,RUSL950108MUJERDFRU84S,651,3,lauraruiz651@urcmac.edu.mx,ruizlaura651
+Laura,,Salazar,Martinez,Mujer,21,2002-01-06,SAML020106MUJERDFSA24Q,652,5,laurasalazar652@urcmac.edu.mx,salazarlaura652
+Gloria,Urania,Tolentino,Hernandez,Mujer,23,2000-01-07,TOHG000107MUJERDFTO32E,653,5,gloriatolentino653@urcmac.edu.mx,tolentinogloria653
+Gloria,Urania,Salazar,Sanchez,Mujer,26,1997-01-07,SASG970107MUJERDFSA77L,654,5,gloriasalazar654@urcmac.edu.mx,salazargloria654
+Valeria,,Tolentino,Martinez,Mujer,20,2003-01-06,TOMV030106MUJERDFTO47N,655,2,valeriatolentino655@urcmac.edu.mx,tolentinovaleria655
+Laura,Urania,Ruiz,Hernandez,Mujer,27,1996-01-08,RUHL960108MUJERDFRU13D,656,3,lauraruiz656@urcmac.edu.mx,ruizlaura656
+Gloria,Elizabeth,Garcia,Estrada,Mujer,20,2003-01-06,GAEG030106MUJERDFGA64H,657,2,gloriagarcia657@urcmac.edu.mx,garciagloria657
+Gloria,Urania,Salazar,Hernandez,Mujer,28,1995-01-08,SAHG950108MUJERDFSA87I,658,2,gloriasalazar658@urcmac.edu.mx,salazargloria658
+Gloria,Arely,Garcia,Espinosa,Mujer,29,1994-01-08,GAEG940108MUJERDFGA69P,659,1,gloriagarcia659@urcmac.edu.mx,garciagloria659
+Carmen,Arely,Ruiz,Estrada,Mujer,20,2003-01-06,RUEC030106MUJERDFRU94P,660,5,carmenruiz660@urcmac.edu.mx,ruizcarmen660
+Gloria,Elizabeth,Garcia,Sanchez,Mujer,25,1998-01-07,GASG980107MUJERDFGA77S,661,5,gloriagarcia661@urcmac.edu.mx,garciagloria661
+Gloria,Arely,Rubio,Martinez,Mujer,28,1995-01-08,RUMG950108MUJERDFRU81K,662,1,gloriarubio662@urcmac.edu.mx,rubiogloria662
+Valeria ,Elizabeth,Garcia,Estrada,Mujer,22,2001-01-06,GAEV010106MUJERDFGA92H,663,3,valeria garcia663@urcmac.edu.mx,garciavaleria 663
+Valeria ,,Tolentino,Espinosa,Mujer,20,2003-01-06,TOEV030106MUJERDFTO68W,664,3,valeria tolentino664@urcmac.edu.mx,tolentinovaleria 664
+Carmen,Arely,Ruiz,Sanchez,Mujer,26,1997-01-07,RUSC970107MUJERDFRU56R,665,3,carmenruiz665@urcmac.edu.mx,ruizcarmen665
+Gloria,Elizabeth,Garcia,Hernandez,Mujer,29,1994-01-08,GAHG940108MUJERDFGA34N,666,2,gloriagarcia666@urcmac.edu.mx,garciagloria666
+Valeria ,Elizabeth,Garcia,Sanchez,Mujer,29,1994-01-08,GASV940108MUJERDFGA63Q,667,1,valeria garcia667@urcmac.edu.mx,garciavaleria 667
+Valeria ,,Salazar,Espinosa,Mujer,22,2001-01-06,SAEV010106MUJERDFSA11V,668,5,valeria salazar668@urcmac.edu.mx,salazarvaleria 668
+Carmen,Arely,Ruiz,Hernandez,Mujer,25,1998-01-07,RUHC980107MUJERDFRU48B,669,3,carmenruiz669@urcmac.edu.mx,ruizcarmen669
+Valeria ,Elizabeth,Garcia,Hernandez,Mujer,29,1994-01-08,GAHV940108MUJERDFGA35Q,670,3,valeria garcia670@urcmac.edu.mx,garciavaleria 670
+Gloria,Urania,Tolentino,Espinosa,Mujer,28,1995-01-08,TOEG950108MUJERDFTO89C,671,5,gloriatolentino671@urcmac.edu.mx,tolentinogloria671
+Laura,Urania,Ruiz,Espinosa,Mujer,29,1994-01-08,RUEL940108MUJERDFRU33V,672,1,lauraruiz672@urcmac.edu.mx,ruizlaura672
+Gloria,Urania,Salazar,Espinosa,Mujer,28,1995-01-08,SAEG950108MUJERDFSA55F,673,5,gloriasalazar673@urcmac.edu.mx,salazargloria673
+Valeria ,Urania,Tolentino,Estrada,Mujer,22,2001-01-06,TOEV010106MUJERDFTO76E,674,1,valeria tolentino674@urcmac.edu.mx,tolentinovaleria 674
+Valeria ,Arely,Tolentino,Estrada,Mujer,23,2000-01-07,TOEV000107MUJERDFTO88Y,675,5,valeria tolentino675@urcmac.edu.mx,tolentinovaleria 675
+Gloria,Elizabeth,Garcia,Espinosa,Mujer,28,1995-01-08,GAEG950108MUJERDFGA11T,676,3,gloriagarcia676@urcmac.edu.mx,garciagloria676
+Valeria ,Urania,Salazar,Estrada,Mujer,27,1996-01-08,SAEV960108MUJERDFSA91V,677,4,valeria salazar677@urcmac.edu.mx,salazarvaleria 677
+Valeria ,Arely,Tolentino,Sanchez,Mujer,23,2000-01-07,TOSV000107MUJERDFTO68S,678,3,valeria tolentino678@urcmac.edu.mx,tolentinovaleria 678
+Valeria ,Arely,Salazar,Estrada,Mujer,20,2003-01-06,SAEV030106MUJERDFSA91T,679,1,valeria salazar679@urcmac.edu.mx,salazarvaleria 679
+Carmen,Arely,Ruiz,Espinosa,Mujer,25,1998-01-07,RUEC980107MUJERDFRU28C,680,3,carmenruiz680@urcmac.edu.mx,ruizcarmen680
+Gloria,Elizabeth,Rubio,Martinez,Mujer,24,1999-01-07,RUMG990107MUJERDFRU94N,681,1,gloriarubio681@urcmac.edu.mx,rubiogloria681
+Valeria ,Urania,Tolentino,Hernandez,Mujer,24,1999-01-07,TOHV990107MUJERDFTO95Y,682,1,valeria tolentino682@urcmac.edu.mx,tolentinovaleria 682
+Valeria ,Elizabeth,Garcia,Espinosa,Mujer,24,1999-01-07,GAEV990107MUJERDFGA18P,683,1,valeria garcia683@urcmac.edu.mx,garciavaleria 683
+Valeria ,Urania,Salazar,Sanchez,Mujer,20,2003-01-06,SASV030106MUJERDFSA49Q,684,4,valeria salazar684@urcmac.edu.mx,salazarvaleria 684
+Valeria ,Arely,Tolentino,Hernandez,Mujer,20,2003-01-06,TOHV030106MUJERDFTO19G,685,3,valeria tolentino685@urcmac.edu.mx,tolentinovaleria 685
+Valeria ,Arely,Salazar,Sanchez,Mujer,21,2002-01-06,SASV020106MUJERDFSA96E,686,5,valeria salazar686@urcmac.edu.mx,salazarvaleria 686
+Valeria ,Elizabeth,Rubio,Martinez,Mujer,22,2001-01-06,RUMV010106MUJERDFRU71O,687,2,valeria rubio687@urcmac.edu.mx,rubiovaleria 687
+Gloria,Arely,Ruiz,Estrada,Mujer,20,2003-01-06,RUEG030106MUJERDFRU86Y,688,5,gloriaruiz688@urcmac.edu.mx,ruizgloria688
+Valeria ,Urania,Salazar,Hernandez,Mujer,30,1993-01-08,SAHV930108MUJERDFSA15V,689,2,valeria salazar689@urcmac.edu.mx,salazarvaleria 689
+Valeria,Elizabeth,Ruiz,Martinez,Mujer,30,1993-01-08,RUMV930108MUJERDFRU91K,690,2,valeriaruiz690@urcmac.edu.mx,ruizvaleria690
+Carmen,,Ruiz,Martinez,Mujer,23,2000-01-07,RUMC000107MUJERDFRU10S,691,2,carmenruiz691@urcmac.edu.mx,ruizcarmen691
+Valeria ,Arely,Salazar,Hernandez,Mujer,28,1995-01-08,SAHV950108MUJERDFSA40H,692,1,valeria salazar692@urcmac.edu.mx,salazarvaleria 692
+Gloria,Arely,Ruiz,Sanchez,Mujer,30,1993-01-08,RUSG930108MUJERDFRU34I,693,3,gloriaruiz693@urcmac.edu.mx,ruizgloria693
+Valeria,Elizabeth,Tolentino,Estrada,Mujer,23,2000-01-07,TOEV000107MUJERDFTO52U,694,3,valeriatolentino694@urcmac.edu.mx,tolentinovaleria694
+Valeria,Arely,Ruiz,Martinez,Mujer,22,2001-01-06,RUMV010106MUJERDFRU92W,695,1,valeriaruiz695@urcmac.edu.mx,ruizvaleria695
+Carmen,,Tolentino,Estrada,Mujer,27,1996-01-08,TOEC960108MUJERDFTO63Q,696,2,carmentolentino696@urcmac.edu.mx,tolentinocarmen696
+Carmen,Urania,Rubio,Estrada,Mujer,22,2001-01-06,RUEC010106MUJERDFRU88W,697,3,carmenrubio697@urcmac.edu.mx,rubiocarmen697
+Gloria,Arely,Ruiz,Hernandez,Mujer,28,1995-01-08,RUHG950108MUJERDFRU49J,698,3,gloriaruiz698@urcmac.edu.mx,ruizgloria698
+Valeria,Elizabeth,Tolentino,Sanchez,Mujer,28,1995-01-08,TOSV950108MUJERDFTO33J,699,1,valeriatolentino699@urcmac.edu.mx,tolentinovaleria699
+Carmen,,Tolentino,Sanchez,Mujer,30,1993-01-08,TOSC930108MUJERDFTO97V,700,1,carmentolentino700@urcmac.edu.mx,tolentinocarmen700
+Valeria,Arely,Tolentino,Estrada,Mujer,27,1996-01-08,TOEV960108MUJERDFTO74V,701,4,valeriatolentino701@urcmac.edu.mx,tolentinovaleria701
+Carmen,Urania,Rubio,Sanchez,Mujer,30,1993-01-08,RUSC930108MUJERDFRU11N,702,2,carmenrubio702@urcmac.edu.mx,rubiocarmen702
+Laura,Elizabeth,Rubio,Estrada,Mujer,30,1993-01-08,RUEL930108MUJERDFRU99B,703,3,laurarubio703@urcmac.edu.mx,rubiolaura703
+Valeria,Elizabeth,Salazar,Estrada,Mujer,23,2000-01-07,SAEV000107MUJERDFSA67N,704,3,valeriasalazar704@urcmac.edu.mx,salazarvaleria704
+Carmen,,Salazar,Estrada,Mujer,29,1994-01-08,SAEC940108MUJERDFSA97D,705,5,carmensalazar705@urcmac.edu.mx,salazarcarmen705
+Valeria ,Urania,Tolentino,Espinosa,Mujer,22,2001-01-06,TOEV010106MUJERDFTO42Z,706,2,valeria tolentino706@urcmac.edu.mx,tolentinovaleria 706
+Valeria,Elizabeth,Tolentino,Hernandez,Mujer,29,1994-01-08,TOHV940108MUJERDFTO16O,707,1,valeriatolentino707@urcmac.edu.mx,tolentinovaleria707
+Valeria,Arely,Tolentino,Sanchez,Mujer,22,2001-01-06,TOSV010106MUJERDFTO28C,708,2,valeriatolentino708@urcmac.edu.mx,tolentinovaleria708
+Carmen,,Tolentino,Hernandez,Mujer,20,2003-01-06,TOHC030106MUJERDFTO55C,709,2,carmentolentino709@urcmac.edu.mx,tolentinocarmen709
+Laura,Elizabeth,Rubio,Sanchez,Mujer,20,2003-01-06,RUSL030106MUJERDFRU99I,710,1,laurarubio710@urcmac.edu.mx,rubiolaura710
+Valeria,Elizabeth,Salazar,Sanchez,Mujer,26,1997-01-07,SASV970107MUJERDFSA89I,711,4,valeriasalazar711@urcmac.edu.mx,salazarvaleria711
+Laura,Arely,Rubio,Estrada,Mujer,27,1996-01-08,RUEL960108MUJERDFRU60I,712,4,laurarubio712@urcmac.edu.mx,rubiolaura712
+Valeria,Arely,Salazar,Estrada,Mujer,25,1998-01-07,SAEV980107MUJERDFSA99A,713,1,valeriasalazar713@urcmac.edu.mx,salazarvaleria713
+Carmen,,Salazar,Sanchez,Mujer,24,1999-01-07,SASC990107MUJERDFSA76P,714,3,carmensalazar714@urcmac.edu.mx,salazarcarmen714
+Carmen,Urania,Rubio,Hernandez,Mujer,27,1996-01-08,RUHC960108MUJERDFRU80N,715,3,carmenrubio715@urcmac.edu.mx,rubiocarmen715
+Valeria ,Arely,Tolentino,Espinosa,Mujer,24,1999-01-07,TOEV990107MUJERDFTO23W,716,2,valeria tolentino716@urcmac.edu.mx,tolentinovaleria 716
+Gloria,Arely,Garcia,Martinez,Mujer,29,1994-01-08,GAMG940108MUJERDFGA46P,717,3,gloriagarcia717@urcmac.edu.mx,garciagloria717
+Gloria,,Tolentino,Martinez,Mujer,27,1996-01-08,TOMG960108MUJERDFTO56M,718,3,gloriatolentino718@urcmac.edu.mx,tolentinogloria718
+Valeria ,Urania,Salazar,Espinosa,Mujer,20,2003-01-06,SAEV030106MUJERDFSA72G,719,3,valeria salazar719@urcmac.edu.mx,salazarvaleria 719
+Valeria,Arely,Tolentino,Hernandez,Mujer,26,1997-01-07,TOHV970107MUJERDFTO48T,720,1,valeriatolentino720@urcmac.edu.mx,tolentinovaleria720
+Laura,Elizabeth,Rubio,Hernandez,Mujer,28,1995-01-08,RUHL950108MUJERDFRU69P,721,5,laurarubio721@urcmac.edu.mx,rubiolaura721
+Laura,Arely,Rubio,Sanchez,Mujer,22,2001-01-06,RUSL010106MUJERDFRU86Z,722,2,laurarubio722@urcmac.edu.mx,rubiolaura722
+Valeria,Elizabeth,Salazar,Hernandez,Mujer,26,1997-01-07,SAHV970107MUJERDFSA51E,723,1,valeriasalazar723@urcmac.edu.mx,salazarvaleria723
+Valeria,Arely,Salazar,Sanchez,Mujer,28,1995-01-08,SASV950108MUJERDFSA54Q,724,5,valeriasalazar724@urcmac.edu.mx,salazarvaleria724
+Carmen,,Salazar,Hernandez,Mujer,23,2000-01-07,SAHC000107MUJERDFSA58W,725,2,carmensalazar725@urcmac.edu.mx,salazarcarmen725
+Valeria ,Arely,Salazar,Espinosa,Mujer,24,1999-01-07,SAEV990107MUJERDFSA83R,726,1,valeria salazar726@urcmac.edu.mx,salazarvaleria 726
+Valeria ,,Tolentino,Martinez,Mujer,24,1999-01-07,TOMV990107MUJERDFTO32D,727,4,valeria tolentino727@urcmac.edu.mx,tolentinovaleria 727
+Gloria,,Salazar,Martinez,Mujer,24,1999-01-07,SAMG990107MUJERDFSA38G,728,5,gloriasalazar728@urcmac.edu.mx,salazargloria728
+Laura,Arely,Rubio,Hernandez,Mujer,21,2002-01-06,RUHL020106MUJERDFRU93R,729,5,laurarubio729@urcmac.edu.mx,rubiolaura729
+Valeria,Arely,Salazar,Hernandez,Mujer,29,1994-01-08,SAHV940108MUJERDFSA18E,730,2,valeriasalazar730@urcmac.edu.mx,salazarvaleria730
+Gloria,Arely,Ruiz,Espinosa,Mujer,28,1995-01-08,RUEG950108MUJERDFRU34Z,731,5,gloriaruiz731@urcmac.edu.mx,ruizgloria731
+Valeria ,,Salazar,Martinez,Mujer,23,2000-01-07,SAMV000107MUJERDFSA82J,732,1,valeria salazar732@urcmac.edu.mx,salazarvaleria 732
+Laura,Arely,Garcia,Sanchez,Mujer,20,2003-01-06,GASL030106MUJERDFGA33S,733,5,lauragarcia733@urcmac.edu.mx,garcialaura733
+Valeria ,Elizabeth,Ruiz,Estrada,Mujer,23,2000-01-07,RUEV000107MUJERDFRU59T,734,2,valeria ruiz734@urcmac.edu.mx,ruizvaleria 734
+Gloria,Urania,Tolentino,Martinez,Mujer,30,1993-01-08,TOMG930108MUJERDFTO51I,735,1,gloriatolentino735@urcmac.edu.mx,tolentinogloria735
+Valeria,Elizabeth,Tolentino,Espinosa,Mujer,26,1997-01-07,TOEV970107MUJERDFTO63D,736,2,valeriatolentino736@urcmac.edu.mx,tolentinovaleria736
+Carmen,,Tolentino,Espinosa,Mujer,23,2000-01-07,TOEC000107MUJERDFTO38S,737,3,carmentolentino737@urcmac.edu.mx,tolentinocarmen737
+Laura,Urania,Ruiz,Martinez,Mujer,30,1993-01-08,RUML930108MUJERDFRU51M,738,4,lauraruiz738@urcmac.edu.mx,ruizlaura738
+Laura,Arely,Garcia,Hernandez,Mujer,23,2000-01-07,GAHL000107MUJERDFGA95K,739,5,lauragarcia739@urcmac.edu.mx,garcialaura739
+Carmen,Urania,Rubio,Espinosa,Mujer,30,1993-01-08,RUEC930108MUJERDFRU81A,740,5,carmenrubio740@urcmac.edu.mx,rubiocarmen740
+Valeria ,Elizabeth,Ruiz,Sanchez,Mujer,25,1998-01-07,RUSV980107MUJERDFRU33K,741,3,valeria ruiz741@urcmac.edu.mx,ruizvaleria 741
+Valeria,,Rubio,Estrada,Mujer,24,1999-01-07,RUEV990107MUJERDFRU76Y,742,1,valeriarubio742@urcmac.edu.mx,rubiovaleria742
+Gloria,Urania,Salazar,Martinez,Mujer,27,1996-01-08,SAMG960108MUJERDFSA93J,743,5,gloriasalazar743@urcmac.edu.mx,salazargloria743
+Valeria,Arely,Tolentino,Espinosa,Mujer,23,2000-01-07,TOEV000107MUJERDFTO35W,744,2,valeriatolentino744@urcmac.edu.mx,tolentinovaleria744
+Laura,Urania,Tolentino,Estrada,Mujer,22,2001-01-06,TOEL010106MUJERDFTO72M,745,3,lauratolentino745@urcmac.edu.mx,tolentinolaura745
+Laura,Elizabeth,Rubio,Espinosa,Mujer,29,1994-01-08,RUEL940108MUJERDFRU52Y,746,3,laurarubio746@urcmac.edu.mx,rubiolaura746
+Valeria,Elizabeth,Salazar,Espinosa,Mujer,28,1995-01-08,SAEV950108MUJERDFSA45M,747,1,valeriasalazar747@urcmac.edu.mx,salazarvaleria747
+Carmen,,Salazar,Espinosa,Mujer,24,1999-01-07,SAEC990107MUJERDFSA74C,748,2,carmensalazar748@urcmac.edu.mx,salazarcarmen748
+Valeria ,Elizabeth,Ruiz,Hernandez,Mujer,28,1995-01-08,RUHV950108MUJERDFRU22G,749,4,valeria ruiz749@urcmac.edu.mx,ruizvaleria 749
+Valeria,,Rubio,Sanchez,Mujer,21,2002-01-06,RUSV020106MUJERDFRU21L,750,4,valeriarubio750@urcmac.edu.mx,rubiovaleria750
+Valeria,Urania,Garcia,Estrada,Mujer,24,1999-01-07,GAEV990107MUJERDFGA77M,751,2,valeriagarcia751@urcmac.edu.mx,garciavaleria751
+Laura,Urania,Tolentino,Sanchez,Mujer,25,1998-01-07,TOSL980107MUJERDFTO47X,752,1,lauratolentino752@urcmac.edu.mx,tolentinolaura752
+Laura,Elizabeth,Salazar,Estrada,Mujer,23,2000-01-07,SAEL000107MUJERDFSA89Q,753,2,laurasalazar753@urcmac.edu.mx,salazarlaura753
+Laura,Arely,Rubio,Espinosa,Mujer,28,1995-01-08,RUEL950108MUJERDFRU97V,754,2,laurarubio754@urcmac.edu.mx,rubiolaura754
+Valeria,Arely,Salazar,Espinosa,Mujer,29,1994-01-08,SAEV940108MUJERDFSA91H,755,4,valeriasalazar755@urcmac.edu.mx,salazarvaleria755
+Valeria,,Rubio,Hernandez,Mujer,20,2003-01-06,RUHV030106MUJERDFRU95S,756,3,valeriarubio756@urcmac.edu.mx,rubiovaleria756
+Valeria,,Garcia,Estrada,Mujer,22,2001-01-06,GAEV010106MUJERDFGA33Z,757,5,valeriagarcia757@urcmac.edu.mx,garciavaleria757
+Valeria,Urania,Garcia,Sanchez,Mujer,26,1997-01-07,GASV970107MUJERDFGA63K,758,2,valeriagarcia758@urcmac.edu.mx,garciavaleria758
+Gloria,Elizabeth,Garcia,Martinez,Mujer,29,1994-01-08,GAMG940108MUJERDFGA26E,759,5,gloriagarcia759@urcmac.edu.mx,garciagloria759
+Laura,Urania,Tolentino,Hernandez,Mujer,24,1999-01-07,TOHL990107MUJERDFTO73Y,760,3,lauratolentino760@urcmac.edu.mx,tolentinolaura760
+Carmen,Arely,Ruiz,Martinez,Mujer,23,2000-01-07,RUMC000107MUJERDFRU42F,761,5,carmenruiz761@urcmac.edu.mx,ruizcarmen761
+Valeria,,Garcia,Sanchez,Mujer,25,1998-01-07,GASV980107MUJERDFGA98I,762,2,valeriagarcia762@urcmac.edu.mx,garciavaleria762
+Valeria,Urania,Garcia,Hernandez,Mujer,29,1994-01-08,GAHV940108MUJERDFGA73A,763,2,valeriagarcia763@urcmac.edu.mx,garciavaleria763
+Valeria ,Elizabeth,Garcia,Martinez,Mujer,27,1996-01-08,GAMV960108MUJERDFGA72C,764,1,valeria garcia764@urcmac.edu.mx,garciavaleria 764
+Laura,Elizabeth,Garcia,Estrada,Mujer,25,1998-01-07,GAEL980107MUJERDFGA10X,765,2,lauragarcia765@urcmac.edu.mx,garcialaura765
+Laura,Elizabeth,Salazar,Hernandez,Mujer,20,2003-01-06,SAHL030106MUJERDFSA60D,766,2,laurasalazar766@urcmac.edu.mx,salazarlaura766
+Laura,Arely,Garcia,Espinosa,Mujer,24,1999-01-07,GAEL990107MUJERDFGA48M,767,4,lauragarcia767@urcmac.edu.mx,garcialaura767
+Carmen,Arely,Tolentino,Estrada,Mujer,24,1999-01-07,TOEC990107MUJERDFTO84U,768,3,carmentolentino768@urcmac.edu.mx,tolentinocarmen768
+Valeria,,Garcia,Hernandez,Mujer,25,1998-01-07,GAHV980107MUJERDFGA71L,769,1,valeriagarcia769@urcmac.edu.mx,garciavaleria769
+Laura,Elizabeth,Garcia,Sanchez,Mujer,26,1997-01-07,GASL970107MUJERDFGA26X,770,1,lauragarcia770@urcmac.edu.mx,garcialaura770
+Carmen,Arely,Tolentino,Sanchez,Mujer,29,1994-01-08,TOSC940108MUJERDFTO15G,771,4,carmentolentino771@urcmac.edu.mx,tolentinocarmen771
+Valeria ,Elizabeth,Ruiz,Espinosa,Mujer,30,1993-01-08,RUEV930108MUJERDFRU57L,772,2,valeria ruiz772@urcmac.edu.mx,ruizvaleria 772
+Laura,Elizabeth,Garcia,Hernandez,Mujer,21,2002-01-06,GAHL020106MUJERDFGA24M,773,1,lauragarcia773@urcmac.edu.mx,garcialaura773
+Carmen,Urania,Garcia,Sanchez,Mujer,23,2000-01-07,GASC000107MUJERDFGA14J,774,3,carmengarcia774@urcmac.edu.mx,garciacarmen774
+Carmen,Arely,Tolentino,Hernandez,Mujer,22,2001-01-06,TOHC010106MUJERDFTO93X,775,5,carmentolentino775@urcmac.edu.mx,tolentinocarmen775
+Valeria,,Rubio,Espinosa,Mujer,22,2001-01-06,RUEV010106MUJERDFRU86W,776,5,valeriarubio776@urcmac.edu.mx,rubiovaleria776
+Laura,Urania,Tolentino,Espinosa,Mujer,21,2002-01-06,TOEL020106MUJERDFTO25H,777,1,lauratolentino777@urcmac.edu.mx,tolentinolaura777
+Valeria ,Urania,Tolentino,Martinez,Mujer,25,1998-01-07,TOMV980107MUJERDFTO99N,778,5,valeria tolentino778@urcmac.edu.mx,tolentinovaleria 778
+Gloria,Elizabeth,Ruiz,Estrada,Mujer,24,1999-01-07,RUEG990107MUJERDFRU94H,779,3,gloriaruiz779@urcmac.edu.mx,ruizgloria779
+Valeria,Urania,Garcia,Espinosa,Mujer,23,2000-01-07,GAEV000107MUJERDFGA69I,780,3,valeriagarcia780@urcmac.edu.mx,garciavaleria780
+Valeria ,Arely,Tolentino,Martinez,Mujer,20,2003-01-06,TOMV030106MUJERDFTO38B,781,5,valeria tolentino781@urcmac.edu.mx,tolentinovaleria 781
+Laura,Elizabeth,Salazar,Espinosa,Mujer,22,2001-01-06,SAEL010106MUJERDFSA37H,782,4,laurasalazar782@urcmac.edu.mx,salazarlaura782
+Valeria,Urania,Rubio,Martinez,Mujer,27,1996-01-08,RUMV960108MUJERDFRU95E,783,2,valeriarubio783@urcmac.edu.mx,rubiovaleria783
+Gloria,Elizabeth,Ruiz,Sanchez,Mujer,21,2002-01-06,RUSG020106MUJERDFRU64Z,784,1,gloriaruiz784@urcmac.edu.mx,ruizgloria784
+Valeria,,Garcia,Espinosa,Mujer,21,2002-01-06,GAEV020106MUJERDFGA90O,785,5,valeriagarcia785@urcmac.edu.mx,garciavaleria785
+Valeria ,Urania,Salazar,Martinez,Mujer,22,2001-01-06,SAMV010106MUJERDFSA18J,786,5,valeria salazar786@urcmac.edu.mx,salazarvaleria 786
+Valeria ,Arely,Salazar,Martinez,Mujer,27,1996-01-08,SAMV960108MUJERDFSA44E,787,4,valeria salazar787@urcmac.edu.mx,salazarvaleria 787
+Gloria,Elizabeth,Ruiz,Hernandez,Mujer,20,2003-01-06,RUHG030106MUJERDFRU26A,788,1,gloriaruiz788@urcmac.edu.mx,ruizgloria788
+Laura,,Garcia,Estrada,Mujer,26,1997-01-07,GAEL970107MUJERDFGA45H,789,1,lauragarcia789@urcmac.edu.mx,garcialaura789
+Laura,Elizabeth,Garcia,Espinosa,Mujer,22,2001-01-06,GAEL010106MUJERDFGA54O,790,5,lauragarcia790@urcmac.edu.mx,garcialaura790
+Carmen,Arely,Tolentino,Espinosa,Mujer,20,2003-01-06,TOEC030106MUJERDFTO21O,791,3,carmentolentino791@urcmac.edu.mx,tolentinocarmen791
+Gloria,Arely,Ruiz,Martinez,Mujer,25,1998-01-07,RUMG980107MUJERDFRU59D,792,3,gloriaruiz792@urcmac.edu.mx,ruizgloria792
+Laura,,Garcia,Sanchez,Mujer,20,2003-01-06,GASL030106MUJERDFGA96M,793,1,lauragarcia793@urcmac.edu.mx,garcialaura793
+Laura,,Garcia,Hernandez,Mujer,30,1993-01-08,GAHL930108MUJERDFGA19Y,794,1,lauragarcia794@urcmac.edu.mx,garcialaura794
+Valeria,Elizabeth,Tolentino,Martinez,Mujer,22,2001-01-06,TOMV010106MUJERDFTO41F,795,2,valeriatolentino795@urcmac.edu.mx,tolentinovaleria795
+Carmen,,Tolentino,Martinez,Mujer,27,1996-01-08,TOMC960108MUJERDFTO74H,796,2,carmentolentino796@urcmac.edu.mx,tolentinocarmen796
+Carmen,Urania,Rubio,Martinez,Mujer,27,1996-01-08,RUMC960108MUJERDFRU35E,797,1,carmenrubio797@urcmac.edu.mx,rubiocarmen797
+Valeria,Arely,Tolentino,Martinez,Mujer,26,1997-01-07,TOMV970107MUJERDFTO40G,798,5,valeriatolentino798@urcmac.edu.mx,tolentinovaleria798
+Gloria,Elizabeth,Ruiz,Espinosa,Mujer,25,1998-01-07,RUEG980107MUJERDFRU11D,799,2,gloriaruiz799@urcmac.edu.mx,ruizgloria799
+Carmen,Elizabeth,Garcia,Martinez,Mujer,23,2000-01-07,GAMC000107MUJERDFGA10U,800,1,carmengarcia800@urcmac.edu.mx,garciacarmen800
+Valeria,Arely,Salazar,Martinez,Mujer,30,1993-01-08,SAMV930108MUJERDFSA12A,801,1,valeriasalazar801@urcmac.edu.mx,salazarvaleria801
+Valeria ,,Rubio,Estrada,Mujer,20,2003-01-06,RUEV030106MUJERDFRU75X,802,3,valeria rubio802@urcmac.edu.mx,rubiovaleria 802
+Valeria ,,Rubio,Sanchez,Mujer,30,1993-01-08,RUSV930108MUJERDFRU39T,803,5,valeria rubio803@urcmac.edu.mx,rubiovaleria 803
+Carmen,Arely,Salazar,Sanchez,Mujer,26,1997-01-07,SASC970107MUJERDFSA77X,804,1,carmensalazar804@urcmac.edu.mx,salazarcarmen804
+Laura,,Garcia,Espinosa,Mujer,28,1995-01-08,GAEL950108MUJERDFGA69P,805,4,lauragarcia805@urcmac.edu.mx,garcialaura805
+Gloria,Urania,Rubio,Estrada,Mujer,21,2002-01-06,RUEG020106MUJERDFRU67M,806,3,gloriarubio806@urcmac.edu.mx,rubiogloria806
+Valeria ,,Rubio,Hernandez,Mujer,20,2003-01-06,RUHV030106MUJERDFRU13S,807,3,valeria rubio807@urcmac.edu.mx,rubiovaleria 807
+Laura,,Rubio,Martinez,Mujer,22,2001-01-06,RUML010106MUJERDFRU61R,808,1,laurarubio808@urcmac.edu.mx,rubiolaura808
+Gloria,Urania,Rubio,Sanchez,Mujer,30,1993-01-08,RUSG930108MUJERDFRU77Q,809,1,gloriarubio809@urcmac.edu.mx,rubiogloria809
+Valeria ,Elizabeth,Ruiz,Martinez,Mujer,21,2002-01-06,RUMV020106MUJERDFRU63W,810,3,valeria ruiz810@urcmac.edu.mx,ruizvaleria 810
+Gloria,Urania,Rubio,Hernandez,Mujer,24,1999-01-07,RUHG990107MUJERDFRU60T,811,3,gloriarubio811@urcmac.edu.mx,rubiogloria811
+Laura,Elizabeth,Tolentino,Martinez,Mujer,23,2000-01-07,TOML000107MUJERDFTO11J,812,1,lauratolentino812@urcmac.edu.mx,tolentinolaura812
+Laura,Urania,Tolentino,Martinez,Mujer,24,1999-01-07,TOML990107MUJERDFTO42K,813,1,lauratolentino813@urcmac.edu.mx,tolentinolaura813
+Carmen,Urania,Salazar,Martinez,Mujer,27,1996-01-08,SAMC960108MUJERDFSA11G,814,4,carmensalazar814@urcmac.edu.mx,salazarcarmen814
+Valeria,Urania,Garcia,Martinez,Mujer,25,1998-01-07,GAMV980107MUJERDFGA33M,815,5,valeriagarcia815@urcmac.edu.mx,garciavaleria815
+Carmen,Urania,Ruiz,Sanchez,Mujer,24,1999-01-07,RUSC990107MUJERDFRU99K,816,5,carmenruiz816@urcmac.edu.mx,ruizcarmen816
+Laura,Elizabeth,Salazar,Martinez,Mujer,23,2000-01-07,SAML000107MUJERDFSA34R,817,4,laurasalazar817@urcmac.edu.mx,salazarlaura817
+Valeria ,,Rubio,Espinosa,Mujer,24,1999-01-07,RUEV990107MUJERDFRU99K,818,4,valeria rubio818@urcmac.edu.mx,rubiovaleria 818
+Gloria,Arely,Tolentino,Estrada,Mujer,25,1998-01-07,TOEG980107MUJERDFTO50C,819,4,gloriatolentino819@urcmac.edu.mx,tolentinogloria819
+Carmen,Urania,Ruiz,Hernandez,Mujer,22,2001-01-06,RUHC010106MUJERDFRU33M,820,4,carmenruiz820@urcmac.edu.mx,ruizcarmen820
+Laura,Arely,Salazar,Martinez,Mujer,25,1998-01-07,SAML980107MUJERDFSA12Z,821,5,laurasalazar821@urcmac.edu.mx,salazarlaura821
+Gloria,Arely,Tolentino,Sanchez,Mujer,20,2003-01-06,TOSG030106MUJERDFTO10U,822,2,gloriatolentino822@urcmac.edu.mx,tolentinogloria822
+Carmen,Arely,Tolentino,Martinez,Mujer,28,1995-01-08,TOMC950108MUJERDFTO10O,823,3,carmentolentino823@urcmac.edu.mx,tolentinocarmen823
+Gloria,Urania,Rubio,Espinosa,Mujer,22,2001-01-06,RUEG010106MUJERDFRU32F,824,1,gloriarubio824@urcmac.edu.mx,rubiogloria824
+Gloria,,Rubio,Estrada,Mujer,23,2000-01-07,RUEG000107MUJERDFRU22X,825,2,gloriarubio825@urcmac.edu.mx,rubiogloria825
+Gloria,Arely,Tolentino,Hernandez,Mujer,24,1999-01-07,TOHG990107MUJERDFTO55A,826,3,gloriatolentino826@urcmac.edu.mx,tolentinogloria826
+Gloria,Arely,Salazar,Sanchez,Mujer,26,1997-01-07,SASG970107MUJERDFSA24E,827,1,gloriasalazar827@urcmac.edu.mx,salazargloria827
+Gloria,,Rubio,Sanchez,Mujer,22,2001-01-06,RUSG010106MUJERDFRU97O,828,5,gloriarubio828@urcmac.edu.mx,rubiogloria828
+Laura,,Ruiz,Estrada,Mujer,20,2003-01-06,RUEL030106MUJERDFRU64X,829,2,lauraruiz829@urcmac.edu.mx,ruizlaura829
+Valeria ,Urania,Rubio,Estrada,Mujer,25,1998-01-07,RUEV980107MUJERDFRU62K,830,2,valeria rubio830@urcmac.edu.mx,rubiovaleria 830
+Gloria,,Rubio,Hernandez,Mujer,26,1997-01-07,RUHG970107MUJERDFRU38X,831,5,gloriarubio831@urcmac.edu.mx,rubiogloria831
+Gloria,,Garcia,Estrada,Mujer,26,1997-01-07,GAEG970107MUJERDFGA75X,832,2,gloriagarcia832@urcmac.edu.mx,garciagloria832
+Laura,,Ruiz,Sanchez,Mujer,20,2003-01-06,RUSL030106MUJERDFRU69T,833,5,lauraruiz833@urcmac.edu.mx,ruizlaura833
+Valeria ,Arely,Rubio,Estrada,Mujer,26,1997-01-07,RUEV970107MUJERDFRU67V,834,2,valeria rubio834@urcmac.edu.mx,rubiovaleria 834
+Valeria,Urania,Ruiz,Estrada,Mujer,28,1995-01-08,RUEV950108MUJERDFRU59A,835,2,valeriaruiz835@urcmac.edu.mx,ruizvaleria835
+Valeria ,Urania,Rubio,Sanchez,Mujer,28,1995-01-08,RUSV950108MUJERDFRU63D,836,3,valeria rubio836@urcmac.edu.mx,rubiovaleria 836
+Carmen,Urania,Ruiz,Espinosa,Mujer,21,2002-01-06,RUEC020106MUJERDFRU62P,837,2,carmenruiz837@urcmac.edu.mx,ruizcarmen837
+Gloria,,Garcia,Sanchez,Mujer,29,1994-01-08,GASG940108MUJERDFGA88P,838,4,gloriagarcia838@urcmac.edu.mx,garciagloria838
+Valeria ,,Garcia,Estrada,Mujer,21,2002-01-06,GAEV020106MUJERDFGA95P,839,1,valeria garcia839@urcmac.edu.mx,garciavaleria 839
+Laura,,Ruiz,Hernandez,Mujer,23,2000-01-07,RUHL000107MUJERDFRU91H,840,5,lauraruiz840@urcmac.edu.mx,ruizlaura840
+Valeria,Urania,Ruiz,Sanchez,Mujer,30,1993-01-08,RUSV930108MUJERDFRU70B,841,4,valeriaruiz841@urcmac.edu.mx,ruizvaleria841
+Valeria,,Salazar,Martinez,Mujer,27,1996-01-08,SAMV960108MUJERDFSA86Y,842,2,valeriasalazar842@urcmac.edu.mx,salazarvaleria842
+Gloria,Elizabeth,Ruiz,Martinez,Mujer,20,2003-01-06,RUMG030106MUJERDFRU18V,843,3,gloriaruiz843@urcmac.edu.mx,ruizgloria843
+Valeria ,Arely,Rubio,Sanchez,Mujer,28,1995-01-08,RUSV950108MUJERDFRU82K,844,5,valeria rubio844@urcmac.edu.mx,rubiovaleria 844
+Valeria ,Urania,Rubio,Hernandez,Mujer,20,2003-01-06,RUHV030106MUJERDFRU30R,845,3,valeria rubio845@urcmac.edu.mx,rubiovaleria 845
+Valeria ,Urania,Garcia,Estrada,Mujer,23,2000-01-07,GAEV000107MUJERDFGA87A,846,1,valeria garcia846@urcmac.edu.mx,garciavaleria 846
+Gloria,,Garcia,Hernandez,Mujer,29,1994-01-08,GAHG940108MUJERDFGA83H,847,5,gloriagarcia847@urcmac.edu.mx,garciagloria847
+Valeria ,,Garcia,Sanchez,Mujer,20,2003-01-06,GASV030106MUJERDFGA89W,848,2,valeria garcia848@urcmac.edu.mx,garciavaleria 848
+Valeria ,Arely,Rubio,Hernandez,Mujer,20,2003-01-06,RUHV030106MUJERDFRU31M,849,5,valeria rubio849@urcmac.edu.mx,rubiovaleria 849
+Valeria,Urania,Ruiz,Hernandez,Mujer,20,2003-01-06,RUHV030106MUJERDFRU99W,850,1,valeriaruiz850@urcmac.edu.mx,ruizvaleria850
+Gloria,Elizabeth,Tolentino,Estrada,Mujer,23,2000-01-07,TOEG000107MUJERDFTO78H,851,3,gloriatolentino851@urcmac.edu.mx,tolentinogloria851
+Gloria,Arely,Tolentino,Espinosa,Mujer,20,2003-01-06,TOEG030106MUJERDFTO50N,852,4,gloriatolentino852@urcmac.edu.mx,tolentinogloria852
+Valeria ,Urania,Garcia,Sanchez,Mujer,26,1997-01-07,GASV970107MUJERDFGA38U,853,4,valeria garcia853@urcmac.edu.mx,garciavaleria 853
+Valeria ,,Garcia,Hernandez,Mujer,29,1994-01-08,GAHV940108MUJERDFGA99H,854,4,valeria garcia854@urcmac.edu.mx,garciavaleria 854
+Gloria,Elizabeth,Tolentino,Sanchez,Mujer,21,2002-01-06,TOSG020106MUJERDFTO68O,855,4,gloriatolentino855@urcmac.edu.mx,tolentinogloria855
+Laura,,Garcia,Martinez,Mujer,22,2001-01-06,GAML010106MUJERDFGA45S,856,1,lauragarcia856@urcmac.edu.mx,garcialaura856
+Gloria,Elizabeth,Salazar,Estrada,Mujer,23,2000-01-07,SAEG000107MUJERDFSA17M,857,1,gloriasalazar857@urcmac.edu.mx,salazargloria857
+Carmen,Elizabeth,Ruiz,Martinez,Mujer,27,1996-01-08,RUMC960108MUJERDFRU29E,858,3,carmenruiz858@urcmac.edu.mx,ruizcarmen858
+Valeria ,Urania,Garcia,Hernandez,Mujer,26,1997-01-07,GAHV970107MUJERDFGA92V,859,5,valeria garcia859@urcmac.edu.mx,garciavaleria 859
+Gloria,,Rubio,Espinosa,Mujer,22,2001-01-06,RUEG010106MUJERDFRU78U,860,5,gloriarubio860@urcmac.edu.mx,rubiogloria860
+Gloria,Elizabeth,Tolentino,Hernandez,Mujer,26,1997-01-07,TOHG970107MUJERDFTO32A,861,3,gloriatolentino861@urcmac.edu.mx,tolentinogloria861
+Valeria ,Elizabeth,Tolentino,Sanchez,Mujer,27,1996-01-08,TOSV960108MUJERDFTO20J,862,5,valeria tolentino862@urcmac.edu.mx,tolentinovaleria 862
+Gloria,Elizabeth,Salazar,Sanchez,Mujer,23,2000-01-07,SASG000107MUJERDFSA89M,863,2,gloriasalazar863@urcmac.edu.mx,salazargloria863
+Valeria,Arely,Rubio,Estrada,Mujer,27,1996-01-08,RUEV960108MUJERDFRU84B,864,3,valeriarubio864@urcmac.edu.mx,rubiovaleria864
+Valeria ,Elizabeth,Tolentino,Hernandez,Mujer,23,2000-01-07,TOHV000107MUJERDFTO33J,865,3,valeria tolentino865@urcmac.edu.mx,tolentinovaleria 865
+Laura,,Ruiz,Espinosa,Mujer,30,1993-01-08,RUEL930108MUJERDFRU35R,866,3,lauraruiz866@urcmac.edu.mx,ruizlaura866
+Gloria,Elizabeth,Salazar,Hernandez,Mujer,21,2002-01-06,SAHG020106MUJERDFSA57F,867,1,gloriasalazar867@urcmac.edu.mx,salazargloria867
+Valeria ,Urania,Rubio,Espinosa,Mujer,24,1999-01-07,RUEV990107MUJERDFRU71S,868,1,valeria rubio868@urcmac.edu.mx,rubiovaleria 868
+Valeria,Arely,Rubio,Sanchez,Mujer,22,2001-01-06,RUSV010106MUJERDFRU50R,869,5,valeriarubio869@urcmac.edu.mx,rubiovaleria869
+Gloria,,Garcia,Espinosa,Mujer,26,1997-01-07,GAEG970107MUJERDFGA18I,870,2,gloriagarcia870@urcmac.edu.mx,garciagloria870
+Valeria ,Arely,Rubio,Espinosa,Mujer,23,2000-01-07,RUEV000107MUJERDFRU82E,871,1,valeria rubio871@urcmac.edu.mx,rubiovaleria 871
+Valeria,Urania,Ruiz,Espinosa,Mujer,29,1994-01-08,RUEV940108MUJERDFRU34V,872,2,valeriaruiz872@urcmac.edu.mx,ruizvaleria872
+Valeria,Arely,Rubio,Hernandez,Mujer,24,1999-01-07,RUHV990107MUJERDFRU43E,873,2,valeriarubio873@urcmac.edu.mx,rubiovaleria873
+Valeria ,,Garcia,Espinosa,Mujer,20,2003-01-06,GAEV030106MUJERDFGA95V,874,3,valeria garcia874@urcmac.edu.mx,garciavaleria 874
+Valeria ,Urania,Garcia,Espinosa,Mujer,28,1995-01-08,GAEV950108MUJERDFGA86M,875,4,valeria garcia875@urcmac.edu.mx,garciavaleria 875
+Valeria ,,Rubio,Martinez,Mujer,28,1995-01-08,RUMV950108MUJERDFRU30K,876,3,valeria rubio876@urcmac.edu.mx,rubiovaleria 876
+Gloria,Elizabeth,Tolentino,Espinosa,Mujer,23,2000-01-07,TOEG000107MUJERDFTO88D,877,2,gloriatolentino877@urcmac.edu.mx,tolentinogloria877
+Gloria,Elizabeth,Salazar,Espinosa,Mujer,24,1999-01-07,SAEG990107MUJERDFSA44W,878,5,gloriasalazar878@urcmac.edu.mx,salazargloria878
+Gloria,Urania,Rubio,Martinez,Mujer,21,2002-01-06,RUMG020106MUJERDFRU37I,879,4,gloriarubio879@urcmac.edu.mx,rubiogloria879
+Gloria,Urania,Garcia,Estrada,Mujer,27,1996-01-08,GAEG960108MUJERDFGA18D,880,4,gloriagarcia880@urcmac.edu.mx,garciagloria880
+Gloria,Urania,Garcia,Sanchez,Mujer,28,1995-01-08,GASG950108MUJERDFGA74C,881,3,gloriagarcia881@urcmac.edu.mx,garciagloria881
+Valeria,Arely,Rubio,Espinosa,Mujer,27,1996-01-08,RUEV960108MUJERDFRU56W,882,1,valeriarubio882@urcmac.edu.mx,rubiovaleria882
+Valeria ,Arely,Garcia,Estrada,Mujer,24,1999-01-07,GAEV990107MUJERDFGA41U,883,1,valeria garcia883@urcmac.edu.mx,garciavaleria 883
+Gloria,Urania,Garcia,Hernandez,Mujer,21,2002-01-06,GAHG020106MUJERDFGA46R,884,4,gloriagarcia884@urcmac.edu.mx,garciagloria884
+Valeria ,Arely,Garcia,Sanchez,Mujer,29,1994-01-08,GASV940108MUJERDFGA87N,885,5,valeria garcia885@urcmac.edu.mx,garciavaleria 885
+Valeria,Elizabeth,Rubio,Estrada,Mujer,26,1997-01-07,RUEV970107MUJERDFRU46Q,886,4,valeriarubio886@urcmac.edu.mx,rubiovaleria886
+Carmen,,Rubio,Estrada,Mujer,27,1996-01-08,RUEC960108MUJERDFRU21I,887,2,carmenrubio887@urcmac.edu.mx,rubiocarmen887
+Valeria ,Arely,Garcia,Hernandez,Mujer,27,1996-01-08,GAHV960108MUJERDFGA87H,888,3,valeria garcia888@urcmac.edu.mx,garciavaleria 888
+Carmen,Elizabeth,Tolentino,Estrada,Mujer,25,1998-01-07,TOEC980107MUJERDFTO43U,889,5,carmentolentino889@urcmac.edu.mx,tolentinocarmen889
+Valeria,Elizabeth,Rubio,Sanchez,Mujer,22,2001-01-06,RUSV010106MUJERDFRU50L,890,5,valeriarubio890@urcmac.edu.mx,rubiovaleria890
+Carmen,,Rubio,Sanchez,Mujer,30,1993-01-08,RUSC930108MUJERDFRU20O,891,1,carmenrubio891@urcmac.edu.mx,rubiocarmen891
+Laura,Arely,Garcia,Estrada,Mujer,20,2003-01-06,GAEL030106MUJERDFGA82S,892,1,lauragarcia892@urcmac.edu.mx,garcialaura892
+Carmen,Elizabeth,Tolentino,Sanchez,Mujer,24,1999-01-07,TOSC990107MUJERDFTO95I,893,5,carmentolentino893@urcmac.edu.mx,tolentinocarmen893
+Carmen,Elizabeth,Salazar,Estrada,Mujer,25,1998-01-07,SAEC980107MUJERDFSA80E,894,4,carmensalazar894@urcmac.edu.mx,salazarcarmen894
+Valeria ,,Ruiz,Estrada,Mujer,23,2000-01-07,RUEV000107MUJERDFRU22G,895,4,valeria ruiz895@urcmac.edu.mx,ruizvaleria 895
+Valeria,Elizabeth,Rubio,Hernandez,Mujer,30,1993-01-08,RUHV930108MUJERDFRU50Y,896,2,valeriarubio896@urcmac.edu.mx,rubiovaleria896
+Carmen,,Rubio,Hernandez,Mujer,26,1997-01-07,RUHC970107MUJERDFRU30Y,897,1,carmenrubio897@urcmac.edu.mx,rubiocarmen897
+Carmen,Elizabeth,Tolentino,Hernandez,Mujer,29,1994-01-08,TOHC940108MUJERDFTO88C,898,4,carmentolentino898@urcmac.edu.mx,tolentinocarmen898
+Carmen,Elizabeth,Salazar,Sanchez,Mujer,22,2001-01-06,SASC010106MUJERDFSA28F,899,2,carmensalazar899@urcmac.edu.mx,salazarcarmen899
+Valeria ,,Ruiz,Sanchez,Mujer,25,1998-01-07,RUSV980107MUJERDFRU85S,900,2,valeria ruiz900@urcmac.edu.mx,ruizvaleria 900
+Gloria,Urania,Garcia,Espinosa,Mujer,28,1995-01-08,GAEG950108MUJERDFGA63M,901,2,gloriagarcia901@urcmac.edu.mx,garciagloria901
+Gloria,,Rubio,Martinez,Mujer,20,2003-01-06,RUMG030106MUJERDFRU57O,902,4,gloriarubio902@urcmac.edu.mx,rubiogloria902
+Valeria,Elizabeth,Garcia,Sanchez,Mujer,22,2001-01-06,GASV010106MUJERDFGA57B,903,1,valeriagarcia903@urcmac.edu.mx,garciavaleria903
+Valeria,Arely,Garcia,Estrada,Mujer,27,1996-01-08,GAEV960108MUJERDFGA99R,904,2,valeriagarcia904@urcmac.edu.mx,garciavaleria904
+Carmen,Elizabeth,Salazar,Hernandez,Mujer,23,2000-01-07,SAHC000107MUJERDFSA90J,905,4,carmensalazar905@urcmac.edu.mx,salazarcarmen905
+Gloria,Urania,Ruiz,Estrada,Mujer,21,2002-01-06,RUEG020106MUJERDFRU51E,906,2,gloriaruiz906@urcmac.edu.mx,ruizgloria906
+Valeria ,,Ruiz,Hernandez,Mujer,28,1995-01-08,RUHV950108MUJERDFRU70V,907,3,valeria ruiz907@urcmac.edu.mx,ruizvaleria 907
+Laura,,Ruiz,Martinez,Mujer,28,1995-01-08,RUML950108MUJERDFRU32W,908,2,lauraruiz908@urcmac.edu.mx,ruizlaura908
+Valeria,Arely,Garcia,Sanchez,Mujer,22,2001-01-06,GASV010106MUJERDFGA50C,909,5,valeriagarcia909@urcmac.edu.mx,garciavaleria909
+Valeria ,Arely,Garcia,Espinosa,Mujer,25,1998-01-07,GAEV980107MUJERDFGA73C,910,3,valeria garcia910@urcmac.edu.mx,garciavaleria 910
+Valeria ,Urania,Rubio,Martinez,Mujer,26,1997-01-07,RUMV970107MUJERDFRU68T,911,1,valeria rubio911@urcmac.edu.mx,rubiovaleria 911
+Gloria,Urania,Ruiz,Sanchez,Mujer,22,2001-01-06,RUSG010106MUJERDFRU20M,912,3,gloriaruiz912@urcmac.edu.mx,ruizgloria912
+Gloria,,Garcia,Martinez,Mujer,30,1993-01-08,GAMG930108MUJERDFGA31O,913,3,gloriagarcia913@urcmac.edu.mx,garciagloria913
+Valeria ,Arely,Rubio,Martinez,Mujer,22,2001-01-06,RUMV010106MUJERDFRU67F,914,1,valeria rubio914@urcmac.edu.mx,rubiovaleria 914
+Valeria,Urania,Ruiz,Martinez,Mujer,26,1997-01-07,RUMV970107MUJERDFRU16G,915,3,valeriaruiz915@urcmac.edu.mx,ruizvaleria915
+Valeria,Arely,Garcia,Hernandez,Mujer,20,2003-01-06,GAHV030106MUJERDFGA44J,916,1,valeriagarcia916@urcmac.edu.mx,garciavaleria916
+Gloria,Urania,Ruiz,Hernandez,Mujer,22,2001-01-06,RUHG010106MUJERDFRU98L,917,5,gloriaruiz917@urcmac.edu.mx,ruizgloria917
+Valeria ,,Garcia,Martinez,Mujer,24,1999-01-07,GAMV990107MUJERDFGA19B,918,3,valeria garcia918@urcmac.edu.mx,garciavaleria 918
+Valeria,Urania,Tolentino,Estrada,Mujer,30,1993-01-08,TOEV930108MUJERDFTO87V,919,4,valeriatolentino919@urcmac.edu.mx,tolentinovaleria919
+Valeria,Elizabeth,Rubio,Espinosa,Mujer,28,1995-01-08,RUEV950108MUJERDFRU39E,920,5,valeriarubio920@urcmac.edu.mx,rubiovaleria920
+Carmen,,Rubio,Espinosa,Mujer,22,2001-01-06,RUEC010106MUJERDFRU34U,921,1,carmenrubio921@urcmac.edu.mx,rubiocarmen921
+Carmen,Elizabeth,Tolentino,Espinosa,Mujer,23,2000-01-07,TOEC000107MUJERDFTO51V,922,4,carmentolentino922@urcmac.edu.mx,tolentinocarmen922
+Valeria ,Urania,Garcia,Martinez,Mujer,27,1996-01-08,GAMV960108MUJERDFGA26Z,923,1,valeria garcia923@urcmac.edu.mx,garciavaleria 923
+Valeria,Urania,Tolentino,Sanchez,Mujer,28,1995-01-08,TOSV950108MUJERDFTO72S,924,4,valeriatolentino924@urcmac.edu.mx,tolentinovaleria924
+Valeria,Urania,Salazar,Estrada,Mujer,30,1993-01-08,SAEV930108MUJERDFSA43C,925,5,valeriasalazar925@urcmac.edu.mx,salazarvaleria925
+Carmen,Elizabeth,Salazar,Espinosa,Mujer,20,2003-01-06,SAEC030106MUJERDFSA49E,926,3,carmensalazar926@urcmac.edu.mx,salazarcarmen926
+Valeria ,,Ruiz,Espinosa,Mujer,24,1999-01-07,RUEV990107MUJERDFRU28G,927,3,valeria ruiz927@urcmac.edu.mx,ruizvaleria 927
+Valeria,Urania,Tolentino,Hernandez,Mujer,21,2002-01-06,TOHV020106MUJERDFTO47H,928,1,valeriatolentino928@urcmac.edu.mx,tolentinovaleria928
+Carmen,Urania,Garcia,Estrada,Mujer,23,2000-01-07,GAEC000107MUJERDFGA32N,929,4,carmengarcia929@urcmac.edu.mx,garciacarmen929
+Laura,Urania,Rubio,Sanchez,Mujer,30,1993-01-08,RUSL930108MUJERDFRU12S,930,5,laurarubio930@urcmac.edu.mx,rubiolaura930
+Valeria,Urania,Salazar,Sanchez,Mujer,20,2003-01-06,SASV030106MUJERDFSA50T,931,4,valeriasalazar931@urcmac.edu.mx,salazarvaleria931
+Carmen,,Garcia,Estrada,Mujer,25,1998-01-07,GAEC980107MUJERDFGA71Z,932,5,carmengarcia932@urcmac.edu.mx,garciacarmen932
+Valeria,Urania,Salazar,Hernandez,Mujer,22,2001-01-06,SAHV010106MUJERDFSA74M,933,4,valeriasalazar933@urcmac.edu.mx,salazarvaleria933
+Valeria,Arely,Garcia,Espinosa,Mujer,20,2003-01-06,GAEV030106MUJERDFGA59W,934,2,valeriagarcia934@urcmac.edu.mx,garciavaleria934
+Gloria,Urania,Ruiz,Espinosa,Mujer,30,1993-01-08,RUEG930108MUJERDFRU92F,935,2,gloriaruiz935@urcmac.edu.mx,ruizgloria935
+Valeria,Arely,Rubio,Martinez,Mujer,23,2000-01-07,RUMV000107MUJERDFRU30J,936,3,valeriarubio936@urcmac.edu.mx,rubiovaleria936
+Gloria,,Ruiz,Estrada,Mujer,26,1997-01-07,RUEG970107MUJERDFRU42B,937,5,gloriaruiz937@urcmac.edu.mx,ruizgloria937
+Carmen,,Garcia,Sanchez,Mujer,24,1999-01-07,GASC990107MUJERDFGA91W,938,1,carmengarcia938@urcmac.edu.mx,garciacarmen938
+Carmen,Urania,Garcia,Hernandez,Mujer,24,1999-01-07,GAHC990107MUJERDFGA27L,939,4,carmengarcia939@urcmac.edu.mx,garciacarmen939
+Gloria,,Ruiz,Sanchez,Mujer,20,2003-01-06,RUSG030106MUJERDFRU58N,940,3,gloriaruiz940@urcmac.edu.mx,ruizgloria940
+Carmen,,Garcia,Hernandez,Mujer,24,1999-01-07,GAHC990107MUJERDFGA93X,941,1,carmengarcia941@urcmac.edu.mx,garciacarmen941
+Carmen,Arely,Rubio,Sanchez,Mujer,29,1994-01-08,RUSC940108MUJERDFRU80F,942,4,carmenrubio942@urcmac.edu.mx,rubiocarmen942
+Valeria ,Urania,Ruiz,Estrada,Mujer,22,2001-01-06,RUEV010106MUJERDFRU75G,943,2,valeria ruiz943@urcmac.edu.mx,ruizvaleria 943
+Gloria,,Ruiz,Hernandez,Mujer,30,1993-01-08,RUHG930108MUJERDFRU25J,944,4,gloriaruiz944@urcmac.edu.mx,ruizgloria944
+Valeria ,Arely,Ruiz,Estrada,Mujer,28,1995-01-08,RUEV950108MUJERDFRU80Q,945,2,valeria ruiz945@urcmac.edu.mx,ruizvaleria 945
+Valeria,Urania,Tolentino,Espinosa,Mujer,28,1995-01-08,TOEV950108MUJERDFTO78V,946,5,valeriatolentino946@urcmac.edu.mx,tolentinovaleria946
+Carmen,Arely,Rubio,Hernandez,Mujer,21,2002-01-06,RUHC020106MUJERDFRU67D,947,1,carmenrubio947@urcmac.edu.mx,rubiocarmen947
+Valeria ,Urania,Ruiz,Sanchez,Mujer,24,1999-01-07,RUSV990107MUJERDFRU80E,948,3,valeria ruiz948@urcmac.edu.mx,ruizvaleria 948
+Valeria ,Arely,Ruiz,Sanchez,Mujer,21,2002-01-06,RUSV020106MUJERDFRU36P,949,1,valeria ruiz949@urcmac.edu.mx,ruizvaleria 949
+Valeria,Urania,Salazar,Espinosa,Mujer,22,2001-01-06,SAEV010106MUJERDFSA93A,950,1,valeriasalazar950@urcmac.edu.mx,salazarvaleria950
+Valeria ,Urania,Ruiz,Hernandez,Mujer,23,2000-01-07,RUHV000107MUJERDFRU78E,951,4,valeria ruiz951@urcmac.edu.mx,ruizvaleria 951
+Valeria ,Arely,Ruiz,Hernandez,Mujer,28,1995-01-08,RUHV950108MUJERDFRU46W,952,2,valeria ruiz952@urcmac.edu.mx,ruizvaleria 952
+Laura,,Tolentino,Estrada,Mujer,29,1994-01-08,TOEL940108MUJERDFTO61N,953,1,lauratolentino953@urcmac.edu.mx,tolentinolaura953
+Carmen,Urania,Garcia,Espinosa,Mujer,24,1999-01-07,GAEC990107MUJERDFGA90K,954,5,carmengarcia954@urcmac.edu.mx,garciacarmen954
+Laura,Urania,Salazar,Estrada,Mujer,26,1997-01-07,SAEL970107MUJERDFSA91S,955,3,laurasalazar955@urcmac.edu.mx,salazarlaura955
+Gloria,Urania,Garcia,Martinez,Mujer,28,1995-01-08,GAMG950108MUJERDFGA87P,956,5,gloriagarcia956@urcmac.edu.mx,garciagloria956
+Laura,,Tolentino,Sanchez,Mujer,22,2001-01-06,TOSL010106MUJERDFTO59H,957,5,lauratolentino957@urcmac.edu.mx,tolentinolaura957
+Carmen,,Garcia,Espinosa,Mujer,21,2002-01-06,GAEC020106MUJERDFGA18Q,958,2,carmengarcia958@urcmac.edu.mx,garciacarmen958
+Laura,,Salazar,Estrada,Mujer,27,1996-01-08,SAEL960108MUJERDFSA35R,959,2,laurasalazar959@urcmac.edu.mx,salazarlaura959
+Laura,Urania,Salazar,Sanchez,Mujer,21,2002-01-06,SASL020106MUJERDFSA25U,960,5,laurasalazar960@urcmac.edu.mx,salazarlaura960
+Laura,Elizabeth,Rubio,Martinez,Mujer,27,1996-01-08,RUML960108MUJERDFRU24J,961,4,laurarubio961@urcmac.edu.mx,rubiolaura961
+Laura,,Tolentino,Hernandez,Mujer,20,2003-01-06,TOHL030106MUJERDFTO26J,962,5,lauratolentino962@urcmac.edu.mx,tolentinolaura962
+Valeria,Elizabeth,Salazar,Martinez,Mujer,24,1999-01-07,SAMV990107MUJERDFSA27F,963,3,valeriasalazar963@urcmac.edu.mx,salazarvaleria963
+Gloria,,Ruiz,Espinosa,Mujer,21,2002-01-06,RUEG020106MUJERDFRU73X,964,1,gloriaruiz964@urcmac.edu.mx,ruizgloria964
+Laura,,Salazar,Sanchez,Mujer,27,1996-01-08,SASL960108MUJERDFSA63R,965,4,laurasalazar965@urcmac.edu.mx,salazarlaura965
+Laura,Urania,Salazar,Hernandez,Mujer,30,1993-01-08,SAHL930108MUJERDFSA60T,966,2,laurasalazar966@urcmac.edu.mx,salazarlaura966
+Carmen,,Salazar,Martinez,Mujer,26,1997-01-07,SAMC970107MUJERDFSA43T,967,5,carmensalazar967@urcmac.edu.mx,salazarcarmen967
+Valeria ,Arely,Garcia,Martinez,Mujer,22,2001-01-06,GAMV010106MUJERDFGA81Z,968,4,valeria garcia968@urcmac.edu.mx,garciavaleria 968
+Laura,Arely,Rubio,Martinez,Mujer,30,1993-01-08,RUML930108MUJERDFRU38R,969,4,laurarubio969@urcmac.edu.mx,rubiolaura969
+Laura,,Salazar,Hernandez,Mujer,27,1996-01-08,SAHL960108MUJERDFSA75B,970,4,laurasalazar970@urcmac.edu.mx,salazarlaura970
+Carmen,Arely,Salazar,Estrada,Mujer,26,1997-01-07,SAEC970107MUJERDFSA95Y,971,1,carmensalazar971@urcmac.edu.mx,salazarcarmen971
+Valeria ,Urania,Ruiz,Espinosa,Mujer,25,1998-01-07,RUEV980107MUJERDFRU53G,972,4,valeria ruiz972@urcmac.edu.mx,ruizvaleria 972
+Valeria ,Arely,Ruiz,Espinosa,Mujer,30,1993-01-08,RUEV930108MUJERDFRU37G,973,5,valeria ruiz973@urcmac.edu.mx,ruizvaleria 973
+Carmen,Elizabeth,Tolentino,Martinez,Mujer,20,2003-01-06,TOMC030106MUJERDFTO97P,974,2,carmentolentino974@urcmac.edu.mx,tolentinocarmen974
+Gloria,Arely,Rubio,Sanchez,Mujer,26,1997-01-07,RUSG970107MUJERDFRU26O,975,3,gloriarubio975@urcmac.edu.mx,rubiogloria975
+Laura,Arely,Garcia,Martinez,Mujer,26,1997-01-07,GAML970107MUJERDFGA19B,976,4,lauragarcia976@urcmac.edu.mx,garcialaura976
+Carmen,Arely,Salazar,Hernandez,Mujer,22,2001-01-06,SAHC010106MUJERDFSA83D,977,5,carmensalazar977@urcmac.edu.mx,salazarcarmen977
+Carmen,Elizabeth,Salazar,Martinez,Mujer,24,1999-01-07,SAMC990107MUJERDFSA65U,978,3,carmensalazar978@urcmac.edu.mx,salazarcarmen978
+Gloria,Arely,Rubio,Hernandez,Mujer,24,1999-01-07,RUHG990107MUJERDFRU18F,979,3,gloriarubio979@urcmac.edu.mx,rubiogloria979
+Valeria ,,Ruiz,Martinez,Mujer,20,2003-01-06,RUMV030106MUJERDFRU32W,980,1,valeria ruiz980@urcmac.edu.mx,ruizvaleria 980
+Laura,,Tolentino,Espinosa,Mujer,27,1996-01-08,TOEL960108MUJERDFTO79P,981,4,lauratolentino981@urcmac.edu.mx,tolentinolaura981
+Laura,Urania,Salazar,Espinosa,Mujer,22,2001-01-06,SAEL010106MUJERDFSA44R,982,1,laurasalazar982@urcmac.edu.mx,salazarlaura982
+Laura,,Salazar,Espinosa,Mujer,26,1997-01-07,SAEL970107MUJERDFSA50V,983,2,laurasalazar983@urcmac.edu.mx,salazarlaura983
+Valeria,,Rubio,Martinez,Mujer,29,1994-01-08,RUMV940108MUJERDFRU15L,984,4,valeriarubio984@urcmac.edu.mx,rubiovaleria984
+Gloria,Urania,Ruiz,Martinez,Mujer,23,2000-01-07,RUMG000107MUJERDFRU33Y,985,2,gloriaruiz985@urcmac.edu.mx,ruizgloria985
+Carmen,Urania,Ruiz,Estrada,Mujer,30,1993-01-08,RUEC930108MUJERDFRU46Z,986,1,carmenruiz986@urcmac.edu.mx,ruizcarmen986
+Laura,Elizabeth,Ruiz,Estrada,Mujer,24,1999-01-07,RUEL990107MUJERDFRU74G,987,3,lauraruiz987@urcmac.edu.mx,ruizlaura987
+Valeria,,Garcia,Martinez,Mujer,26,1997-01-07,GAMV970107MUJERDFGA69O,988,1,valeriagarcia988@urcmac.edu.mx,garciavaleria988
+Gloria,Elizabeth,Rubio,Estrada,Mujer,29,1994-01-08,RUEG940108MUJERDFRU94R,989,2,gloriarubio989@urcmac.edu.mx,rubiogloria989
+Carmen,Arely,Salazar,Espinosa,Mujer,21,2002-01-06,SAEC020106MUJERDFSA64V,990,1,carmensalazar990@urcmac.edu.mx,salazarcarmen990
+Gloria,Arely,Rubio,Espinosa,Mujer,29,1994-01-08,RUEG940108MUJERDFRU34K,991,1,gloriarubio991@urcmac.edu.mx,rubiogloria991
+Laura,Elizabeth,Ruiz,Sanchez,Mujer,27,1996-01-08,RUSL960108MUJERDFRU82Q,992,3,lauraruiz992@urcmac.edu.mx,ruizlaura992
+Valeria,Urania,Tolentino,Martinez,Mujer,21,2002-01-06,TOMV020106MUJERDFTO57F,993,3,valeriatolentino993@urcmac.edu.mx,tolentinovaleria993
+Laura,Arely,Ruiz,Estrada,Mujer,22,2001-01-06,RUEL010106MUJERDFRU42R,994,3,lauraruiz994@urcmac.edu.mx,ruizlaura994
+Gloria,Elizabeth,Rubio,Sanchez,Mujer,24,1999-01-07,RUSG990107MUJERDFRU56X,995,5,gloriarubio995@urcmac.edu.mx,rubiogloria995
+Gloria,Arely,Salazar,Estrada,Mujer,20,2003-01-06,SAEG030106MUJERDFSA64R,996,4,gloriasalazar996@urcmac.edu.mx,salazargloria996
+Laura,Elizabeth,Garcia,Martinez,Mujer,25,1998-01-07,GAML980107MUJERDFGA85Z,997,5,lauragarcia997@urcmac.edu.mx,garcialaura997
+Laura,Elizabeth,Ruiz,Hernandez,Mujer,20,2003-01-06,RUHL030106MUJERDFRU62C,998,4,lauraruiz998@urcmac.edu.mx,ruizlaura998
+Laura,Arely,Ruiz,Sanchez,Mujer,21,2002-01-06,RUSL020106MUJERDFRU51J,999,5,lauraruiz999@urcmac.edu.mx,ruizlaura999
+Gloria,Elizabeth,Rubio,Hernandez,Mujer,26,1997-01-07,RUHG970107MUJERDFRU82O,1000,2,gloriarubio1000@urcmac.edu.mx,rubiogloria1000
+Laura,Arely,Ruiz,Hernandez,Mujer,22,2001-01-06,RUHL010106MUJERDFRU37L,1001,2,lauraruiz1001@urcmac.edu.mx,ruizlaura1001
+Carmen,Urania,Garcia,Martinez,Mujer,28,1995-01-08,GAMC950108MUJERDFGA42I,1002,2,carmengarcia1002@urcmac.edu.mx,garciacarmen1002
+Gloria,Arely,Salazar,Hernandez,Mujer,24,1999-01-07,SAHG990107MUJERDFSA52H,1003,1,gloriasalazar1003@urcmac.edu.mx,salazargloria1003
+Gloria,,Ruiz,Martinez,Mujer,26,1997-01-07,RUMG970107MUJERDFRU94Y,1004,3,gloriaruiz1004@urcmac.edu.mx,ruizgloria1004
+Valeria,,Ruiz,Estrada,Mujer,27,1996-01-08,RUEV960108MUJERDFRU89A,1005,2,valeriaruiz1005@urcmac.edu.mx,ruizvaleria1005
+Gloria,,Tolentino,Estrada,Mujer,30,1993-01-08,TOEG930108MUJERDFTO35M,1006,3,gloriatolentino1006@urcmac.edu.mx,tolentinogloria1006
+Laura,Elizabeth,Ruiz,Espinosa,Mujer,29,1994-01-08,RUEL940108MUJERDFRU44P,1007,2,lauraruiz1007@urcmac.edu.mx,ruizlaura1007
+Valeria,,Ruiz,Sanchez,Mujer,24,1999-01-07,RUSV990107MUJERDFRU29M,1008,1,valeriaruiz1008@urcmac.edu.mx,ruizvaleria1008
+Valeria ,Urania,Ruiz,Martinez,Mujer,22,2001-01-06,RUMV010106MUJERDFRU87D,1009,2,valeria ruiz1009@urcmac.edu.mx,ruizvaleria 1009
+Gloria,Elizabeth,Rubio,Espinosa,Mujer,22,2001-01-06,RUEG010106MUJERDFRU30K,1010,1,gloriarubio1010@urcmac.edu.mx,rubiogloria1010
+Gloria,,Tolentino,Sanchez,Mujer,25,1998-01-07,TOSG980107MUJERDFTO88D,1011,2,gloriatolentino1011@urcmac.edu.mx,tolentinogloria1011
+Valeria ,Arely,Ruiz,Martinez,Mujer,23,2000-01-07,RUMV000107MUJERDFRU86W,1012,1,valeria ruiz1012@urcmac.edu.mx,ruizvaleria 1012
+Laura,Arely,Ruiz,Espinosa,Mujer,23,2000-01-07,RUEL000107MUJERDFRU91Y,1013,3,lauraruiz1013@urcmac.edu.mx,ruizlaura1013
+Valeria,,Ruiz,Hernandez,Mujer,20,2003-01-06,RUHV030106MUJERDFRU86Y,1014,3,valeriaruiz1014@urcmac.edu.mx,ruizvaleria1014
+Valeria ,Elizabeth,Tolentino,Estrada,Mujer,24,1999-01-07,TOEV990107MUJERDFTO59H,1015,2,valeria tolentino1015@urcmac.edu.mx,tolentinovaleria 1015
+Gloria,,Tolentino,Hernandez,Mujer,27,1996-01-08,TOHG960108MUJERDFTO27W,1016,4,gloriatolentino1016@urcmac.edu.mx,tolentinogloria1016
+Gloria,Arely,Salazar,Espinosa,Mujer,25,1998-01-07,SAEG980107MUJERDFSA28M,1017,1,gloriasalazar1017@urcmac.edu.mx,salazargloria1017
+Valeria ,,Tolentino,Sanchez,Mujer,23,2000-01-07,TOSV000107MUJERDFTO35M,1018,4,valeria tolentino1018@urcmac.edu.mx,tolentinovaleria 1018
+Gloria,,Salazar,Sanchez,Mujer,24,1999-01-07,SASG990107MUJERDFSA59U,1019,5,gloriasalazar1019@urcmac.edu.mx,salazargloria1019
+Valeria ,Elizabeth,Salazar,Estrada,Mujer,29,1994-01-08,SAEV940108MUJERDFSA64I,1020,3,valeria salazar1020@urcmac.edu.mx,salazarvaleria 1020
+Valeria ,,Tolentino,Hernandez,Mujer,26,1997-01-07,TOHV970107MUJERDFTO63O,1021,5,valeria tolentino1021@urcmac.edu.mx,tolentinovaleria 1021
+Gloria,,Salazar,Hernandez,Mujer,20,2003-01-06,SAHG030106MUJERDFSA38K,1022,3,gloriasalazar1022@urcmac.edu.mx,salazargloria1022
+Laura,,Tolentino,Martinez,Mujer,21,2002-01-06,TOML020106MUJERDFTO78Y,1023,2,lauratolentino1023@urcmac.edu.mx,tolentinolaura1023
+Laura,Urania,Salazar,Martinez,Mujer,22,2001-01-06,SAML010106MUJERDFSA27J,1024,1,laurasalazar1024@urcmac.edu.mx,salazarlaura1024
+Valeria ,Elizabeth,Salazar,Sanchez,Mujer,21,2002-01-06,SASV020106MUJERDFSA77M,1025,4,valeria salazar1025@urcmac.edu.mx,salazarvaleria 1025
+Gloria,Urania,Tolentino,Sanchez,Mujer,25,1998-01-07,TOSG980107MUJERDFTO12Y,1026,4,gloriatolentino1026@urcmac.edu.mx,tolentinogloria1026
+Valeria ,Elizabeth,Salazar,Hernandez,Mujer,23,2000-01-07,SAHV000107MUJERDFSA19J,1027,4,valeria salazar1027@urcmac.edu.mx,salazarvaleria 1027
+Valeria,,Ruiz,Espinosa,Mujer,27,1996-01-08,RUEV960108MUJERDFRU15Z,1028,5,valeriaruiz1028@urcmac.edu.mx,ruizvaleria1028
+Gloria,,Tolentino,Espinosa,Mujer,24,1999-01-07,TOEG990107MUJERDFTO23H,1029,3,gloriatolentino1029@urcmac.edu.mx,tolentinogloria1029
+Carmen,Elizabeth,Rubio,Estrada,Mujer,29,1994-01-08,RUEC940108MUJERDFRU29O,1030,5,carmenrubio1030@urcmac.edu.mx,rubiocarmen1030
+Carmen,Arely,Salazar,Martinez,Mujer,21,2002-01-06,SAMC020106MUJERDFSA85P,1031,2,carmensalazar1031@urcmac.edu.mx,salazarcarmen1031
+Carmen,Elizabeth,Rubio,Sanchez,Mujer,21,2002-01-06,RUSC020106MUJERDFRU44C,1032,5,carmenrubio1032@urcmac.edu.mx,rubiocarmen1032
+Gloria,,Salazar,Espinosa,Mujer,27,1996-01-08,SAEG960108MUJERDFSA64H,1033,2,gloriasalazar1033@urcmac.edu.mx,salazargloria1033
+Valeria ,Elizabeth,Tolentino,Espinosa,Mujer,28,1995-01-08,TOEV950108MUJERDFTO43V,1034,3,valeria tolentino1034@urcmac.edu.mx,tolentinovaleria 1034
+Carmen,Elizabeth,Rubio,Hernandez,Mujer,25,1998-01-07,RUHC980107MUJERDFRU12Z,1035,1,carmenrubio1035@urcmac.edu.mx,rubiocarmen1035
+Valeria ,Elizabeth,Salazar,Espinosa,Mujer,24,1999-01-07,SAEV990107MUJERDFSA50J,1036,3,valeria salazar1036@urcmac.edu.mx,salazarvaleria 1036
+Carmen,Urania,Ruiz,Martinez,Mujer,21,2002-01-06,RUMC020106MUJERDFRU29Q,1037,1,carmenruiz1037@urcmac.edu.mx,ruizcarmen1037
+Valeria,Urania,Rubio,Estrada,Mujer,30,1993-01-08,RUEV930108MUJERDFRU44M,1038,4,valeriarubio1038@urcmac.edu.mx,rubiovaleria1038
+Valeria ,Urania,Tolentino,Sanchez,Mujer,23,2000-01-07,TOSV000107MUJERDFTO53H,1039,3,valeria tolentino1039@urcmac.edu.mx,tolentinovaleria 1039
+Laura,Elizabeth,Ruiz,Martinez,Mujer,29,1994-01-08,RUML940108MUJERDFRU93H,1040,5,lauraruiz1040@urcmac.edu.mx,ruizlaura1040
+Carmen,Elizabeth,Rubio,Espinosa,Mujer,26,1997-01-07,RUEC970107MUJERDFRU56Q,1041,5,carmenrubio1041@urcmac.edu.mx,rubiocarmen1041
+Valeria,Urania,Rubio,Sanchez,Mujer,24,1999-01-07,RUSV990107MUJERDFRU86A,1042,5,valeriarubio1042@urcmac.edu.mx,rubiovaleria1042
+Gloria,Arely,Tolentino,Martinez,Mujer,29,1994-01-08,TOMG940108MUJERDFTO79R,1043,5,gloriatolentino1043@urcmac.edu.mx,tolentinogloria1043
+Laura,Arely,Ruiz,Martinez,Mujer,23,2000-01-07,RUML000107MUJERDFRU11Y,1044,1,lauraruiz1044@urcmac.edu.mx,ruizlaura1044
+Valeria,Elizabeth,Garcia,Estrada,Mujer,28,1995-01-08,GAEV950108MUJERDFGA20C,1045,4,valeriagarcia1045@urcmac.edu.mx,garciavaleria1045
+Valeria,Urania,Rubio,Hernandez,Mujer,28,1995-01-08,RUHV950108MUJERDFRU11F,1046,3,valeriarubio1046@urcmac.edu.mx,rubiovaleria1046
+Gloria,Arely,Salazar,Martinez,Mujer,29,1994-01-08,SAMG940108MUJERDFSA70N,1047,5,gloriasalazar1047@urcmac.edu.mx,salazargloria1047
+Laura,Arely,Tolentino,Estrada,Mujer,30,1993-01-08,TOEL930108MUJERDFTO47D,1048,1,lauratolentino1048@urcmac.edu.mx,tolentinolaura1048
+Laura,Arely,Tolentino,Sanchez,Mujer,30,1993-01-08,TOSL930108MUJERDFTO48Q,1049,1,lauratolentino1049@urcmac.edu.mx,tolentinolaura1049
+Valeria,Elizabeth,Garcia,Hernandez,Mujer,26,1997-01-07,GAHV970107MUJERDFGA67E,1050,1,valeriagarcia1050@urcmac.edu.mx,garciavaleria1050
+Laura,Arely,Tolentino,Hernandez,Mujer,24,1999-01-07,TOHL990107MUJERDFTO22X,1051,1,lauratolentino1051@urcmac.edu.mx,tolentinolaura1051
+Carmen,Elizabeth,Garcia,Estrada,Mujer,22,2001-01-06,GAEC010106MUJERDFGA10U,1052,1,carmengarcia1052@urcmac.edu.mx,garciacarmen1052
+Valeria,,Ruiz,Martinez,Mujer,23,2000-01-07,RUMV000107MUJERDFRU47A,1053,4,valeriaruiz1053@urcmac.edu.mx,ruizvaleria1053
+Valeria,Urania,Rubio,Espinosa,Mujer,24,1999-01-07,RUEV990107MUJERDFRU46T,1054,4,valeriarubio1054@urcmac.edu.mx,rubiovaleria1054
+Carmen,Elizabeth,Garcia,Sanchez,Mujer,26,1997-01-07,GASC970107MUJERDFGA55N,1055,5,carmengarcia1055@urcmac.edu.mx,garciacarmen1055
+Gloria,Elizabeth,Tolentino,Martinez,Mujer,26,1997-01-07,TOMG970107MUJERDFTO71H,1056,4,gloriatolentino1056@urcmac.edu.mx,tolentinogloria1056
+Laura,Urania,Rubio,Estrada,Mujer,21,2002-01-06,RUEL020106MUJERDFRU84C,1057,2,laurarubio1057@urcmac.edu.mx,rubiolaura1057
+Carmen,Elizabeth,Garcia,Hernandez,Mujer,29,1994-01-08,GAHC940108MUJERDFGA18Z,1058,3,carmengarcia1058@urcmac.edu.mx,garciacarmen1058
+Valeria ,Elizabeth,Tolentino,Martinez,Mujer,20,2003-01-06,TOMV030106MUJERDFTO75V,1059,5,valeria tolentino1059@urcmac.edu.mx,tolentinovaleria 1059
+Valeria,Elizabeth,Garcia,Espinosa,Mujer,25,1998-01-07,GAEV980107MUJERDFGA91D,1060,3,valeriagarcia1060@urcmac.edu.mx,garciavaleria1060
+Laura,,Rubio,Estrada,Mujer,29,1994-01-08,RUEL940108MUJERDFRU86V,1061,1,laurarubio1061@urcmac.edu.mx,rubiolaura1061
+Gloria,Elizabeth,Salazar,Martinez,Mujer,29,1994-01-08,SAMG940108MUJERDFSA29B,1062,3,gloriasalazar1062@urcmac.edu.mx,salazargloria1062
+Laura,Arely,Tolentino,Espinosa,Mujer,23,2000-01-07,TOEL000107MUJERDFTO88Q,1063,5,lauratolentino1063@urcmac.edu.mx,tolentinolaura1063
+Laura,,Rubio,Sanchez,Mujer,20,2003-01-06,RUSL030106MUJERDFRU10M,1064,3,laurarubio1064@urcmac.edu.mx,rubiolaura1064
+Laura,Urania,Rubio,Hernandez,Mujer,22,2001-01-06,RUHL010106MUJERDFRU14Z,1065,5,laurarubio1065@urcmac.edu.mx,rubiolaura1065
+Laura,Urania,Garcia,Estrada,Mujer,20,2003-01-06,GAEL030106MUJERDFGA88L,1066,2,lauragarcia1066@urcmac.edu.mx,garcialaura1066
+Valeria ,Elizabeth,Salazar,Martinez,Mujer,23,2000-01-07,SAMV000107MUJERDFSA81L,1067,2,valeria salazar1067@urcmac.edu.mx,salazarvaleria 1067
+Carmen,Urania,Tolentino,Estrada,Mujer,30,1993-01-08,TOEC930108MUJERDFTO68D,1068,3,carmentolentino1068@urcmac.edu.mx,tolentinocarmen1068
+Laura,,Rubio,Hernandez,Mujer,24,1999-01-07,RUHL990107MUJERDFRU30Z,1069,5,laurarubio1069@urcmac.edu.mx,rubiolaura1069
+Laura,Urania,Garcia,Sanchez,Mujer,30,1993-01-08,GASL930108MUJERDFGA63Z,1070,5,lauragarcia1070@urcmac.edu.mx,garcialaura1070
+Carmen,Arely,Rubio,Estrada,Mujer,22,2001-01-06,RUEC010106MUJERDFRU12Y,1071,3,carmenrubio1071@urcmac.edu.mx,rubiocarmen1071
+Carmen,Urania,Tolentino,Sanchez,Mujer,25,1998-01-07,TOSC980107MUJERDFTO38J,1072,5,carmentolentino1072@urcmac.edu.mx,tolentinocarmen1072
+Laura,Elizabeth,Tolentino,Estrada,Mujer,23,2000-01-07,TOEL000107MUJERDFTO52U,1073,1,lauratolentino1073@urcmac.edu.mx,tolentinolaura1073
+Carmen,Urania,Salazar,Estrada,Mujer,24,1999-01-07,SAEC990107MUJERDFSA20E,1074,4,carmensalazar1074@urcmac.edu.mx,salazarcarmen1074
+Laura,Urania,Garcia,Hernandez,Mujer,24,1999-01-07,GAHL990107MUJERDFGA11M,1075,2,lauragarcia1075@urcmac.edu.mx,garcialaura1075
+Carmen,Urania,Tolentino,Hernandez,Mujer,23,2000-01-07,TOHC000107MUJERDFTO34V,1076,1,carmentolentino1076@urcmac.edu.mx,tolentinocarmen1076
+Laura,Elizabeth,Tolentino,Sanchez,Mujer,28,1995-01-08,TOSL950108MUJERDFTO58P,1077,3,lauratolentino1077@urcmac.edu.mx,tolentinolaura1077
+Carmen,Elizabeth,Garcia,Espinosa,Mujer,21,2002-01-06,GAEC020106MUJERDFGA55B,1078,1,carmengarcia1078@urcmac.edu.mx,garciacarmen1078
+Carmen,Urania,Salazar,Sanchez,Mujer,29,1994-01-08,SASC940108MUJERDFSA95G,1079,2,carmensalazar1079@urcmac.edu.mx,salazarcarmen1079
+Carmen,Arely,Garcia,Estrada,Mujer,21,2002-01-06,GAEC020106MUJERDFGA77F,1080,3,carmengarcia1080@urcmac.edu.mx,garciacarmen1080
+Carmen,Elizabeth,Rubio,Martinez,Mujer,20,2003-01-06,RUMC030106MUJERDFRU64O,1081,4,carmenrubio1081@urcmac.edu.mx,rubiocarmen1081
+Laura,Elizabeth,Tolentino,Hernandez,Mujer,28,1995-01-08,TOHL950108MUJERDFTO63G,1082,3,lauratolentino1082@urcmac.edu.mx,tolentinolaura1082
+Carmen,Urania,Salazar,Hernandez,Mujer,28,1995-01-08,SAHC950108MUJERDFSA26Y,1083,3,carmensalazar1083@urcmac.edu.mx,salazarcarmen1083
+Laura,Elizabeth,Salazar,Sanchez,Mujer,20,2003-01-06,SASL030106MUJERDFSA98Z,1084,2,laurasalazar1084@urcmac.edu.mx,salazarlaura1084
+Laura,Arely,Salazar,Estrada,Mujer,24,1999-01-07,SAEL990107MUJERDFSA13E,1085,5,laurasalazar1085@urcmac.edu.mx,salazarlaura1085
+Laura,Urania,Rubio,Espinosa,Mujer,25,1998-01-07,RUEL980107MUJERDFRU72M,1086,2,laurarubio1086@urcmac.edu.mx,rubiolaura1086
+Carmen,Arely,Garcia,Sanchez,Mujer,21,2002-01-06,GASC020106MUJERDFGA73K,1087,5,carmengarcia1087@urcmac.edu.mx,garciacarmen1087
+Laura,Arely,Salazar,Sanchez,Mujer,25,1998-01-07,SASL980107MUJERDFSA31X,1088,4,laurasalazar1088@urcmac.edu.mx,salazarlaura1088
+Laura,,Rubio,Espinosa,Mujer,22,2001-01-06,RUEL010106MUJERDFRU24Q,1089,2,laurarubio1089@urcmac.edu.mx,rubiolaura1089
+Carmen,Arely,Garcia,Hernandez,Mujer,22,2001-01-06,GAHC010106MUJERDFGA36N,1090,2,carmengarcia1090@urcmac.edu.mx,garciacarmen1090
+Laura,Arely,Salazar,Hernandez,Mujer,20,2003-01-06,SAHL030106MUJERDFSA19W,1091,1,laurasalazar1091@urcmac.edu.mx,salazarlaura1091
+Laura,Urania,Garcia,Espinosa,Mujer,25,1998-01-07,GAEL980107MUJERDFGA73U,1092,3,lauragarcia1092@urcmac.edu.mx,garcialaura1092
+Carmen,Urania,Tolentino,Espinosa,Mujer,22,2001-01-06,TOEC010106MUJERDFTO37N,1093,3,carmentolentino1093@urcmac.edu.mx,tolentinocarmen1093
+Valeria,,Tolentino,Estrada,Mujer,29,1994-01-08,TOEV940108MUJERDFTO45S,1094,5,valeriatolentino1094@urcmac.edu.mx,tolentinovaleria1094
+Carmen,Arely,Rubio,Espinosa,Mujer,23,2000-01-07,RUEC000107MUJERDFRU36Z,1095,2,carmenrubio1095@urcmac.edu.mx,rubiocarmen1095
+Laura,Elizabeth,Tolentino,Espinosa,Mujer,29,1994-01-08,TOEL940108MUJERDFTO94M,1096,4,lauratolentino1096@urcmac.edu.mx,tolentinolaura1096
+Carmen,Urania,Salazar,Espinosa,Mujer,24,1999-01-07,SAEC990107MUJERDFSA32S,1097,3,carmensalazar1097@urcmac.edu.mx,salazarcarmen1097
+Valeria,,Tolentino,Sanchez,Mujer,25,1998-01-07,TOSV980107MUJERDFTO62F,1098,1,valeriatolentino1098@urcmac.edu.mx,tolentinovaleria1098
+Valeria,,Salazar,Estrada,Mujer,29,1994-01-08,SAEV940108MUJERDFSA51E,1099,3,valeriasalazar1099@urcmac.edu.mx,salazarvaleria1099
+Gloria,Arely,Rubio,Estrada,Mujer,21,2002-01-06,RUEG020106MUJERDFRU55C,1100,2,gloriarubio1100@urcmac.edu.mx,rubiogloria1100
+Valeria,Elizabeth,Rubio,Martinez,Mujer,25,1998-01-07,RUMV980107MUJERDFRU59A,1101,3,valeriarubio1101@urcmac.edu.mx,rubiovaleria1101
+Valeria,,Tolentino,Hernandez,Mujer,29,1994-01-08,TOHV940108MUJERDFTO12E,1102,5,valeriatolentino1102@urcmac.edu.mx,tolentinovaleria1102
+Carmen,,Rubio,Martinez,Mujer,25,1998-01-07,RUMC980107MUJERDFRU80G,1103,4,carmenrubio1103@urcmac.edu.mx,rubiocarmen1103
+Valeria,,Salazar,Sanchez,Mujer,29,1994-01-08,SASV940108MUJERDFSA69P,1104,4,valeriasalazar1104@urcmac.edu.mx,salazarvaleria1104
+Carmen,Arely,Garcia,Espinosa,Mujer,23,2000-01-07,GAEC000107MUJERDFGA46P,1105,3,carmengarcia1105@urcmac.edu.mx,garciacarmen1105
+Laura,Arely,Salazar,Espinosa,Mujer,25,1998-01-07,SAEL980107MUJERDFSA31V,1106,5,laurasalazar1106@urcmac.edu.mx,salazarlaura1106
+Valeria,,Salazar,Hernandez,Mujer,21,2002-01-06,SAHV020106MUJERDFSA93L,1107,2,valeriasalazar1107@urcmac.edu.mx,salazarvaleria1107
+Carmen,Elizabeth,Ruiz,Estrada,Mujer,21,2002-01-06,RUEC020106MUJERDFRU34O,1108,3,carmenruiz1108@urcmac.edu.mx,ruizcarmen1108
+Valeria,Elizabeth,Garcia,Martinez,Mujer,28,1995-01-08,GAMV950108MUJERDFGA45X,1109,5,valeriagarcia1109@urcmac.edu.mx,garciavaleria1109
+Carmen,Elizabeth,Ruiz,Sanchez,Mujer,25,1998-01-07,RUSC980107MUJERDFRU37B,1110,2,carmenruiz1110@urcmac.edu.mx,ruizcarmen1110
+Laura,Arely,Tolentino,Martinez,Mujer,25,1998-01-07,TOML980107MUJERDFTO44R,1111,1,lauratolentino1111@urcmac.edu.mx,tolentinolaura1111
+Valeria,Arely,Garcia,Martinez,Mujer,27,1996-01-08,GAMV960108MUJERDFGA19F,1112,5,valeriagarcia1112@urcmac.edu.mx,garciavaleria1112
+Carmen,Elizabeth,Ruiz,Hernandez,Mujer,30,1993-01-08,RUHC930108MUJERDFRU50M,1113,2,carmenruiz1113@urcmac.edu.mx,ruizcarmen1113
+Valeria,,Tolentino,Espinosa,Mujer,23,2000-01-07,TOEV000107MUJERDFTO28Y,1114,3,valeriatolentino1114@urcmac.edu.mx,tolentinovaleria1114
+Valeria,,Salazar,Espinosa,Mujer,20,2003-01-06,SAEV030106MUJERDFSA23L,1115,4,valeriasalazar1115@urcmac.edu.mx,salazarvaleria1115
+Valeria ,Elizabeth,Rubio,Estrada,Mujer,20,2003-01-06,RUEV030106MUJERDFRU24I,1116,1,valeria rubio1116@urcmac.edu.mx,rubiovaleria 1116
+Valeria,Elizabeth,Ruiz,Estrada,Mujer,28,1995-01-08,RUEV950108MUJERDFRU53Q,1117,3,valeriaruiz1117@urcmac.edu.mx,ruizvaleria1117
+Carmen,,Ruiz,Estrada,Mujer,29,1994-01-08,RUEC940108MUJERDFRU19W,1118,2,carmenruiz1118@urcmac.edu.mx,ruizcarmen1118
+Laura,Urania,Rubio,Martinez,Mujer,26,1997-01-07,RUML970107MUJERDFRU31I,1119,5,laurarubio1119@urcmac.edu.mx,rubiolaura1119
+Valeria,Urania,Salazar,Martinez,Mujer,21,2002-01-06,SAMV020106MUJERDFSA26L,1120,5,valeriasalazar1120@urcmac.edu.mx,salazarvaleria1120
+Valeria ,Elizabeth,Rubio,Sanchez,Mujer,28,1995-01-08,RUSV950108MUJERDFRU76S,1121,1,valeria rubio1121@urcmac.edu.mx,rubiovaleria 1121
+Carmen,Elizabeth,Ruiz,Espinosa,Mujer,27,1996-01-08,RUEC960108MUJERDFRU31Y,1122,4,carmenruiz1122@urcmac.edu.mx,ruizcarmen1122
+Valeria,Elizabeth,Ruiz,Sanchez,Mujer,29,1994-01-08,RUSV940108MUJERDFRU44S,1123,1,valeriaruiz1123@urcmac.edu.mx,ruizvaleria1123
+Carmen,,Ruiz,Sanchez,Mujer,21,2002-01-06,RUSC020106MUJERDFRU54Q,1124,5,carmenruiz1124@urcmac.edu.mx,ruizcarmen1124
+Valeria,Arely,Ruiz,Estrada,Mujer,28,1995-01-08,RUEV950108MUJERDFRU55J,1125,2,valeriaruiz1125@urcmac.edu.mx,ruizvaleria1125
